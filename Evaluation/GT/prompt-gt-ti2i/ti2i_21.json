@@ -1,0 +1,80 @@
+[
+  {
+    "label": "n"
+  },
+  {
+    "label": "n"
+  },
+  {
+    "label": "addnormalize"
+  },
+  {
+    "label": "addnormalize"
+  },
+  {
+    "label": "addnormalize"
+  },
+  {
+    "label": "feedforward"
+  },
+  {
+    "label": "feedforward"
+  },
+  {
+    "label": "feedforward"
+  },
+  {
+    "label": "feedforward"
+  },
+  {
+    "label": "softmax"
+  },
+  {
+    "label": "q"
+  },
+  {
+    "label": "kt"
+  },
+  {
+    "label": "d"
+  },
+  {
+    "label": "+"
+  },
+  {
+    "label": "pemb"
+  },
+  {
+    "label": "amask"
+  },
+  {
+    "label": "auxiliarymatrices"
+  },
+  {
+    "label": "+"
+  },
+  {
+    "label": "padapt"
+  },
+  {
+    "label": "v"
+  },
+  {
+    "label": "thinking"
+  },
+  {
+    "label": "x"
+  },
+  {
+    "label": "learning"
+  },
+  {
+    "label": "x"
+  },
+  {
+    "label": "machines"
+  },
+  {
+    "label": "x"
+  }
+]

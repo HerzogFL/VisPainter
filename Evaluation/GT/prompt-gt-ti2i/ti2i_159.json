@@ -1,0 +1,98 @@
+[
+  {
+    "label": "attack"
+  },
+  {
+    "label": "jailbreak"
+  },
+  {
+    "label": "benignprompt"
+  },
+  {
+    "label": "jailbreakprompt"
+  },
+  {
+    "label": "obfuscatedprompt"
+  },
+  {
+    "label": "normalourput"
+  },
+  {
+    "label": "maliciousoutput"
+  },
+  {
+    "label": "stealthoutput"
+  },
+  {
+    "label": "safeguards"
+  },
+  {
+    "label": "bypassguards"
+  },
+  {
+    "label": "evadedetection"
+  },
+  {
+    "label": "auditfailed"
+  },
+  {
+    "label": "promptinjection"
+  },
+  {
+    "label": "data"
+  },
+  {
+    "label": "data"
+  },
+  {
+    "label": "data"
+  },
+  {
+    "label": "harmfulprompt"
+  },
+  {
+    "label": "data"
+  },
+  {
+    "label": "data"
+  },
+  {
+    "label": "data"
+  },
+  {
+    "label": "poisoneddata"
+  },
+  {
+    "label": "corruptedoutput"
+  },
+  {
+    "label": "threatactor"
+  },
+  {
+    "label": "backdoor"
+  },
+  {
+    "label": "data"
+  },
+  {
+    "label": "benignllm"
+  },
+  {
+    "label": "backdoorllm"
+  },
+  {
+    "label": "querywbackdoor"
+  },
+  {
+    "label": "attacker"
+  },
+  {
+    "label": "maliciousbehaviours"
+  },
+  {
+    "label": "systemcompromised"
+  },
+  {
+    "label": "logtampered"
+  }
+]

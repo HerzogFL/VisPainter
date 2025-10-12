@@ -1,0 +1,50 @@
+[
+  {
+    "label": "input"
+  },
+  {
+    "label": "resnetinitiallayer"
+  },
+  {
+    "label": "attentionlayer"
+  },
+  {
+    "label": "fusionlayer"
+  },
+  {
+    "label": "resnetfinallayer"
+  },
+  {
+    "label": "graphresblock"
+  },
+  {
+    "label": "temporalresblock"
+  },
+  {
+    "label": "crossattentionlayer"
+  },
+  {
+    "label": "normalizationlayer"
+  },
+  {
+    "label": "graphresblock"
+  },
+  {
+    "label": "temporalresblock"
+  },
+  {
+    "label": "denselayer"
+  },
+  {
+    "label": "+"
+  },
+  {
+    "label": "+"
+  },
+  {
+    "label": "mergemodule"
+  },
+  {
+    "label": "output"
+  }
+]

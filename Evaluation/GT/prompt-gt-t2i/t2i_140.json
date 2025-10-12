@@ -1,0 +1,86 @@
+[
+  {
+    "label": "query"
+  },
+  {
+    "label": "timetq"
+  },
+  {
+    "label": "reasoningchains"
+  },
+  {
+    "label": "temporalknowledgegraph"
+  },
+  {
+    "label": "train"
+  },
+  {
+    "label": "temporalencoder"
+  },
+  {
+    "label": "encode"
+  },
+  {
+    "label": "graphembedding"
+  },
+  {
+    "label": "pooling"
+  },
+  {
+    "label": "largelanguagemodels"
+  },
+  {
+    "label": "selfattentionlayers"
+  },
+  {
+    "label": "lora"
+  },
+  {
+    "label": "targetexplanationtokens"
+  },
+  {
+    "label": "targetexplanationtokens"
+  },
+  {
+    "label": "targetexplanationtokens"
+  },
+  {
+    "label": "targetexplanationtokens"
+  },
+  {
+    "label": "llmtextembedder"
+  },
+  {
+    "label": "graphtoken"
+  },
+  {
+    "label": "adapter"
+  },
+  {
+    "label": "instruction"
+  },
+  {
+    "label": "giventhefollowingdocumentisitplausiblethat"
+  },
+  {
+    "label": "querydescriptionwillhappenpleaseanswer"
+  },
+  {
+    "label": "yesnoorunsurethenexplainyourdecision"
+  },
+  {
+    "label": "input"
+  },
+  {
+    "label": "reasoningchainstext"
+  },
+  {
+    "label": "answer"
+  },
+  {
+    "label": "targetexplanationtext"
+  },
+  {
+    "label": "instructtuningprompt"
+  }
+]

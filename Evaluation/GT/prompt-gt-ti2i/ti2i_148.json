@@ -1,0 +1,119 @@
+[
+  {
+    "label": "earlychunking"
+  },
+  {
+    "label": "finegrainedcorpus"
+  },
+  {
+    "label": "retrieval"
+  },
+  {
+    "label": "filtering"
+  },
+  {
+    "label": "merging"
+  },
+  {
+    "label": "rerankoptional"
+  },
+  {
+    "label": "bypassingrerank"
+  },
+  {
+    "label": "usingrelativelycomplexmodels"
+  },
+  {
+    "label": "relativelycomplex"
+  },
+  {
+    "label": "flatretrieval"
+  },
+  {
+    "label": "flatretrieval"
+  },
+  {
+    "label": "finegrainedcorpus"
+  },
+  {
+    "label": "coarsegrainedcorpus"
+  },
+  {
+    "label": "externalcorpus"
+  },
+  {
+    "label": "progressiveretrieval"
+  },
+  {
+    "label": "coarsegrainedcorpus"
+  },
+  {
+    "label": "externalcorpus"
+  },
+  {
+    "label": "auxiliarydata"
+  },
+  {
+    "label": "query"
+  },
+  {
+    "label": "whendidcomputerbecomewidespreadinhomesandschools"
+  },
+  {
+    "label": "whataremajorbreakthroughsinearlyairesearch"
+  },
+  {
+    "label": "howdidnetworkingtechnologyevolveinthe1980s"
+  },
+  {
+    "label": "initialretrieval"
+  },
+  {
+    "label": "metasearch"
+  },
+  {
+    "label": "auxiliaryquery"
+  },
+  {
+    "label": "segmentationalignment"
+  },
+  {
+    "label": "usingrelativelysimplemodels"
+  },
+  {
+    "label": "usingmediumsizemodels"
+  },
+  {
+    "label": "usingrelativelycomplexmodels"
+  },
+  {
+    "label": "preranking"
+  },
+  {
+    "label": "collation"
+  },
+  {
+    "label": "localtoglobal"
+  },
+  {
+    "label": "distillation"
+  },
+  {
+    "label": "distillation"
+  },
+  {
+    "label": "expansion"
+  },
+  {
+    "label": "postranking"
+  },
+  {
+    "label": "laterchunking"
+  },
+  {
+    "label": "userfeedback"
+  },
+  {
+    "label": "progressiveretrieval"
+  }
+]

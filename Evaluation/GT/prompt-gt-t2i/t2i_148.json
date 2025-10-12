@@ -1,0 +1,62 @@
+[
+  {
+    "label": "earlychunking"
+  },
+  {
+    "label": "finegrainedcorpus"
+  },
+  {
+    "label": "retrieval"
+  },
+  {
+    "label": "rerankoptionalusingrelativelycomplexmodels"
+  },
+  {
+    "label": "flatretrieval"
+  },
+  {
+    "label": "coarsegrainedcorpus"
+  },
+  {
+    "label": "query"
+  },
+  {
+    "label": "whendidcomputer"
+  },
+  {
+    "label": "becomewidespreadin"
+  },
+  {
+    "label": "homesandschools"
+  },
+  {
+    "label": "retrieval"
+  },
+  {
+    "label": "segmentation"
+  },
+  {
+    "label": "usingrelativelysimplemodelsusingmediumsizemodelsusingrelativelycomplexmodels"
+  },
+  {
+    "label": "preranking"
+  },
+  {
+    "label": "localtoglobal"
+  },
+  {
+    "label": "distillation"
+  },
+  {
+    "label": "distillation"
+  },
+  {
+    "label": "postranking"
+  },
+  {
+    "label": "laterchunking"
+  },
+  {
+    "label": "progressiveretrieval"
+  }
+]

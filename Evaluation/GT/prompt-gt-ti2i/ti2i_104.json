@@ -1,0 +1,101 @@
+[
+  {
+    "label": "planning"
+  },
+  {
+    "label": "dynamicplanrevise"
+  },
+  {
+    "label": "st"
+  },
+  {
+    "label": "st"
+  },
+  {
+    "label": "st"
+  },
+  {
+    "label": "previoussteps"
+  },
+  {
+    "label": "oldplan"
+  },
+  {
+    "label": "taskgoal"
+  },
+  {
+    "label": "fact"
+  },
+  {
+    "label": "memory"
+  },
+  {
+    "label": "newplan"
+  },
+  {
+    "label": "newplan"
+  },
+  {
+    "label": "implementation"
+  },
+  {
+    "label": "sharing"
+  },
+  {
+    "label": "taskoutputs"
+  },
+  {
+    "label": "steptrigger"
+  },
+  {
+    "label": "subtaskdecompose"
+  },
+  {
+    "label": "complextask"
+  },
+  {
+    "label": "complexityscore"
+  },
+  {
+    "label": "st"
+  },
+  {
+    "label": "st"
+  },
+  {
+    "label": "st"
+  },
+  {
+    "label": "dependencyanalysis"
+  },
+  {
+    "label": "parallelization"
+  },
+  {
+    "label": "st"
+  },
+  {
+    "label": "st"
+  },
+  {
+    "label": "st"
+  },
+  {
+    "label": "concurrentsteps"
+  },
+  {
+    "label": "plantipsdesign"
+  },
+  {
+    "label": "llmoutput"
+  },
+  {
+    "label": "summarizepreviouslog"
+  },
+  {
+    "label": "inspirenextstep"
+  },
+  {
+    "label": "optimizepathway"
+  }
+]

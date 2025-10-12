@@ -1,0 +1,86 @@
+[
+  {
+    "label": "linearattention"
+  },
+  {
+    "label": "inputembedding"
+  },
+  {
+    "label": "inputembedding"
+  },
+  {
+    "label": "inputembedding"
+  },
+  {
+    "label": "datastream"
+  },
+  {
+    "label": "datastream"
+  },
+  {
+    "label": "datastream"
+  },
+  {
+    "label": "linear"
+  },
+  {
+    "label": "linear"
+  },
+  {
+    "label": "linear"
+  },
+  {
+    "label": "q"
+  },
+  {
+    "label": "k"
+  },
+  {
+    "label": "v"
+  },
+  {
+    "label": "relu"
+  },
+  {
+    "label": "relu"
+  },
+  {
+    "label": "matmul"
+  },
+  {
+    "label": "nxd"
+  },
+  {
+    "label": "dxn"
+  },
+  {
+    "label": "matmul"
+  },
+  {
+    "label": "nxd"
+  },
+  {
+    "label": "scale"
+  },
+  {
+    "label": "nxd"
+  },
+  {
+    "label": "mixffn"
+  },
+  {
+    "label": "1x1convlayer"
+  },
+  {
+    "label": "3x3convlayer"
+  },
+  {
+    "label": "relu"
+  },
+  {
+    "label": "1x1convlayer"
+  },
+  {
+    "label": "processedoutput"
+  }
+]

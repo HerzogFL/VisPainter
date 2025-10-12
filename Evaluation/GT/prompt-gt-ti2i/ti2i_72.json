@@ -1,0 +1,104 @@
+[
+  {
+    "label": "sentencelevelselfreflection"
+  },
+  {
+    "label": "ratingpromptrp"
+  },
+  {
+    "label": "ratingpromptrp"
+  },
+  {
+    "label": "ratingpromptrp"
+  },
+  {
+    "label": "ratingpromptrp"
+  },
+  {
+    "label": "ratingpromptrp"
+  },
+  {
+    "label": "ratingpromptrp"
+  },
+  {
+    "label": "ratingpromptrp"
+  },
+  {
+    "label": "assignascorefrom1to5toeachassistantbasedonhowaccuratelytheyfollowtheinputandoutputprovidedensuringthescoreisrepresentedclearly"
+  },
+  {
+    "label": "stoken1113"
+  },
+  {
+    "label": "stoken2238"
+  },
+  {
+    "label": "stoken3177"
+  },
+  {
+    "label": "stoken4142"
+  },
+  {
+    "label": "stoken5201"
+  },
+  {
+    "label": "stoken6156"
+  },
+  {
+    "label": "stoken7169"
+  },
+  {
+    "label": "avg195"
+  },
+  {
+    "label": "std023"
+  },
+  {
+    "label": "median173"
+  },
+  {
+    "label": "eq4"
+  },
+  {
+    "label": "ssenta159"
+  },
+  {
+    "label": "ssentb185"
+  },
+  {
+    "label": "modellevelselfreflection"
+  },
+  {
+    "label": "7b"
+  },
+  {
+    "label": "13b"
+  },
+  {
+    "label": "33b"
+  },
+  {
+    "label": "70b"
+  },
+  {
+    "label": "ssent1159"
+  },
+  {
+    "label": "ssent2213"
+  },
+  {
+    "label": "ssent3189"
+  },
+  {
+    "label": "smodelavg190"
+  },
+  {
+    "label": "smodelmax213"
+  },
+  {
+    "label": "eq5"
+  },
+  {
+    "label": "eq6"
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "label": "user"
+  },
+  {
+    "label": "api"
+  },
+  {
+    "label": "api"
+  },
+  {
+    "label": "authorizedragserviceprovider"
+  },
+  {
+    "label": "generator"
+  },
+  {
+    "label": "retriever"
+  },
+  {
+    "label": "usablebutnotvisible"
+  },
+  {
+    "label": "usablebutnotvisible"
+  },
+  {
+    "label": "knowledgebase"
+  },
+  {
+    "label": "contribute"
+  },
+  {
+    "label": "unauthorizedragserviceprovider"
+  },
+  {
+    "label": "unauthorizedcommercialuse"
+  },
+  {
+    "label": "unauthorizedcommercialuse"
+  },
+  {
+    "label": "dataprovider"
+  },
+  {
+    "label": "watermarkprobequery"
+  },
+  {
+    "label": "authorizeduse"
+  },
+  {
+    "label": "watermarkdetected"
+  },
+  {
+    "label": "watermarkprobequery"
+  },
+  {
+    "label": "unauthorizedcommercialuse"
+  },
+  {
+    "label": "watermarkdetected"
+  },
+  {
+    "label": "usablebutnotvisible"
+  },
+  {
+    "label": "unauthorizedcommercialuse"
+  }
+]

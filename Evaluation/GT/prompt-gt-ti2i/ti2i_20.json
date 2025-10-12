@@ -1,0 +1,92 @@
+[
+  {
+    "label": "1rulebasedapproachgreen"
+  },
+  {
+    "label": "2supervisedmachinered"
+  },
+  {
+    "label": "3generativeaipurple"
+  },
+  {
+    "label": "4ensemblestrategiesblue"
+  },
+  {
+    "label": "rawdatasetcollection"
+  },
+  {
+    "label": "textpreprocessing"
+  },
+  {
+    "label": "structureddatapreprocessing"
+  },
+  {
+    "label": "augmenteddatasources"
+  },
+  {
+    "label": "featurestfidfembeddingssyntax"
+  },
+  {
+    "label": "promptsgeneration"
+  },
+  {
+    "label": "featureengineeringstatisticaltemporal"
+  },
+  {
+    "label": "challengepredictionframework"
+  },
+  {
+    "label": "expertrulesgreenoutline"
+  },
+  {
+    "label": "supervisedclassifierssvmrfxgboostredoutline"
+  },
+  {
+    "label": "largelanguagemodelsgpt4llamapurpleoutline"
+  },
+  {
+    "label": "ensemblemetalearnerblueoutline"
+  },
+  {
+    "label": "ensemblevotingcalibration"
+  },
+  {
+    "label": "interpretabilitymodule"
+  },
+  {
+    "label": "featureimportanceattribution"
+  },
+  {
+    "label": "postprocessingpipeline"
+  },
+  {
+    "label": "thresholding"
+  },
+  {
+    "label": "rulebasedcorrection"
+  },
+  {
+    "label": "humanreview"
+  },
+  {
+    "label": "predictedchallengecategories"
+  },
+  {
+    "label": "cognitive"
+  },
+  {
+    "label": "metacognitive"
+  },
+  {
+    "label": "emotional"
+  },
+  {
+    "label": "motivational"
+  },
+  {
+    "label": "othertechnical"
+  },
+  {
+    "label": "finaloutputchallengesperinstance"
+  }
+]

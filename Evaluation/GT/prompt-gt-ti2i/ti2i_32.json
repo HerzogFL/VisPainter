@@ -1,0 +1,68 @@
+[
+  {
+    "label": "fx"
+  },
+  {
+    "label": "encoder"
+  },
+  {
+    "label": "p"
+  },
+  {
+    "label": "fourierblock1"
+  },
+  {
+    "label": "fourierblock2"
+  },
+  {
+    "label": "fourierblock3"
+  },
+  {
+    "label": "fourierblock4"
+  },
+  {
+    "label": "q"
+  },
+  {
+    "label": "decoder"
+  },
+  {
+    "label": "ux"
+  },
+  {
+    "label": "firstpathfrequencydomainoperation"
+  },
+  {
+    "label": "vx"
+  },
+  {
+    "label": "kv"
+  },
+  {
+    "label": "truncatethehighermodes"
+  },
+  {
+    "label": "r"
+  },
+  {
+    "label": "secondpathchanneldomainoperation"
+  },
+  {
+    "label": "vx"
+  },
+  {
+    "label": "wv"
+  },
+  {
+    "label": "thirdpathnonlinearenhancement"
+  },
+  {
+    "label": "vx"
+  },
+  {
+    "label": "vx"
+  },
+  {
+    "label": "b"
+  }
+]

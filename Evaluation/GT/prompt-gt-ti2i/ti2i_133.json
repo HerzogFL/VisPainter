@@ -1,0 +1,77 @@
+[
+  {
+    "label": "inputdataset"
+  },
+  {
+    "label": "preprocessingandsplitting"
+  },
+  {
+    "label": "grayscale"
+  },
+  {
+    "label": "normalization"
+  },
+  {
+    "label": "robustaugmentation"
+  },
+  {
+    "label": "5foldcrossvalidationbalanceddistr"
+  },
+  {
+    "label": "modelarchitecture"
+  },
+  {
+    "label": "mobilenetv3base"
+  },
+  {
+    "label": "inceptionmodule"
+  },
+  {
+    "label": "triclassoutput"
+  },
+  {
+    "label": "skipconnection"
+  },
+  {
+    "label": "combinationlayer"
+  },
+  {
+    "label": "classifier"
+  },
+  {
+    "label": "trainingsection"
+  },
+  {
+    "label": "crossentropyloss"
+  },
+  {
+    "label": "adamwoptimization"
+  },
+  {
+    "label": "learningratescheduling"
+  },
+  {
+    "label": "weightdecayregularization"
+  },
+  {
+    "label": "explainableaievaluation"
+  },
+  {
+    "label": "gradcamvisual"
+  },
+  {
+    "label": "shapanalysis"
+  },
+  {
+    "label": "debuggingandvalidation"
+  },
+  {
+    "label": "featureimportance"
+  },
+  {
+    "label": "quantitativemetrics"
+  },
+  {
+    "label": "outputresults"
+  }
+]

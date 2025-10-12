@@ -1,0 +1,149 @@
+[
+  {
+    "label": "step2pruningandtrainingloop"
+  },
+  {
+    "label": "block"
+  },
+  {
+    "label": "method"
+  },
+  {
+    "label": "parameters"
+  },
+  {
+    "label": "sablock1"
+  },
+  {
+    "label": "zerosactivation"
+  },
+  {
+    "label": "025"
+  },
+  {
+    "label": "sablock2"
+  },
+  {
+    "label": "activation"
+  },
+  {
+    "label": "040"
+  },
+  {
+    "label": "zeros"
+  },
+  {
+    "label": "activation"
+  },
+  {
+    "label": "entropy"
+  },
+  {
+    "label": "21assignpruningmethodsandparameters"
+  },
+  {
+    "label": "22pruningresults"
+  },
+  {
+    "label": "23sumandlogprobability"
+  },
+  {
+    "label": "23scoremoduledistribution"
+  },
+  {
+    "label": "23highestlowestprobabilitypruning"
+  },
+  {
+    "label": "layer14"
+  },
+  {
+    "label": "sablock12345"
+  },
+  {
+    "label": "pablock12345"
+  },
+  {
+    "label": "eablock12345"
+  },
+  {
+    "label": "layer58"
+  },
+  {
+    "label": "sablock12345"
+  },
+  {
+    "label": "pablock12345"
+  },
+  {
+    "label": "eablock12345"
+  },
+  {
+    "label": "layer916"
+  },
+  {
+    "label": "sablock12345"
+  },
+  {
+    "label": "pablock12345"
+  },
+  {
+    "label": "eablock12345"
+  },
+  {
+    "label": "layer1720"
+  },
+  {
+    "label": "sablock12345"
+  },
+  {
+    "label": "pablock12345"
+  },
+  {
+    "label": "eablock12345"
+  },
+  {
+    "label": "layer2124"
+  },
+  {
+    "label": "sablock12345"
+  },
+  {
+    "label": "pablock12345"
+  },
+  {
+    "label": "eablock12345"
+  },
+  {
+    "label": "initialmodel"
+  },
+  {
+    "label": "partlyprunedmodela"
+  },
+  {
+    "label": "partlyprunedmodelb"
+  },
+  {
+    "label": "finalmodel"
+  },
+  {
+    "label": "prune"
+  },
+  {
+    "label": "retrain"
+  },
+  {
+    "label": "prune"
+  },
+  {
+    "label": "retrain"
+  },
+  {
+    "label": "prune"
+  },
+  {
+    "label": "retrain"
+  },
+  {
+    "label": "24iterativelypruneandretrainuntilmodelsizereachespresetparametercount"
+  }
+]

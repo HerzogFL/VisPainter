@@ -1,0 +1,158 @@
+[
+  {
+    "label": "applicationlibrary33"
+  },
+  {
+    "label": "chatbot"
+  },
+  {
+    "label": "livecaptions"
+  },
+  {
+    "label": "deepresearch"
+  },
+  {
+    "label": "imagegeneration"
+  },
+  {
+    "label": "yaml"
+  },
+  {
+    "label": "json"
+  },
+  {
+    "label": "dagbuilder32"
+  },
+  {
+    "label": "builderconfig"
+  },
+  {
+    "label": "dag"
+  },
+  {
+    "label": "chatsetup"
+  },
+  {
+    "label": "chatexec"
+  },
+  {
+    "label": "ccsetup"
+  },
+  {
+    "label": "ccexec"
+  },
+  {
+    "label": "deepresearchsetup"
+  },
+  {
+    "label": "imgsetup"
+  },
+  {
+    "label": "imgexec"
+  },
+  {
+    "label": "livecaptionsetup"
+  },
+  {
+    "label": "livecaptionexec"
+  },
+  {
+    "label": "chatexec"
+  },
+  {
+    "label": "executionengine32"
+  },
+  {
+    "label": "dagscheduler"
+  },
+  {
+    "label": "resourceorchestrator"
+  },
+  {
+    "label": "securitymanager"
+  },
+  {
+    "label": "executor"
+  },
+  {
+    "label": "systemmonitor"
+  },
+  {
+    "label": "faulthandler"
+  },
+  {
+    "label": "hardwareresources"
+  },
+  {
+    "label": "gpu"
+  },
+  {
+    "label": "cpu"
+  },
+  {
+    "label": "ram"
+  },
+  {
+    "label": "nic"
+  },
+  {
+    "label": "appreport"
+  },
+  {
+    "label": "chatbot"
+  },
+  {
+    "label": "ttft"
+  },
+  {
+    "label": "tpot"
+  },
+  {
+    "label": "sloattain"
+  },
+  {
+    "label": "imagegen"
+  },
+  {
+    "label": "persteptime"
+  },
+  {
+    "label": "sloattain"
+  },
+  {
+    "label": "deepresearch"
+  },
+  {
+    "label": "elapsed"
+  },
+  {
+    "label": "sloattain"
+  },
+  {
+    "label": "livecaptions"
+  },
+  {
+    "label": "latency"
+  },
+  {
+    "label": "sloattain"
+  },
+  {
+    "label": "systemreport"
+  },
+  {
+    "label": "gpuutil"
+  },
+  {
+    "label": "cpuutil"
+  },
+  {
+    "label": "ramutil"
+  },
+  {
+    "label": "nicutil"
+  },
+  {
+    "label": "faults"
+  }
+]

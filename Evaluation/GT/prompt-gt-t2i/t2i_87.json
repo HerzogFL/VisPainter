@@ -1,0 +1,71 @@
+[
+  {
+    "label": "multicriteriaevaluation"
+  },
+  {
+    "label": "executability"
+  },
+  {
+    "label": "worldmodel"
+  },
+  {
+    "label": "executor"
+  },
+  {
+    "label": "correct"
+  },
+  {
+    "label": "wrong"
+  },
+  {
+    "label": "structuralsimilarity"
+  },
+  {
+    "label": "predictedworldmodel"
+  },
+  {
+    "label": "goldenworldmodel"
+  },
+  {
+    "label": "levenshteinratio"
+  },
+  {
+    "label": "structuralsimilarityscore08"
+  },
+  {
+    "label": "componentwisef1"
+  },
+  {
+    "label": "worldmodel"
+  },
+  {
+    "label": "parser"
+  },
+  {
+    "label": "f1score"
+  },
+  {
+    "label": "predicates"
+  },
+  {
+    "label": "parameters"
+  },
+  {
+    "label": "preconditions"
+  },
+  {
+    "label": "effects"
+  },
+  {
+    "label": "08"
+  },
+  {
+    "label": "04"
+  },
+  {
+    "label": "01"
+  },
+  {
+    "label": "07"
+  }
+]

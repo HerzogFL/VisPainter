@@ -1,0 +1,101 @@
+[
+  {
+    "label": "applicationlibrary33"
+  },
+  {
+    "label": "chatbot"
+  },
+  {
+    "label": "livecaptions"
+  },
+  {
+    "label": "deepresearch"
+  },
+  {
+    "label": "imagegeneration"
+  },
+  {
+    "label": "yaml"
+  },
+  {
+    "label": "dagbuilder32"
+  },
+  {
+    "label": "dag"
+  },
+  {
+    "label": "chatsetup"
+  },
+  {
+    "label": "chatexec"
+  },
+  {
+    "label": "imgsetup"
+  },
+  {
+    "label": "ccsetup"
+  },
+  {
+    "label": "imgexec"
+  },
+  {
+    "label": "chatexec"
+  },
+  {
+    "label": "executionengine32"
+  },
+  {
+    "label": "dagscheduler"
+  },
+  {
+    "label": "resourceorchestrator"
+  },
+  {
+    "label": "executor"
+  },
+  {
+    "label": "systemmonitor"
+  },
+  {
+    "label": "hardwareresources"
+  },
+  {
+    "label": "gpu"
+  },
+  {
+    "label": "cpu"
+  },
+  {
+    "label": "ram"
+  },
+  {
+    "label": "appreport"
+  },
+  {
+    "label": "chatbot"
+  },
+  {
+    "label": "ttfttpot"
+  },
+  {
+    "label": "sloattain"
+  },
+  {
+    "label": "imagegen"
+  },
+  {
+    "label": "persteptime"
+  },
+  {
+    "label": "sloattain"
+  },
+  {
+    "label": "systemreport"
+  },
+  {
+    "label": "gpuutil"
+  },
+  {
+    "label": "cpuutil"
+  }
+]

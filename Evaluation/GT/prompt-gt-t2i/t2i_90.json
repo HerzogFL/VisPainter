@@ -1,0 +1,104 @@
+[
+  {
+    "label": "hw3"
+  },
+  {
+    "label": "pretrainedencoder"
+  },
+  {
+    "label": "frozen"
+  },
+  {
+    "label": "encoder1"
+  },
+  {
+    "label": "h4w4c"
+  },
+  {
+    "label": "encoder2"
+  },
+  {
+    "label": "h8w82c"
+  },
+  {
+    "label": "encoder3"
+  },
+  {
+    "label": "h16w164c"
+  },
+  {
+    "label": "hfpnbottleneck"
+  },
+  {
+    "label": "h32w328c"
+  },
+  {
+    "label": "+"
+  },
+  {
+    "label": "loss"
+  },
+  {
+    "label": "lssmodule"
+  },
+  {
+    "label": "m31"
+  },
+  {
+    "label": "h4w4c"
+  },
+  {
+    "label": "lssmodulem32"
+  },
+  {
+    "label": "h8w82c"
+  },
+  {
+    "label": "lssmodulem22"
+  },
+  {
+    "label": "h16w164c"
+  },
+  {
+    "label": "lssmodulem31"
+  },
+  {
+    "label": "h32w328c"
+  },
+  {
+    "label": "mambadecoder"
+  },
+  {
+    "label": "train"
+  },
+  {
+    "label": "train"
+  },
+  {
+    "label": "c"
+  },
+  {
+    "label": "concat"
+  },
+  {
+    "label": "+"
+  },
+  {
+    "label": "add"
+  },
+  {
+    "label": "mul"
+  },
+  {
+    "label": "silu"
+  },
+  {
+    "label": "frozen"
+  },
+  {
+    "label": "train"
+  },
+  {
+    "label": "amambaad"
+  }
+]

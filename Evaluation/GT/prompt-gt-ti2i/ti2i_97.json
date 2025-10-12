@@ -1,0 +1,65 @@
+[
+  {
+    "label": "attngate"
+  },
+  {
+    "label": "linear"
+  },
+  {
+    "label": "reducetokvheads"
+  },
+  {
+    "label": "pooling"
+  },
+  {
+    "label": "linear"
+  },
+  {
+    "label": "rope"
+  },
+  {
+    "label": "matmulsoftmax"
+  },
+  {
+    "label": "sparsify"
+  },
+  {
+    "label": "maskselect"
+  },
+  {
+    "label": "threshold"
+  },
+  {
+    "label": "indexmap"
+  },
+  {
+    "label": "finalblockindices"
+  },
+  {
+    "label": "blockindices"
+  },
+  {
+    "label": "q"
+  },
+  {
+    "label": "k"
+  },
+  {
+    "label": "v"
+  },
+  {
+    "label": "rope"
+  },
+  {
+    "label": "blocksparse"
+  },
+  {
+    "label": "flashdecoding"
+  },
+  {
+    "label": "postprocessing"
+  },
+  {
+    "label": "attentionoutput"
+  }
+]

@@ -1,0 +1,95 @@
+[
+  {
+    "label": "deepresearch"
+  },
+  {
+    "label": "architecture"
+  },
+  {
+    "label": "user"
+  },
+  {
+    "label": "researchquestion"
+  },
+  {
+    "label": "planning"
+  },
+  {
+    "label": "plan"
+  },
+  {
+    "label": "questiondeveloping"
+  },
+  {
+    "label": "query"
+  },
+  {
+    "label": "iterativesearch"
+  },
+  {
+    "label": "webexploration"
+  },
+  {
+    "label": "webanalyzer"
+  },
+  {
+    "label": "finding"
+  },
+  {
+    "label": "reportgeneration"
+  },
+  {
+    "label": "report"
+  },
+  {
+    "label": "agenticabilities"
+  },
+  {
+    "label": "2planning"
+  },
+  {
+    "label": "structuralknowledgeplanning"
+  },
+  {
+    "label": "learnableplanning"
+  },
+  {
+    "label": "dynamicstrategyselection"
+  },
+  {
+    "label": "3questiondeveloping"
+  },
+  {
+    "label": "rewardoptimized"
+  },
+  {
+    "label": "supervisiondriven"
+  },
+  {
+    "label": "contextualfeedbackloop"
+  },
+  {
+    "label": "4webexploration"
+  },
+  {
+    "label": "api"
+  },
+  {
+    "label": "browser"
+  },
+  {
+    "label": "knowledgebase"
+  },
+  {
+    "label": "5reportgeneration"
+  },
+  {
+    "label": "structurecontrol"
+  },
+  {
+    "label": "factualintegrity"
+  },
+  {
+    "label": "crosssourcevalidation"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "label": "adapterffn"
+  },
+  {
+    "label": "feedforward"
+  },
+  {
+    "label": "feedforward"
+  },
+  {
+    "label": "mutliheadattentionwithlora"
+  },
+  {
+    "label": "selfattention"
+  },
+  {
+    "label": "selfattention"
+  },
+  {
+    "label": "q"
+  },
+  {
+    "label": "v"
+  },
+  {
+    "label": "k"
+  },
+  {
+    "label": "q"
+  },
+  {
+    "label": "v"
+  },
+  {
+    "label": "k"
+  }
+]

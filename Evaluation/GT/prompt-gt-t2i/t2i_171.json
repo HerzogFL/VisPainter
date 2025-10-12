@@ -1,0 +1,77 @@
+[
+  {
+    "label": "step2"
+  },
+  {
+    "label": "goldendocumentaugmentation"
+  },
+  {
+    "label": "goldendoc"
+  },
+  {
+    "label": "betweenthecaucasuseasterneuropeandwesternasialiestheblackseaamarginalsea"
+  },
+  {
+    "label": "stage1synonymsubstitution"
+  },
+  {
+    "label": "postagging"
+  },
+  {
+    "label": "entityselection"
+  },
+  {
+    "label": "synonymreplace"
+  },
+  {
+    "label": "transfer1"
+  },
+  {
+    "label": "amongthecaucasuseasteuropeandwestasiasitstheblackseaaperipheralsea"
+  },
+  {
+    "label": "transfer2"
+  },
+  {
+    "label": "transfer3"
+  },
+  {
+    "label": "transfer4"
+  },
+  {
+    "label": "stage2syntacticchange"
+  },
+  {
+    "label": "scpn"
+  },
+  {
+    "label": "rulerewriting"
+  },
+  {
+    "label": "manualverification"
+  },
+  {
+    "label": "golden1"
+  },
+  {
+    "label": "situatedamongtheeasteuropeandwestasiatheblackseaisaperipheralsea"
+  },
+  {
+    "label": "golden2"
+  },
+  {
+    "label": "golden3"
+  },
+  {
+    "label": "golden4"
+  },
+  {
+    "label": "llm"
+  },
+  {
+    "label": "llm"
+  },
+  {
+    "label": "llmmanual"
+  }
+]

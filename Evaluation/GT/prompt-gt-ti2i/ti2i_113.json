@@ -1,0 +1,101 @@
+[
+  {
+    "label": "tap"
+  },
+  {
+    "label": "task"
+  },
+  {
+    "label": "meta"
+  },
+  {
+    "label": "arch"
+  },
+  {
+    "label": "tfl"
+  },
+  {
+    "label": "semanticfeatureextractionmodule"
+  },
+  {
+    "label": "da"
+  },
+  {
+    "label": "mlp"
+  },
+  {
+    "label": "transformer"
+  },
+  {
+    "label": "statisticalfeatureextractionmodule"
+  },
+  {
+    "label": "ta"
+  },
+  {
+    "label": "mlp"
+  },
+  {
+    "label": "attention"
+  },
+  {
+    "label": "la"
+  },
+  {
+    "label": "mfl"
+  },
+  {
+    "label": "ma"
+  },
+  {
+    "label": "metanet"
+  },
+  {
+    "label": "mlp"
+  },
+  {
+    "label": "ga"
+  },
+  {
+    "label": "afl"
+  },
+  {
+    "label": "aa"
+  },
+  {
+    "label": "fa"
+  },
+  {
+    "label": "gcn"
+  },
+  {
+    "label": "mlp"
+  },
+  {
+    "label": "fusion"
+  },
+  {
+    "label": "fa"
+  },
+  {
+    "label": "cnn"
+  },
+  {
+    "label": "mlp"
+  },
+  {
+    "label": "fusion"
+  },
+  {
+    "label": "ha"
+  },
+  {
+    "label": "mlp2"
+  },
+  {
+    "label": "regression"
+  },
+  {
+    "label": "classification"
+  }
+]

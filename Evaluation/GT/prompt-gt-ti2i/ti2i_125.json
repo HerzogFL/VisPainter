@@ -1,0 +1,95 @@
+[
+  {
+    "label": "gpu"
+  },
+  {
+    "label": "cpu"
+  },
+  {
+    "label": "fpga"
+  },
+  {
+    "label": "hbm"
+  },
+  {
+    "label": "80gb"
+  },
+  {
+    "label": "activations"
+  },
+  {
+    "label": "nonexperts"
+  },
+  {
+    "label": "expertbuffer"
+  },
+  {
+    "label": "expertcache"
+  },
+  {
+    "label": "featuremapcache"
+  },
+  {
+    "label": "ddr"
+  },
+  {
+    "label": "1t"
+  },
+  {
+    "label": "cachepages"
+  },
+  {
+    "label": "cachepages"
+  },
+  {
+    "label": "cachepages"
+  },
+  {
+    "label": "experts"
+  },
+  {
+    "label": "intermediateresults"
+  },
+  {
+    "label": "nvmessd"
+  },
+  {
+    "label": "1t"
+  },
+  {
+    "label": "modelweights"
+  },
+  {
+    "label": "expertshards"
+  },
+  {
+    "label": "metadatacache"
+  },
+  {
+    "label": "indexbuffer"
+  },
+  {
+    "label": "distributedstorage"
+  },
+  {
+    "label": "+10t"
+  },
+  {
+    "label": "archivedexpertsdata"
+  },
+  {
+    "label": "extendedmemorypoolddrssdstorage"
+  },
+  {
+    "label": "32gbs"
+  },
+  {
+    "label": "18gbs"
+  },
+  {
+    "label": "3gbs"
+  },
+  {
+    "label": "fastswap"
+  }
+]

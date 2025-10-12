@@ -1,0 +1,68 @@
+[
+  {
+    "label": "4datacontrol"
+  },
+  {
+    "label": "q"
+  },
+  {
+    "label": "c"
+  },
+  {
+    "label": "a"
+  },
+  {
+    "label": "positivesample"
+  },
+  {
+    "label": "q"
+  },
+  {
+    "label": "c"
+  },
+  {
+    "label": "a"
+  },
+  {
+    "label": "negativesample"
+  },
+  {
+    "label": "q"
+  },
+  {
+    "label": "c"
+  },
+  {
+    "label": "a"
+  },
+  {
+    "label": "neutralsample"
+  },
+  {
+    "label": "q"
+  },
+  {
+    "label": "c"
+  },
+  {
+    "label": "a"
+  },
+  {
+    "label": "uncertainsample"
+  },
+  {
+    "label": "filterinvalidanswer"
+  },
+  {
+    "label": "groupconsensus"
+  },
+  {
+    "label": "humanannotation"
+  },
+  {
+    "label": "dataaggregation"
+  },
+  {
+    "label": "etrbenchmark"
+  }
+]

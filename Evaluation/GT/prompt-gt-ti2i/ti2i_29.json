@@ -1,0 +1,74 @@
+[
+  {
+    "label": "inputacousticfeatures"
+  },
+  {
+    "label": "multistreamfeatureencoder"
+  },
+  {
+    "label": "cft"
+  },
+  {
+    "label": "denseblocka"
+  },
+  {
+    "label": "denseblockb"
+  },
+  {
+    "label": "denseblockc"
+  },
+  {
+    "label": "denseblockd"
+  },
+  {
+    "label": "auxiliarypreprocessing"
+  },
+  {
+    "label": "residualprocessinggroup"
+  },
+  {
+    "label": "resblocka"
+  },
+  {
+    "label": "resblockb"
+  },
+  {
+    "label": "resblockc"
+  },
+  {
+    "label": "resblockd"
+  },
+  {
+    "label": "resblocke"
+  },
+  {
+    "label": "squeezeexcitationmodule"
+  },
+  {
+    "label": "denseoperationsunit"
+  },
+  {
+    "label": "fusedneuralprocessing"
+  },
+  {
+    "label": "temporalsegmentpoolingattentiongroup"
+  },
+  {
+    "label": "augmentedtdnnlayer"
+  },
+  {
+    "label": "deepfnn"
+  },
+  {
+    "label": "tdnn"
+  },
+  {
+    "label": "fnn+swish"
+  },
+  {
+    "label": "fnn+relu"
+  },
+  {
+    "label": "fnn+sigmoid"
+  }
+]

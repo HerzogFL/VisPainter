@@ -1,0 +1,110 @@
+[
+  {
+    "label": "studentsentimentanalysis"
+  },
+  {
+    "label": "dtstateobservation"
+  },
+  {
+    "label": "s"
+  },
+  {
+    "label": "s"
+  },
+  {
+    "label": "s"
+  },
+  {
+    "label": "s"
+  },
+  {
+    "label": "conversationwithinteractivetutortextoraudio"
+  },
+  {
+    "label": "seq"
+  },
+  {
+    "label": "seq"
+  },
+  {
+    "label": "seq"
+  },
+  {
+    "label": "seq"
+  },
+  {
+    "label": "seq"
+  },
+  {
+    "label": "seq"
+  },
+  {
+    "label": "textsequence"
+  },
+  {
+    "label": "t1"
+  },
+  {
+    "label": "t2"
+  },
+  {
+    "label": "t3"
+  },
+  {
+    "label": "tn"
+  },
+  {
+    "label": "prompt"
+  },
+  {
+    "label": "ai"
+  },
+  {
+    "label": "sentiment1"
+  },
+  {
+    "label": "sentiment2"
+  },
+  {
+    "label": "sentiment3"
+  },
+  {
+    "label": "sentimentvector"
+  },
+  {
+    "label": "sentimentinformation"
+  },
+  {
+    "label": "llmknowledgeenhancement"
+  },
+  {
+    "label": "llmknowledgeenhancement"
+  },
+  {
+    "label": "t1"
+  },
+  {
+    "label": "t2"
+  },
+  {
+    "label": "t3"
+  },
+  {
+    "label": "tn"
+  },
+  {
+    "label": "llmwithgraphrag"
+  },
+  {
+    "label": "graphrag"
+  },
+  {
+    "label": "guidance1"
+  },
+  {
+    "label": "guidance2"
+  },
+  {
+    "label": "knowledgevector"
+  }
+]

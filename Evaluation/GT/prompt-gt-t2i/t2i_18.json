@@ -1,0 +1,131 @@
+[
+  {
+    "label": "a"
+  },
+  {
+    "label": "vanillaselfattentionexistingstereotransformer"
+  },
+  {
+    "label": "matmul"
+  },
+  {
+    "label": "a"
+  },
+  {
+    "label": "nn"
+  },
+  {
+    "label": "softmax"
+  },
+  {
+    "label": "scale"
+  },
+  {
+    "label": "matmul"
+  },
+  {
+    "label": "q"
+  },
+  {
+    "label": "nc"
+  },
+  {
+    "label": "k"
+  },
+  {
+    "label": "cn"
+  },
+  {
+    "label": "v"
+  },
+  {
+    "label": "nc"
+  },
+  {
+    "label": "patchembedding"
+  },
+  {
+    "label": "norm"
+  },
+  {
+    "label": "q"
+  },
+  {
+    "label": "k"
+  },
+  {
+    "label": "v"
+  },
+  {
+    "label": "x"
+  },
+  {
+    "label": "on2"
+  },
+  {
+    "label": "lowrank"
+  },
+  {
+    "label": "b"
+  },
+  {
+    "label": "hadamardproductselfattentionours"
+  },
+  {
+    "label": "mkoi"
+  },
+  {
+    "label": "a"
+  },
+  {
+    "label": "nc"
+  },
+  {
+    "label": "dak"
+  },
+  {
+    "label": "scale"
+  },
+  {
+    "label": "hadamard"
+  },
+  {
+    "label": "q"
+  },
+  {
+    "label": "nc"
+  },
+  {
+    "label": "k"
+  },
+  {
+    "label": "nc"
+  },
+  {
+    "label": "v"
+  },
+  {
+    "label": "nc"
+  },
+  {
+    "label": "patchembedding"
+  },
+  {
+    "label": "norm"
+  },
+  {
+    "label": "q"
+  },
+  {
+    "label": "k"
+  },
+  {
+    "label": "v"
+  },
+  {
+    "label": "on"
+  },
+  {
+    "label": "potentialforhigherrank"
+  }
+]

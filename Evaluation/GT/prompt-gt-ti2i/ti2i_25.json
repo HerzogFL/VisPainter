@@ -1,0 +1,110 @@
+[
+  {
+    "label": "iebam"
+  },
+  {
+    "label": "finput"
+  },
+  {
+    "label": "flow"
+  },
+  {
+    "label": "concat3x3conv"
+  },
+  {
+    "label": "3x3conv"
+  },
+  {
+    "label": "c"
+  },
+  {
+    "label": "fb"
+  },
+  {
+    "label": "lb"
+  },
+  {
+    "label": "c"
+  },
+  {
+    "label": "3x3conv"
+  },
+  {
+    "label": "3x3conv"
+  },
+  {
+    "label": "fullyattention"
+  },
+  {
+    "label": "fullyattention"
+  },
+  {
+    "label": "layernorm"
+  },
+  {
+    "label": "3x3conv"
+  },
+  {
+    "label": "selfattention"
+  },
+  {
+    "label": "c"
+  },
+  {
+    "label": "concat3x3conv"
+  },
+  {
+    "label": "3x3conv"
+  },
+  {
+    "label": "multiheadattention"
+  },
+  {
+    "label": "fin"
+  },
+  {
+    "label": "fex"
+  },
+  {
+    "label": "c"
+  },
+  {
+    "label": "3x3conv"
+  },
+  {
+    "label": "lin"
+  },
+  {
+    "label": "fin"
+  },
+  {
+    "label": "3x3conv"
+  },
+  {
+    "label": "concat3x3conv"
+  },
+  {
+    "label": "fhigh"
+  },
+  {
+    "label": "fbody"
+  },
+  {
+    "label": "+"
+  },
+  {
+    "label": "fm"
+  },
+  {
+    "label": "3x3conv"
+  },
+  {
+    "label": "3x3conv"
+  },
+  {
+    "label": "fex"
+  },
+  {
+    "label": "lex"
+  }
+]

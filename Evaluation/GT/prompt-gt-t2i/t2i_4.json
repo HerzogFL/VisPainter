@@ -1,0 +1,35 @@
+[
+  {
+    "label": "RL Update"
+  },
+  {
+    "label": "Multi-Step Solution"
+  },
+  {
+    "label": "RL Update"
+  },
+  {
+    "label": "LLM Generator"
+  },
+  {
+    "label": "Outcome Rewards"
+  },
+  {
+    "label": "Gold Answer"
+  },
+  {
+    "label": "Outcome Rewards"
+  },
+  {
+    "label": "LLM Verifier"
+  },
+  {
+    "label": "Step Rewards"
+  },
+  {
+    "label": "Verification"
+  },
+  {
+    "label": "Question"
+  }
+]

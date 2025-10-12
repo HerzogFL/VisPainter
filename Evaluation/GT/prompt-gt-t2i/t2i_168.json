@@ -1,0 +1,38 @@
+[
+  {
+    "label": "datacollectionandpreprocessing"
+  },
+  {
+    "label": "datamerging"
+  },
+  {
+    "label": "andformatting"
+  },
+  {
+    "label": "lowquality"
+  },
+  {
+    "label": "irrelevantredundant"
+  },
+  {
+    "label": "datafiltering"
+  },
+  {
+    "label": "risknonrisk"
+  },
+  {
+    "label": "humanannotation"
+  },
+  {
+    "label": "extractkeyelements"
+  },
+  {
+    "label": "andintegration"
+  },
+  {
+    "label": "annotationteam"
+  },
+  {
+    "label": "50annotators"
+  }
+]

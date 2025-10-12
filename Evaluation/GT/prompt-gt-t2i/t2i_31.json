@@ -1,0 +1,65 @@
+[
+  {
+    "label": "finetuning"
+  },
+  {
+    "label": "cnnfeatureextractor"
+  },
+  {
+    "label": "mhattention"
+  },
+  {
+    "label": "layernorm"
+  },
+  {
+    "label": "feedforwardx2"
+  },
+  {
+    "label": "layernorm"
+  },
+  {
+    "label": "previouspetapproach"
+  },
+  {
+    "label": "cnnfeatureextractor"
+  },
+  {
+    "label": "mhattention"
+  },
+  {
+    "label": "layernorm"
+  },
+  {
+    "label": "feedforwardx2"
+  },
+  {
+    "label": "transformeradapter"
+  },
+  {
+    "label": "layernorm"
+  },
+  {
+    "label": "proposedmethodchapter"
+  },
+  {
+    "label": "cnnfeatureextractor"
+  },
+  {
+    "label": "cnnadapter"
+  },
+  {
+    "label": "convblock"
+  },
+  {
+    "label": "cnnadapter"
+  },
+  {
+    "label": "conv1d"
+  },
+  {
+    "label": "layernorm"
+  },
+  {
+    "label": "gelu"
+  }
+]

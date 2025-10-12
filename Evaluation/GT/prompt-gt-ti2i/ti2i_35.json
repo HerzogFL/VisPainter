@@ -1,0 +1,116 @@
+[
+  {
+    "label": "testdatapreparationandmixupaugmentation"
+  },
+  {
+    "label": "testdata"
+  },
+  {
+    "label": "class1"
+  },
+  {
+    "label": "class2"
+  },
+  {
+    "label": "class3"
+  },
+  {
+    "label": "class4"
+  },
+  {
+    "label": "classm"
+  },
+  {
+    "label": "sampledtrainingdatanmk"
+  },
+  {
+    "label": "dualaugmentationpathways"
+  },
+  {
+    "label": "augmentedtestdata1"
+  },
+  {
+    "label": "nmk"
+  },
+  {
+    "label": "augmentedtestdata2"
+  },
+  {
+    "label": "nmk"
+  },
+  {
+    "label": "ensembleoftrainednetworks"
+  },
+  {
+    "label": "trainednetwork1"
+  },
+  {
+    "label": "trainednetwork2"
+  },
+  {
+    "label": "trainednetwork3"
+  },
+  {
+    "label": "votingensemblinglayer"
+  },
+  {
+    "label": "advancedinferenceandaggregation"
+  },
+  {
+    "label": "inferredpredictions1"
+  },
+  {
+    "label": "nmk"
+  },
+  {
+    "label": "inferredpredictions2"
+  },
+  {
+    "label": "nmk"
+  },
+  {
+    "label": "inferredpredictions3"
+  },
+  {
+    "label": "nmk"
+  },
+  {
+    "label": "confusionmatrixforinferredpredictions"
+  },
+  {
+    "label": "confusionmatrixforinferredpredictions"
+  },
+  {
+    "label": "confusionmatrixforinferredpredictions"
+  },
+  {
+    "label": "multileveluncertaintyandcomparison"
+  },
+  {
+    "label": "finalclassprediction"
+  },
+  {
+    "label": "ttmaduxplnp"
+  },
+  {
+    "label": "ensembleeuxvariancep"
+  },
+  {
+    "label": "ttmadatauncertainty"
+  },
+  {
+    "label": "ensemblemodeluncertainty"
+  },
+  {
+    "label": "testdata"
+  },
+  {
+    "label": "trainingdata"
+  },
+  {
+    "label": "augmenteddata"
+  },
+  {
+    "label": "predictedclass"
+  }
+]

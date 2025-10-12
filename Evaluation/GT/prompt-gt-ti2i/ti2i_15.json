@@ -1,0 +1,104 @@
+[
+  {
+    "label": "xj"
+  },
+  {
+    "label": "xj+1"
+  },
+  {
+    "label": "xj+2"
+  },
+  {
+    "label": "xj+3"
+  },
+  {
+    "label": "embeddinglayer"
+  },
+  {
+    "label": "embeddinglayer"
+  },
+  {
+    "label": "embeddinglayer"
+  },
+  {
+    "label": "sharedfeatures"
+  },
+  {
+    "label": "rmsnorm"
+  },
+  {
+    "label": "linearprojection"
+  },
+  {
+    "label": "rmsnorm"
+  },
+  {
+    "label": "linearprojection"
+  },
+  {
+    "label": "rmsnorm"
+  },
+  {
+    "label": "linearprojection"
+  },
+  {
+    "label": "transformerblock"
+  },
+  {
+    "label": "transformerblock"
+  },
+  {
+    "label": "transformerblock"
+  },
+  {
+    "label": "transformerblock"
+  },
+  {
+    "label": "transformerblock"
+  },
+  {
+    "label": "transformerblock"
+  },
+  {
+    "label": "outputhead"
+  },
+  {
+    "label": "outputhead"
+  },
+  {
+    "label": "outputhead"
+  },
+  {
+    "label": "synchronizedoutputs"
+  },
+  {
+    "label": "featureextraction"
+  },
+  {
+    "label": "intermediateprocessing"
+  },
+  {
+    "label": "finaloutput"
+  },
+  {
+    "label": "featureextraction"
+  },
+  {
+    "label": "intermediateprocessing"
+  },
+  {
+    "label": "finaloutput"
+  },
+  {
+    "label": "featureextraction"
+  },
+  {
+    "label": "intermediateprocessing"
+  },
+  {
+    "label": "finaloutput"
+  },
+  {
+    "label": "explanatorynotesdatasynchronizationandsharedembeddingsenableefficientinformationexchangeandconsistentfeaturerepresentationacrossallprocessingpaths"
+  }
+]

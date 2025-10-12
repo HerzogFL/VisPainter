@@ -1,0 +1,104 @@
+[
+  {
+    "label": "simulationsetup"
+  },
+  {
+    "label": "transmitter"
+  },
+  {
+    "label": "txdsp"
+  },
+  {
+    "label": "dac"
+  },
+  {
+    "label": "iqm"
+  },
+  {
+    "label": "wdm"
+  },
+  {
+    "label": "opticalfiberchannel"
+  },
+  {
+    "label": "80kmssmf"
+  },
+  {
+    "label": "edfa"
+  },
+  {
+    "label": "n"
+  },
+  {
+    "label": "receiver"
+  },
+  {
+    "label": "dwdm"
+  },
+  {
+    "label": "icr"
+  },
+  {
+    "label": "adc"
+  },
+  {
+    "label": "rxdsp"
+  },
+  {
+    "label": "a"
+  },
+  {
+    "label": "b"
+  },
+  {
+    "label": "txdsp"
+  },
+  {
+    "label": "prbs"
+  },
+  {
+    "label": "mapping"
+  },
+  {
+    "label": "tsgeneration"
+  },
+  {
+    "label": "tsinsertion"
+  },
+  {
+    "label": "c"
+  },
+  {
+    "label": "rxdsp"
+  },
+  {
+    "label": "adcosc"
+  },
+  {
+    "label": "coarseframing"
+  },
+  {
+    "label": "2dsearch"
+  },
+  {
+    "label": "jointestimation"
+  },
+  {
+    "label": "cdfoto"
+  },
+  {
+    "label": "cdc"
+  },
+  {
+    "label": "foc"
+  },
+  {
+    "label": "synchronization"
+  },
+  {
+    "label": "lmsequalization"
+  },
+  {
+    "label": "cpr"
+  }
+]

@@ -1,0 +1,104 @@
+[
+  {
+    "label": "stage1coldstartlearningcotrewardformat"
+  },
+  {
+    "label": "caption"
+  },
+  {
+    "label": "images"
+  },
+  {
+    "label": "distillation"
+  },
+  {
+    "label": "think"
+  },
+  {
+    "label": "semanticconsistency"
+  },
+  {
+    "label": "image1910"
+  },
+  {
+    "label": "image2710"
+  },
+  {
+    "label": "aesthetics"
+  },
+  {
+    "label": "totalscoreimage1"
+  },
+  {
+    "label": "image2"
+  },
+  {
+    "label": "think"
+  },
+  {
+    "label": "answerimagexisbetteranswer"
+  },
+  {
+    "label": "coldstart"
+  },
+  {
+    "label": "stage2rejectionsamplingunifiedcotrewardgeneralizationfinetuning"
+  },
+  {
+    "label": "unifiedpreferencetrainingdata"
+  },
+  {
+    "label": "videos"
+  },
+  {
+    "label": "imgvidunderstanding"
+  },
+  {
+    "label": "cotinference"
+  },
+  {
+    "label": "answers"
+  },
+  {
+    "label": "rejectionsampling"
+  },
+  {
+    "label": "rejectionsampling"
+  },
+  {
+    "label": "stage3"
+  },
+  {
+    "label": "stage3grpounifiedcotrewardreinforcementfinetuning"
+  },
+  {
+    "label": "grpo"
+  },
+  {
+    "label": "incorrectlypredictedtrainingdata"
+  },
+  {
+    "label": "reinforcementfinetuning"
+  },
+  {
+    "label": "accuracyreward"
+  },
+  {
+    "label": "imgvidansxisbettervsgroundtruth"
+  },
+  {
+    "label": "formatreward"
+  },
+  {
+    "label": "thinkthink"
+  },
+  {
+    "label": "answeranswer"
+  },
+  {
+    "label": "cotrewardcompletions"
+  },
+  {
+    "label": "grouprelativepolicyoptimization"
+  }
+]

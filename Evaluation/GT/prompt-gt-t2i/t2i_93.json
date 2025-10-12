@@ -1,0 +1,38 @@
+[
+  {
+    "label": "cmambaad"
+  },
+  {
+    "label": "n"
+  },
+  {
+    "label": "encoder1"
+  },
+  {
+    "label": "encoder2"
+  },
+  {
+    "label": "encoder3"
+  },
+  {
+    "label": "neck"
+  },
+  {
+    "label": "mambadecoder3"
+  },
+  {
+    "label": "mambadecoder2"
+  },
+  {
+    "label": "mambadecoder1"
+  },
+  {
+    "label": "anomalymap"
+  },
+  {
+    "label": "global+local"
+  },
+  {
+    "label": "multiscale"
+  }
+]

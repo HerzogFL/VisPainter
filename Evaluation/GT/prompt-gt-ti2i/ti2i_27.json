@@ -1,0 +1,227 @@
+[
+  {
+    "label": "hierarchicalattentionongraphstructures"
+  },
+  {
+    "label": "d"
+  },
+  {
+    "label": "c"
+  },
+  {
+    "label": "b"
+  },
+  {
+    "label": "a"
+  },
+  {
+    "label": "d"
+  },
+  {
+    "label": "b"
+  },
+  {
+    "label": "c"
+  },
+  {
+    "label": "b"
+  },
+  {
+    "label": "d"
+  },
+  {
+    "label": "a"
+  },
+  {
+    "label": "1"
+  },
+  {
+    "label": "2"
+  },
+  {
+    "label": "3"
+  },
+  {
+    "label": "4"
+  },
+  {
+    "label": "1"
+  },
+  {
+    "label": "2"
+  },
+  {
+    "label": "3"
+  },
+  {
+    "label": "2"
+  },
+  {
+    "label": "1"
+  },
+  {
+    "label": "4"
+  },
+  {
+    "label": "integratedglobalandlocalattentiononnodesandsubstructures"
+  },
+  {
+    "label": "i"
+  },
+  {
+    "label": "feedforwardlayer"
+  },
+  {
+    "label": "multiheadselfattention"
+  },
+  {
+    "label": "crossattention"
+  },
+  {
+    "label": "feedforwardlayer"
+  },
+  {
+    "label": "multiheadselfattention"
+  },
+  {
+    "label": "crossattention"
+  },
+  {
+    "label": "feedforwardlayer"
+  },
+  {
+    "label": "multiheadselfattention"
+  },
+  {
+    "label": "crossattention"
+  },
+  {
+    "label": "ii"
+  },
+  {
+    "label": "feedforwardlayer"
+  },
+  {
+    "label": "multiheadselfattention"
+  },
+  {
+    "label": "crossattention"
+  },
+  {
+    "label": "feedforwardlayer"
+  },
+  {
+    "label": "multiheadselfattention"
+  },
+  {
+    "label": "crossattention"
+  },
+  {
+    "label": "feedforwardlayer"
+  },
+  {
+    "label": "multiheadselfattention"
+  },
+  {
+    "label": "crossattention"
+  },
+  {
+    "label": "iii"
+  },
+  {
+    "label": "feedforwardlayer"
+  },
+  {
+    "label": "multiheadselfattention"
+  },
+  {
+    "label": "crossattention"
+  },
+  {
+    "label": "feedforwardlayer"
+  },
+  {
+    "label": "multiheadselfattention"
+  },
+  {
+    "label": "crossattention"
+  },
+  {
+    "label": "feedforwardlayer"
+  },
+  {
+    "label": "multiheadselfattention"
+  },
+  {
+    "label": "crossattention"
+  },
+  {
+    "label": "a"
+  },
+  {
+    "label": "a"
+  },
+  {
+    "label": "c"
+  },
+  {
+    "label": "b"
+  },
+  {
+    "label": "b"
+  },
+  {
+    "label": "d"
+  },
+  {
+    "label": "e"
+  },
+  {
+    "label": "advancedpositionencodingfornodes"
+  },
+  {
+    "label": "hybridsubstructureencoding"
+  },
+  {
+    "label": "substructuretokens"
+  },
+  {
+    "label": "nodetokens"
+  },
+  {
+    "label": "d"
+  },
+  {
+    "label": "c"
+  },
+  {
+    "label": "b"
+  },
+  {
+    "label": "a"
+  },
+  {
+    "label": "d"
+  },
+  {
+    "label": "b"
+  },
+  {
+    "label": "c"
+  },
+  {
+    "label": "b"
+  },
+  {
+    "label": "d"
+  },
+  {
+    "label": "a"
+  },
+  {
+    "label": "globalattention"
+  },
+  {
+    "label": "localattention"
+  }
+]

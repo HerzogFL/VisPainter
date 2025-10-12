@@ -1,0 +1,38 @@
+[
+  {
+    "label": "1vanilladenseretriever"
+  },
+  {
+    "label": "querydocument"
+  },
+  {
+    "label": "input"
+  },
+  {
+    "label": "retrievervanilla"
+  },
+  {
+    "label": "encode"
+  },
+  {
+    "label": "documentemb"
+  },
+  {
+    "label": "queryemb"
+  },
+  {
+    "label": "retrieval"
+  },
+  {
+    "label": "retrievalresult"
+  },
+  {
+    "label": "iwouldhighlyrecommendhavingaprofessionalhandleyourtaxesitisworththemoneytohaveitdonecorrectly"
+  },
+  {
+    "label": "notfullyutilizingthethinkingpotential"
+  },
+  {
+    "label": "howtousemodelsthinkingability"
+  }
+]

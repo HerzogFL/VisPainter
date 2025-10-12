@@ -1,0 +1,107 @@
+[
+  {
+    "label": "topleft"
+  },
+  {
+    "label": "topright"
+  },
+  {
+    "label": "bottomleft"
+  },
+  {
+    "label": "bottomright"
+  },
+  {
+    "label": "ditlayeriwdiffratio"
+  },
+  {
+    "label": "dynamicintegrationtechnique"
+  },
+  {
+    "label": "heatlevel"
+  },
+  {
+    "label": "discreteratiobins"
+  },
+  {
+    "label": "medianbinmb15"
+  },
+  {
+    "label": "dominantbindb25"
+  },
+  {
+    "label": "medianbinmb15"
+  },
+  {
+    "label": "dominantbindb25"
+  },
+  {
+    "label": "80closer"
+  },
+  {
+    "label": "20closer"
+  },
+  {
+    "label": "legend"
+  },
+  {
+    "label": "temporalinfluence"
+  },
+  {
+    "label": "0s"
+  },
+  {
+    "label": "10s"
+  },
+  {
+    "label": "20s"
+  },
+  {
+    "label": "duringtraining"
+  },
+  {
+    "label": "modwithlbratio"
+  },
+  {
+    "label": "modwithubratio"
+  },
+  {
+    "label": "inputtokens"
+  },
+  {
+    "label": "tokenpreprocessor"
+  },
+  {
+    "label": "out"
+  },
+  {
+    "label": "low"
+  },
+  {
+    "label": "medium"
+  },
+  {
+    "label": "high"
+  },
+  {
+    "label": "duringinference"
+  },
+  {
+    "label": "tokenqualitycheck"
+  },
+  {
+    "label": "modwithnbratio"
+  },
+  {
+    "label": "out"
+  },
+  {
+    "label": "inputtokens"
+  },
+  {
+    "label": "adjustfornextiteration"
+  },
+  {
+    "label": "legend"
+  }
+]

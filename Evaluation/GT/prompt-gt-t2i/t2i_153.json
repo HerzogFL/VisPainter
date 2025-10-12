@@ -1,0 +1,44 @@
+[
+  {
+    "label": "processcore"
+  },
+  {
+    "label": "to"
+  },
+  {
+    "label": "onswitchbuffer"
+  },
+  {
+    "label": "accumulate"
+  },
+  {
+    "label": "reglogic"
+  },
+  {
+    "label": "swapreg"
+  },
+  {
+    "label": "functionalconfigregister"
+  },
+  {
+    "label": "accumulateconfiglogic"
+  },
+  {
+    "label": "instructioningressregistry"
+  },
+  {
+    "label": "instructiondecoder"
+  },
+  {
+    "label": "instruction"
+  },
+  {
+    "label": "instraddr"
+  },
+  {
+    "label": "backpressure"
+  },
+  {
+    "label": "instrrowaccessdata"
+  }
+]

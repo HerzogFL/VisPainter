@@ -1,0 +1,74 @@
+[
+  {
+    "label": "inputimage"
+  },
+  {
+    "label": "patchembed"
+  },
+  {
+    "label": "virtualvertices"
+  },
+  {
+    "label": "hyperedges"
+  },
+  {
+    "label": "hgvtblockl"
+  },
+  {
+    "label": "vertexselfattn"
+  },
+  {
+    "label": "edgeaggattn"
+  },
+  {
+    "label": "edgeffn"
+  },
+  {
+    "label": "edgedistattn"
+  },
+  {
+    "label": "vertexffn"
+  },
+  {
+    "label": "adjmask"
+  },
+  {
+    "label": "flow"
+  },
+  {
+    "label": "flow"
+  },
+  {
+    "label": "pooling"
+  },
+  {
+    "label": "meanimage"
+  },
+  {
+    "label": "meanedge"
+  },
+  {
+    "label": "expertedge"
+  },
+  {
+    "label": "outputhead"
+  },
+  {
+    "label": "legend"
+  },
+  {
+    "label": "xadjv"
+  },
+  {
+    "label": "xv"
+  },
+  {
+    "label": "xe"
+  },
+  {
+    "label": "xadje"
+  },
+  {
+    "label": "a"
+  }
+]

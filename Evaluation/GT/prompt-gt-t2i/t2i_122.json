@@ -1,0 +1,56 @@
+[
+  {
+    "label": "crossattentionblock"
+  },
+  {
+    "label": "6"
+  },
+  {
+    "label": "inputquery"
+  },
+  {
+    "label": "inputvaluekey"
+  },
+  {
+    "label": "queryproj"
+  },
+  {
+    "label": "layernorm"
+  },
+  {
+    "label": "eq"
+  },
+  {
+    "label": "valuekeyproj"
+  },
+  {
+    "label": "layernorm"
+  },
+  {
+    "label": "ev"
+  },
+  {
+    "label": "ek"
+  },
+  {
+    "label": "softmax"
+  },
+  {
+    "label": "linearproj"
+  },
+  {
+    "label": "+"
+  },
+  {
+    "label": "layernorm"
+  },
+  {
+    "label": "+"
+  },
+  {
+    "label": "ffn"
+  },
+  {
+    "label": "layernorm"
+  }
+]

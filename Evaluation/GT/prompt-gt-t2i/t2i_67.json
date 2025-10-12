@@ -1,0 +1,68 @@
+[
+  {
+    "label": "instruction"
+  },
+  {
+    "label": "embedding"
+  },
+  {
+    "label": "llamatransformernl"
+  },
+  {
+    "label": "rmsnorm"
+  },
+  {
+    "label": "llamaattention"
+  },
+  {
+    "label": "llamamlp"
+  },
+  {
+    "label": "rmsnorm"
+  },
+  {
+    "label": "llamaattention"
+  },
+  {
+    "label": "llamamlp"
+  },
+  {
+    "label": "rmsnorm"
+  },
+  {
+    "label": "llamatransformerl"
+  },
+  {
+    "label": "rmsnorm"
+  },
+  {
+    "label": "llamaattention"
+  },
+  {
+    "label": "llamamlp"
+  },
+  {
+    "label": "selfattention"
+  },
+  {
+    "label": "gatingfactor"
+  },
+  {
+    "label": "selfattention"
+  },
+  {
+    "label": "gatingfactor"
+  },
+  {
+    "label": "mlp"
+  },
+  {
+    "label": "linear5121"
+  },
+  {
+    "label": "linear1024512"
+  },
+  {
+    "label": "lineardim1024"
+  }
+]

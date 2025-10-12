@@ -1,0 +1,50 @@
+[
+  {
+    "label": "encoder"
+  },
+  {
+    "label": "z"
+  },
+  {
+    "label": "flow"
+  },
+  {
+    "label": "KL Divergence"
+  },
+  {
+    "label": "N(0,I)"
+  },
+  {
+    "label": "decoder"
+  },
+  {
+    "label": "(a) Flow-VAE"
+  },
+  {
+    "label": "z"
+  },
+  {
+    "label": "t"
+  },
+  {
+    "label": "Transformer Block"
+  },
+  {
+    "label": "v"
+  },
+  {
+    "label": "x_p"
+  },
+  {
+    "label": "c'"
+  },
+  {
+    "label": "Conv1d && Upsample"
+  },
+  {
+    "label": "c"
+  },
+  {
+    "label": "(b) Flow Matching"
+  }
+]

@@ -1,0 +1,230 @@
+[
+  {
+    "label": "relationmodule"
+  },
+  {
+    "label": "instextrelation"
+  },
+  {
+    "label": "f"
+  },
+  {
+    "label": "q"
+  },
+  {
+    "label": "qc"
+  },
+  {
+    "label": "mlp"
+  },
+  {
+    "label": "s"
+  },
+  {
+    "label": "insvisualrelation"
+  },
+  {
+    "label": "fv"
+  },
+  {
+    "label": "qc"
+  },
+  {
+    "label": "qv"
+  },
+  {
+    "label": "norm"
+  },
+  {
+    "label": "sv"
+  },
+  {
+    "label": "insinsrelation"
+  },
+  {
+    "label": "f"
+  },
+  {
+    "label": "q"
+  },
+  {
+    "label": "m"
+  },
+  {
+    "label": "q"
+  },
+  {
+    "label": "s"
+  },
+  {
+    "label": "s"
+  },
+  {
+    "label": "s"
+  },
+  {
+    "label": "s"
+  },
+  {
+    "label": "attentioncompositionblock"
+  },
+  {
+    "label": "globalattention"
+  },
+  {
+    "label": "qc"
+  },
+  {
+    "label": "ac"
+  },
+  {
+    "label": "ag"
+  },
+  {
+    "label": "localattention"
+  },
+  {
+    "label": "q"
+  },
+  {
+    "label": "al"
+  },
+  {
+    "label": "al"
+  },
+  {
+    "label": "cognitionlayer"
+  },
+  {
+    "label": "f"
+  },
+  {
+    "label": "f"
+  },
+  {
+    "label": "al"
+  },
+  {
+    "label": "q"
+  },
+  {
+    "label": "qc"
+  },
+  {
+    "label": "c1"
+  },
+  {
+    "label": "perceptionlayer"
+  },
+  {
+    "label": "f"
+  },
+  {
+    "label": "m"
+  },
+  {
+    "label": "cognitionlayer"
+  },
+  {
+    "label": "f"
+  },
+  {
+    "label": "f"
+  },
+  {
+    "label": "q"
+  },
+  {
+    "label": "perceptionlayer"
+  },
+  {
+    "label": "f"
+  },
+  {
+    "label": "m"
+  },
+  {
+    "label": "cognitionlayer"
+  },
+  {
+    "label": "f"
+  },
+  {
+    "label": "f"
+  },
+  {
+    "label": "ag"
+  },
+  {
+    "label": "q"
+  },
+  {
+    "label": "perceptionlayer"
+  },
+  {
+    "label": "f"
+  },
+  {
+    "label": "m"
+  },
+  {
+    "label": "cognitionlayer"
+  },
+  {
+    "label": "f"
+  },
+  {
+    "label": "f"
+  },
+  {
+    "label": "q"
+  },
+  {
+    "label": "perceptionlayer"
+  },
+  {
+    "label": "f"
+  },
+  {
+    "label": "m"
+  },
+  {
+    "label": "perceptionlayerzoomin"
+  },
+  {
+    "label": "selfattention"
+  },
+  {
+    "label": "spatialtransformer"
+  },
+  {
+    "label": "crossattention"
+  },
+  {
+    "label": "q"
+  },
+  {
+    "label": "f"
+  },
+  {
+    "label": "q"
+  },
+  {
+    "label": "m"
+  },
+  {
+    "label": "m"
+  },
+  {
+    "label": "f"
+  },
+  {
+    "label": "c2"
+  },
+  {
+    "label": "f"
+  },
+  {
+    "label": "f"
+  }
+]

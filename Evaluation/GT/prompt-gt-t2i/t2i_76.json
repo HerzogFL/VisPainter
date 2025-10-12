@@ -1,0 +1,47 @@
+[
+  {
+    "label": "activatedforward"
+  },
+  {
+    "label": "nonactivatedforward"
+  },
+  {
+    "label": "evolution"
+  },
+  {
+    "label": "trainfreeze"
+  },
+  {
+    "label": "addnorm"
+  },
+  {
+    "label": "ffn"
+  },
+  {
+    "label": "addnorm"
+  },
+  {
+    "label": "selfattention"
+  },
+  {
+    "label": "wordembedding"
+  },
+  {
+    "label": "text"
+  },
+  {
+    "label": "mlp"
+  },
+  {
+    "label": "visionencoder"
+  },
+  {
+    "label": "image"
+  },
+  {
+    "label": "astagei"
+  },
+  {
+    "label": "warmup"
+  }
+]

@@ -1,0 +1,83 @@
+[
+  {
+    "label": "interactionsundervariousmodalitycombinations"
+  },
+  {
+    "label": "atext+visionoptionaltext"
+  },
+  {
+    "label": "visionin"
+  },
+  {
+    "label": "textin"
+  },
+  {
+    "label": "largelanguagemodel"
+  },
+  {
+    "label": "textout"
+  },
+  {
+    "label": "bspeech+visionoptionalspeechtext"
+  },
+  {
+    "label": "simultaneouslyproduceintermediateasroutputtext"
+  },
+  {
+    "label": "visionin"
+  },
+  {
+    "label": "speechin"
+  },
+  {
+    "label": "bottomspeechlayers"
+  },
+  {
+    "label": "largelanguagemodel"
+  },
+  {
+    "label": "topspeechlayers"
+  },
+  {
+    "label": "speechout"
+  },
+  {
+    "label": "asrresults"
+  },
+  {
+    "label": "textout"
+  },
+  {
+    "label": "autoregressive"
+  },
+  {
+    "label": "ctext+visionoptionalspeechtext"
+  },
+  {
+    "label": "simultaneouslyproduceintermediateoutputtext"
+  },
+  {
+    "label": "visionin"
+  },
+  {
+    "label": "textin"
+  },
+  {
+    "label": "bottomspeechlayers"
+  },
+  {
+    "label": "largelanguagemodel"
+  },
+  {
+    "label": "topspeechlayers"
+  },
+  {
+    "label": "speechoutonlyoutput"
+  },
+  {
+    "label": "textout"
+  },
+  {
+    "label": "autoregressive"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "label": "pytorchdistributeddataparallel"
+  },
+  {
+    "label": "torchdistributed"
+  },
+  {
+    "label": "processgroup"
+  },
+  {
+    "label": "cuda"
+  },
+  {
+    "label": "processgroup"
+  },
+  {
+    "label": "kaitian"
+  },
+  {
+    "label": "processgroup"
+  },
+  {
+    "label": "cncl"
+  },
+  {
+    "label": "collectivecommunicationlibrary"
+  },
+  {
+    "label": "nccl"
+  },
+  {
+    "label": "gloo"
+  },
+  {
+    "label": "cncl"
+  },
+  {
+    "label": "gpus"
+  },
+  {
+    "label": "mlus"
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "label": "training"
+  },
+  {
+    "label": "frozen"
+  },
+  {
+    "label": "addlayernorm"
+  },
+  {
+    "label": "feedforward"
+  },
+  {
+    "label": "residualconnection"
+  },
+  {
+    "label": "k"
+  },
+  {
+    "label": "timeawareplm"
+  },
+  {
+    "label": "pretrainedtransformer"
+  },
+  {
+    "label": "timeembedder"
+  },
+  {
+    "label": "variableembedder"
+  },
+  {
+    "label": "valueembedder"
+  },
+  {
+    "label": "continuoustimeembeddings"
+  },
+  {
+    "label": "taskoutputlayer"
+  },
+  {
+    "label": "pooling"
+  },
+  {
+    "label": "outputs"
+  },
+  {
+    "label": "auxiliaryprocessing"
+  },
+  {
+    "label": "auxiliaryfeatureencoder"
+  },
+  {
+    "label": "metadataintegrator"
+  },
+  {
+    "label": "timeembedder"
+  },
+  {
+    "label": "variableembedder"
+  },
+  {
+    "label": "valueembedder"
+  }
+]

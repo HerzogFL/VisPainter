@@ -1,0 +1,53 @@
+[
+  {
+    "label": "conventionaltransformerwithenhancedstructure"
+  },
+  {
+    "label": "multihead"
+  },
+  {
+    "label": "masked"
+  },
+  {
+    "label": "attention"
+  },
+  {
+    "label": "addnorm"
+  },
+  {
+    "label": "feedforwardgating"
+  },
+  {
+    "label": "multilayerperceptron"
+  },
+  {
+    "label": "addnorm"
+  },
+  {
+    "label": "advancedquasiweightlesstransformer"
+  },
+  {
+    "label": "multihead"
+  },
+  {
+    "label": "masked"
+  },
+  {
+    "label": "attention"
+  },
+  {
+    "label": "addnorm"
+  },
+  {
+    "label": "sparsetokenmixer"
+  },
+  {
+    "label": "weightlessblock"
+  },
+  {
+    "label": "dynamicrouting"
+  },
+  {
+    "label": "addnorm"
+  }
+]

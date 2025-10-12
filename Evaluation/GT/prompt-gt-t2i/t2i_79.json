@@ -1,0 +1,68 @@
+[
+  {
+    "label": "amlcslmbaseline"
+  },
+  {
+    "label": "whisperencoder"
+  },
+  {
+    "label": "projector"
+  },
+  {
+    "label": "llm"
+  },
+  {
+    "label": "lora"
+  },
+  {
+    "label": "transcriptions"
+  },
+  {
+    "label": "text"
+  },
+  {
+    "label": "prompt"
+  },
+  {
+    "label": "tokenizer"
+  },
+  {
+    "label": "lora"
+  },
+  {
+    "label": "bshnumasrarchitecture"
+  },
+  {
+    "label": "whisperencoder"
+  },
+  {
+    "label": "lora"
+  },
+  {
+    "label": "mhubertencoder"
+  },
+  {
+    "label": "projector"
+  },
+  {
+    "label": "llm"
+  },
+  {
+    "label": "lora"
+  },
+  {
+    "label": "transcriptions"
+  },
+  {
+    "label": "text"
+  },
+  {
+    "label": "tokenizer"
+  },
+  {
+    "label": "lora"
+  },
+  {
+    "label": "lidawareprompt"
+  }
+]

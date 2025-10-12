@@ -1,0 +1,56 @@
+[
+  {
+    "label": "gpu"
+  },
+  {
+    "label": "cpu"
+  },
+  {
+    "label": "hbm"
+  },
+  {
+    "label": "80gb"
+  },
+  {
+    "label": "activations"
+  },
+  {
+    "label": "nonexperts"
+  },
+  {
+    "label": "expertcache"
+  },
+  {
+    "label": "ddr"
+  },
+  {
+    "label": "1t"
+  },
+  {
+    "label": "experts"
+  },
+  {
+    "label": "experts"
+  },
+  {
+    "label": "ssd"
+  },
+  {
+    "label": "1t"
+  },
+  {
+    "label": "model"
+  },
+  {
+    "label": "experts"
+  },
+  {
+    "label": "nextlevelmemoryddrssd"
+  },
+  {
+    "label": "32gbs"
+  },
+  {
+    "label": "3gbs"
+  }
+]

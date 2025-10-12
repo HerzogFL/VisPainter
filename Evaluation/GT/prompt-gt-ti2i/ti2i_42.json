@@ -1,0 +1,131 @@
+[
+  {
+    "label": "filtering"
+  },
+  {
+    "label": "a"
+  },
+  {
+    "label": "rawdataset"
+  },
+  {
+    "label": "mynameisalicemysocialsecuritynumberis5678"
+  },
+  {
+    "label": "contactmeatemailexamplecom"
+  },
+  {
+    "label": "thecapitaloffranceisparis"
+  },
+  {
+    "label": "longagoscientistsdiscoveredxrays"
+  },
+  {
+    "label": "rulebasedfilter"
+  },
+  {
+    "label": "sanitizeddataset"
+  },
+  {
+    "label": "thecapitaloffranceisparis"
+  },
+  {
+    "label": "longagoscientistsdiscoveredxrays"
+  },
+  {
+    "label": "sensitiveinformationremoved"
+  },
+  {
+    "label": "mynameisalicemysocialsecuritynumberis5678"
+  },
+  {
+    "label": "potentiallysensitive"
+  },
+  {
+    "label": "contactmeatemailexamplecom"
+  },
+  {
+    "label": "b"
+  },
+  {
+    "label": "rawdataset"
+  },
+  {
+    "label": "thisishowtomakeanexplosive"
+  },
+  {
+    "label": "thiscontentmightbeinappropriate"
+  },
+  {
+    "label": "thecapitaloffranceisparis"
+  },
+  {
+    "label": "longagoscientistsdiscoveredxrays"
+  },
+  {
+    "label": "deeplearningbasedfilter"
+  },
+  {
+    "label": "sanitizeddataset"
+  },
+  {
+    "label": "thecapitaloffranceisparis"
+  },
+  {
+    "label": "longagoscientistsdiscoveredxrays"
+  },
+  {
+    "label": "harmfulcontentremoved"
+  },
+  {
+    "label": "thisishowtomakeanexplosive"
+  },
+  {
+    "label": "flaggedforreview"
+  },
+  {
+    "label": "thiscontentmightbeinappropriate"
+  },
+  {
+    "label": "c"
+  },
+  {
+    "label": "rawdataset"
+  },
+  {
+    "label": "repealingkeylawsisnecessary"
+  },
+  {
+    "label": "resourcemayrequirefurtherverification"
+  },
+  {
+    "label": "thecapitaloffranceisparis"
+  },
+  {
+    "label": "longagoscientistsdiscoveredxrays"
+  },
+  {
+    "label": "ensemblefilter"
+  },
+  {
+    "label": "sanitizeddataset"
+  },
+  {
+    "label": "thecapitaloffranceisparis"
+  },
+  {
+    "label": "longagoscientistsdiscoveredxrays"
+  },
+  {
+    "label": "controversialharmfulremoved"
+  },
+  {
+    "label": "repealingkeylawsisnecessary"
+  },
+  {
+    "label": "manualauditneeded"
+  },
+  {
+    "label": "resourcemayrequirefurtherverification"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "label": "activatedforward"
+  },
+  {
+    "label": "nonactivatedforward"
+  },
+  {
+    "label": "evolution"
+  },
+  {
+    "label": "train"
+  },
+  {
+    "label": "freeze"
+  },
+  {
+    "label": "auxiliaryflow"
+  },
+  {
+    "label": "aux"
+  },
+  {
+    "label": "addnorm"
+  },
+  {
+    "label": "ffn"
+  },
+  {
+    "label": "addnorm"
+  },
+  {
+    "label": "selfattention"
+  },
+  {
+    "label": "crossattention"
+  },
+  {
+    "label": "ffnaux"
+  },
+  {
+    "label": "wordembedding"
+  },
+  {
+    "label": "text"
+  },
+  {
+    "label": "positionembedding"
+  },
+  {
+    "label": "position"
+  },
+  {
+    "label": "mlp"
+  },
+  {
+    "label": "visionencoder"
+  },
+  {
+    "label": "image"
+  },
+  {
+    "label": "classifierhead"
+  },
+  {
+    "label": "output"
+  },
+  {
+    "label": "astagei"
+  },
+  {
+    "label": "warmupmultimodalintegration"
+  }
+]

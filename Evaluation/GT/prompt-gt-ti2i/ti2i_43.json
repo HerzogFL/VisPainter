@@ -1,0 +1,71 @@
+[
+  {
+    "label": "llmunlearningmitigation"
+  },
+  {
+    "label": "approachesmechanismsandtargets"
+  },
+  {
+    "label": "parameteradjusting"
+  },
+  {
+    "label": "internalintervention"
+  },
+  {
+    "label": "gradientascent"
+  },
+  {
+    "label": "lossfunctionmodification"
+  },
+  {
+    "label": "preferenceoptimization"
+  },
+  {
+    "label": "knowledgeerasure"
+  },
+  {
+    "label": "parameterpreserving"
+  },
+  {
+    "label": "externalintervention"
+  },
+  {
+    "label": "conceptediting"
+  },
+  {
+    "label": "taskvector"
+  },
+  {
+    "label": "incontextlearning"
+  },
+  {
+    "label": "promptfiltering"
+  },
+  {
+    "label": "gatedaccess"
+  },
+  {
+    "label": "thenumberofliteraturesdecreasesfromtoptobottomwhileapplicationdiversityincreases"
+  },
+  {
+    "label": "bias"
+  },
+  {
+    "label": "stereotypes"
+  },
+  {
+    "label": "toxicity"
+  },
+  {
+    "label": "misin"
+  },
+  {
+    "label": "formation"
+  },
+  {
+    "label": "privacy"
+  },
+  {
+    "label": "fairness"
+  }
+]

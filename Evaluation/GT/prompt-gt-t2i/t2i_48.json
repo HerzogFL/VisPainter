@@ -1,0 +1,77 @@
+[
+  {
+    "label": "actionlevelreflection"
+  },
+  {
+    "label": "action"
+  },
+  {
+    "label": "env"
+  },
+  {
+    "label": "feedback"
+  },
+  {
+    "label": "newaction"
+  },
+  {
+    "label": "fail"
+  },
+  {
+    "label": "fail"
+  },
+  {
+    "label": "policylevelreflection"
+  },
+  {
+    "label": "worldbelief"
+  },
+  {
+    "label": "selfbelief"
+  },
+  {
+    "label": "belief"
+  },
+  {
+    "label": "action"
+  },
+  {
+    "label": "env"
+  },
+  {
+    "label": "feedback"
+  },
+  {
+    "label": "worldmodeling"
+  },
+  {
+    "label": "behavioralguideline"
+  },
+  {
+    "label": "newpolicy"
+  },
+  {
+    "label": "worldmodeling"
+  },
+  {
+    "label": "behavioralguideline"
+  },
+  {
+    "label": "policy"
+  },
+  {
+    "label": "verification"
+  },
+  {
+    "label": "reject"
+  },
+  {
+    "label": "accept"
+  },
+  {
+    "label": "fail"
+  },
+  {
+    "label": "fail"
+  }
+]

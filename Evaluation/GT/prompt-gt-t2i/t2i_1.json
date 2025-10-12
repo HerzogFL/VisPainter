@@ -1,0 +1,32 @@
+[
+  {
+    "label": "x"
+  },
+  {
+    "label": "weight layer"
+  },
+  {
+    "label": "relu"
+  },
+  {
+    "label": "weight layer"
+  },
+  {
+    "label": "+"
+  },
+  {
+    "label": "relu"
+  },
+  {
+    "label": "x"
+  },
+  {
+    "label": "identity"
+  },
+  {
+    "label": "F(x)"
+  },
+  {
+    "label": "F(x)+x"
+  }
+]

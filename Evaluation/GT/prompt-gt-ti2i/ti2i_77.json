@@ -1,0 +1,17 @@
+[
+  {
+    "label": "adapterffn"
+  },
+  {
+    "label": "layernorm"
+  },
+  {
+    "label": "feedforward"
+  },
+  {
+    "label": "feedforward"
+  },
+  {
+    "label": "feedforward"
+  }
+]

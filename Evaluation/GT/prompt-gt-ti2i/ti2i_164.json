@@ -1,0 +1,77 @@
+[
+  {
+    "label": "inputimage"
+  },
+  {
+    "label": "isthisarealimageapartiallyaieditedimageorafullyaigeneratedimagejustanswerwithab"
+  },
+  {
+    "label": "areal"
+  },
+  {
+    "label": "cpartialedit"
+  },
+  {
+    "label": "bai"
+  },
+  {
+    "label": "papbpapc"
+  },
+  {
+    "label": "pcpapcpb"
+  },
+  {
+    "label": "pbpapbpc"
+  },
+  {
+    "label": "modelpool"
+  },
+  {
+    "label": "internvlv25"
+  },
+  {
+    "label": "internvlv3"
+  },
+  {
+    "label": "qwenvl25"
+  },
+  {
+    "label": "imageguardx"
+  },
+  {
+    "label": "outputjudge"
+  },
+  {
+    "label": "lmm"
+  },
+  {
+    "label": "lora"
+  },
+  {
+    "label": "logitsa"
+  },
+  {
+    "label": "logitsc"
+  },
+  {
+    "label": "logitsb"
+  },
+  {
+    "label": "softmax"
+  },
+  {
+    "label": "pai"
+  },
+  {
+    "label": "pci"
+  },
+  {
+    "label": "pbi"
+  },
+  {
+    "label": "n"
+  },
+  {
+    "label": "pasumpaipcsumpcipbsumpbii01n"
+  }
+]

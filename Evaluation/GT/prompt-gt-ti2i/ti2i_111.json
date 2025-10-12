@@ -1,0 +1,89 @@
+[
+  {
+    "label": "news"
+  },
+  {
+    "label": "llmsummarizeragent"
+  },
+  {
+    "label": "candlestickchart"
+  },
+  {
+    "label": "llmanalystagent"
+  },
+  {
+    "label": "eventalerts"
+  },
+  {
+    "label": "llmeventagent"
+  },
+  {
+    "label": "predictionagentinputs"
+  },
+  {
+    "label": "currentportfoliometrics"
+  },
+  {
+    "label": "newssummaries"
+  },
+  {
+    "label": "technicalchartanalysis"
+  },
+  {
+    "label": "reflectionsshorttermandmediumterm"
+  },
+  {
+    "label": "reflectionsprevioustradingsignals"
+  },
+  {
+    "label": "liveeventalerts"
+  },
+  {
+    "label": "marketsentimentindex"
+  },
+  {
+    "label": "sentimentanalyzer"
+  },
+  {
+    "label": "predictionagent"
+  },
+  {
+    "label": "actionbuysellhold"
+  },
+  {
+    "label": "positionsize110"
+  },
+  {
+    "label": "confidencescore0100"
+  },
+  {
+    "label": "reasoningdetailedrationale"
+  },
+  {
+    "label": "updatefornextiteration"
+  },
+  {
+    "label": "rewardagent"
+  },
+  {
+    "label": "tradeexecutiontool"
+  },
+  {
+    "label": "performanceevaluator"
+  },
+  {
+    "label": "reflectionagent"
+  },
+  {
+    "label": "tradingsignalschart"
+  },
+  {
+    "label": "shorttermandmediumterm"
+  },
+  {
+    "label": "agentperformancelog"
+  },
+  {
+    "label": "sentimentanalyzer"
+  }
+]

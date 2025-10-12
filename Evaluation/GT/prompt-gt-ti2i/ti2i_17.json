@@ -1,0 +1,95 @@
+[
+  {
+    "label": "multimodalbrainmridataset"
+  },
+  {
+    "label": "dualmodalhierarchicalalignmentsandintegrations"
+  },
+  {
+    "label": "dfcs"
+  },
+  {
+    "label": "dfcs+1"
+  },
+  {
+    "label": "temporalscalesalignmenttsa"
+  },
+  {
+    "label": "dfc"
+  },
+  {
+    "label": "sfc"
+  },
+  {
+    "label": "dynamicstaticalignmentdsa"
+  },
+  {
+    "label": "fmri"
+  },
+  {
+    "label": "dti"
+  },
+  {
+    "label": "functionalstructuralalignmentfsa"
+  },
+  {
+    "label": "ct"
+  },
+  {
+    "label": "pet"
+  },
+  {
+    "label": "multimodalimagingalignmentmia"
+  },
+  {
+    "label": "horizontalhierarchy"
+  },
+  {
+    "label": "hahi"
+  },
+  {
+    "label": "dualdomainhierarchicalinteractionsandfusions"
+  },
+  {
+    "label": "connectivitydomaininteraction"
+  },
+  {
+    "label": "dfcs"
+  },
+  {
+    "label": "crossdomaininteraction"
+  },
+  {
+    "label": "crossdomaininteractionandfusion"
+  },
+  {
+    "label": "connectivitydomaininteraction"
+  },
+  {
+    "label": "regionaldomaininteraction"
+  },
+  {
+    "label": "subgroupclassificationmciscdhccn"
+  },
+  {
+    "label": "regionaldomainandmorphometricintegration"
+  },
+  {
+    "label": "fmri"
+  },
+  {
+    "label": "ct"
+  },
+  {
+    "label": "crossdomaininteractionandfusion"
+  },
+  {
+    "label": "finegrainedinteractionfgi"
+  },
+  {
+    "label": "globalintegrationgi"
+  },
+  {
+    "label": "verticalhierarchy"
+  }
+]

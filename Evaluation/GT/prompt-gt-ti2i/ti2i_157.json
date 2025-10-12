@@ -1,0 +1,83 @@
+[
+  {
+    "label": "modular"
+  },
+  {
+    "label": "internalmodules"
+  },
+  {
+    "label": "externalmodules"
+  },
+  {
+    "label": "memory"
+  },
+  {
+    "label": "inretrieval"
+  },
+  {
+    "label": "store"
+  },
+  {
+    "label": "retrieve"
+  },
+  {
+    "label": "workingshortterm"
+  },
+  {
+    "label": "longtermknowledge"
+  },
+  {
+    "label": "databaseembedding"
+  },
+  {
+    "label": "cacheepisodicbuffer"
+  },
+  {
+    "label": "llm"
+  },
+  {
+    "label": "as"
+  },
+  {
+    "label": "brain"
+  },
+  {
+    "label": "reasoningiocottotgotcotsc"
+  },
+  {
+    "label": "modalitytextvisionspeechmixed"
+  },
+  {
+    "label": "structuresaycanreactreflextionswiftsage"
+  },
+  {
+    "label": "agentstoolformerautogptcrewai"
+  },
+  {
+    "label": "tool"
+  },
+  {
+    "label": "foraction"
+  },
+  {
+    "label": "call"
+  },
+  {
+    "label": "return"
+  },
+  {
+    "label": "events"
+  },
+  {
+    "label": "calculatorrobotarm"
+  },
+  {
+    "label": "codeinterpretersensor"
+  },
+  {
+    "label": "searchengine"
+  },
+  {
+    "label": "apicallingdatastore"
+  }
+]

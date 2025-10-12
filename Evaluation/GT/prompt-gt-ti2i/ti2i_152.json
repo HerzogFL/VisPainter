@@ -1,0 +1,92 @@
+[
+  {
+    "label": "fabricswitch"
+  },
+  {
+    "label": "egressqueue"
+  },
+  {
+    "label": "ingressqueue"
+  },
+  {
+    "label": "fromusp"
+  },
+  {
+    "label": "0"
+  },
+  {
+    "label": "1"
+  },
+  {
+    "label": "s0"
+  },
+  {
+    "label": "instructionrepacking"
+  },
+  {
+    "label": "memopcodechecker"
+  },
+  {
+    "label": "vcs"
+  },
+  {
+    "label": "processcore"
+  },
+  {
+    "label": "onswitchbuffer"
+  },
+  {
+    "label": "sram32kb1mb"
+  },
+  {
+    "label": "sram32kb1mb"
+  },
+  {
+    "label": "bypasspath"
+  },
+  {
+    "label": "fmendpointextension"
+  },
+  {
+    "label": "fmendpointextension"
+  },
+  {
+    "label": "migrationcontroller"
+  },
+  {
+    "label": "addressprofiler"
+  },
+  {
+    "label": "memoryindexing"
+  },
+  {
+    "label": "0"
+  },
+  {
+    "label": "1"
+  },
+  {
+    "label": "todsp"
+  },
+  {
+    "label": "securityfilter"
+  },
+  {
+    "label": "powerstatemonitor"
+  },
+  {
+    "label": "errorlogger"
+  },
+  {
+    "label": "debugcontroller"
+  },
+  {
+    "label": "clk"
+  },
+  {
+    "label": "syncarbiter"
+  },
+  {
+    "label": "trig"
+  }
+]

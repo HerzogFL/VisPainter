@@ -1,0 +1,56 @@
+[
+  {
+    "label": "vikidataset"
+  },
+  {
+    "label": "+"
+  },
+  {
+    "label": "cotgeneration"
+  },
+  {
+    "label": "stage1sft"
+  },
+  {
+    "label": "warmup"
+  },
+  {
+    "label": "cotsftmodel"
+  },
+  {
+    "label": "anssftmodel"
+  },
+  {
+    "label": "stage2reinforcementfinetuning"
+  },
+  {
+    "label": "policymodel"
+  },
+  {
+    "label": "referencemodel"
+  },
+  {
+    "label": "kldivergence"
+  },
+  {
+    "label": "sampledcandidateresponses"
+  },
+  {
+    "label": "grpo"
+  },
+  {
+    "label": "rulebasedreward"
+  },
+  {
+    "label": "+"
+  },
+  {
+    "label": "formatreward"
+  },
+  {
+    "label": "accuracyreward"
+  },
+  {
+    "label": "policygradientupdate"
+  }
+]

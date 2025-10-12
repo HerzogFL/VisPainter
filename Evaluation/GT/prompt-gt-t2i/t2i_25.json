@@ -1,0 +1,65 @@
+[
+  {
+    "label": "iebam"
+  },
+  {
+    "label": "finput"
+  },
+  {
+    "label": "flow"
+  },
+  {
+    "label": "concat3x3conv"
+  },
+  {
+    "label": "c"
+  },
+  {
+    "label": "3x3conv"
+  },
+  {
+    "label": "3x3conv"
+  },
+  {
+    "label": "3x3conv"
+  },
+  {
+    "label": "fullyattention"
+  },
+  {
+    "label": "fullyattention"
+  },
+  {
+    "label": "fbody"
+  },
+  {
+    "label": "lbody"
+  },
+  {
+    "label": "fhigh"
+  },
+  {
+    "label": "fm"
+  },
+  {
+    "label": "fin"
+  },
+  {
+    "label": "fex"
+  },
+  {
+    "label": "fex"
+  },
+  {
+    "label": "lin"
+  },
+  {
+    "label": "lbody"
+  },
+  {
+    "label": "c"
+  },
+  {
+    "label": "+"
+  }
+]

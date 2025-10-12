@@ -1,0 +1,119 @@
+[
+  {
+    "label": "routingmechanism"
+  },
+  {
+    "label": "routingpolicy"
+  },
+  {
+    "label": "policyausagellm"
+  },
+  {
+    "label": "policyblanguagellm"
+  },
+  {
+    "label": "policyccontextllm"
+  },
+  {
+    "label": "query"
+  },
+  {
+    "label": "router"
+  },
+  {
+    "label": "detect"
+  },
+  {
+    "label": "a"
+  },
+  {
+    "label": "b"
+  },
+  {
+    "label": "map"
+  },
+  {
+    "label": "llma"
+  },
+  {
+    "label": "llmb"
+  },
+  {
+    "label": "llma"
+  },
+  {
+    "label": "llmb"
+  },
+  {
+    "label": "response"
+  },
+  {
+    "label": "alternativeresponse"
+  },
+  {
+    "label": "codingapplication"
+  },
+  {
+    "label": "routingpolicy"
+  },
+  {
+    "label": "codegengeneratecodemodelllma"
+  },
+  {
+    "label": "codeexplainexplaincodemodelllmb"
+  },
+  {
+    "label": "codedebugfixcodemodelllmc"
+  },
+  {
+    "label": "codereviewreviewcodemodelllmd"
+  },
+  {
+    "label": "router"
+  },
+  {
+    "label": "writemeafunctiontofindlongestcommonsubsequence"
+  },
+  {
+    "label": "codegen"
+  },
+  {
+    "label": "+"
+  },
+  {
+    "label": "deffindsubsequence"
+  },
+  {
+    "label": "llma"
+  },
+  {
+    "label": "+"
+  },
+  {
+    "label": "errorobjectisnotsubscriptable"
+  },
+  {
+    "label": "codedebug"
+  },
+  {
+    "label": "hereisafixyoucan"
+  },
+  {
+    "label": "llmc"
+  },
+  {
+    "label": "+"
+  },
+  {
+    "label": "canyoureviewthefinalcode"
+  },
+  {
+    "label": "codereview"
+  },
+  {
+    "label": "codereviewcompletelooksgood"
+  },
+  {
+    "label": "llmd"
+  }
+]

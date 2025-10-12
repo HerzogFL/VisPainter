@@ -1,0 +1,59 @@
+[
+  {
+    "label": "inputimage"
+  },
+  {
+    "label": "patchembedding"
+  },
+  {
+    "label": "layernorm"
+  },
+  {
+    "label": "multiheadselfattention"
+  },
+  {
+    "label": "+"
+  },
+  {
+    "label": "layernorm"
+  },
+  {
+    "label": "feedforward"
+  },
+  {
+    "label": "+"
+  },
+  {
+    "label": "weightlessnetwork"
+  },
+  {
+    "label": "+"
+  },
+  {
+    "label": "llayers"
+  },
+  {
+    "label": "activationsflattenedout"
+  },
+  {
+    "label": "rowwise"
+  },
+  {
+    "label": "thermometerencodings"
+  },
+  {
+    "label": "lutlayer1"
+  },
+  {
+    "label": "lutlayer2"
+  },
+  {
+    "label": "lutlayer3"
+  },
+  {
+    "label": "ternarysummation"
+  },
+  {
+    "label": "latentspace"
+  }
+]

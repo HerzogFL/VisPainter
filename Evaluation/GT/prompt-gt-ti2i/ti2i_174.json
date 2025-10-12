@@ -1,0 +1,134 @@
+[
+  {
+    "label": "doursspeculativeretrievalaugmentedgenerationspeculativerag"
+  },
+  {
+    "label": "q"
+  },
+  {
+    "label": "noneedtoinstructiontunethegeneralistlm"
+  },
+  {
+    "label": "whengeneralistlmencountersknowledgeintensivequeries"
+  },
+  {
+    "label": "understanddocumentsinparallelwiththeragdrafter"
+  },
+  {
+    "label": "aa"
+  },
+  {
+    "label": "final"
+  },
+  {
+    "label": "endgenerationorcontinuequeryinggeneralistlmforothertasksortriggerasecondaryevaluator"
+  },
+  {
+    "label": "evaluatedraftsbygeneralistlmacceptbestdraftorsecondaryjudgment"
+  },
+  {
+    "label": "aargmaxscoreaq"
+  },
+  {
+    "label": "specialistragdrafter"
+  },
+  {
+    "label": "q"
+  },
+  {
+    "label": "+"
+  },
+  {
+    "label": "1"
+  },
+  {
+    "label": "2"
+  },
+  {
+    "label": "7"
+  },
+  {
+    "label": "q"
+  },
+  {
+    "label": "+"
+  },
+  {
+    "label": "4"
+  },
+  {
+    "label": "5"
+  },
+  {
+    "label": "8"
+  },
+  {
+    "label": "q"
+  },
+  {
+    "label": "+"
+  },
+  {
+    "label": "3"
+  },
+  {
+    "label": "6"
+  },
+  {
+    "label": "9"
+  },
+  {
+    "label": "q"
+  },
+  {
+    "label": "+"
+  },
+  {
+    "label": "10"
+  },
+  {
+    "label": "11"
+  },
+  {
+    "label": "12"
+  },
+  {
+    "label": "efficientlygeneratedraftsrationaleandevaluation"
+  },
+  {
+    "label": "understandmultipleperspectivesofthedocsaggregatesecondaryevaluation"
+  },
+  {
+    "label": "docsofsamecolorformtopicclustersdenotessecondaryevaluatoroutput"
+  },
+  {
+    "label": "automatedsecondaryevaluation"
+  },
+  {
+    "label": "relevance"
+  },
+  {
+    "label": "faithfulness"
+  },
+  {
+    "label": "novelty"
+  },
+  {
+    "label": "finalscore"
+  },
+  {
+    "label": "evaluateeachanswerdraftbasedonthequestionrationaleandsecondaryevaluationinparallelusinggeneralistlmandacceptthebestdraft"
+  },
+  {
+    "label": "querygeneralistlm"
+  },
+  {
+    "label": "callspecialistragdrafter"
+  },
+  {
+    "label": "aggregatesecondaryevaluation"
+  },
+  {
+    "label": "evaluateacceptdraftsintogeneralistlm"
+  }
+]

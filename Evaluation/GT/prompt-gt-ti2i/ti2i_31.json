@@ -1,0 +1,98 @@
+[
+  {
+    "label": "finetuning"
+  },
+  {
+    "label": "cnnfeatureextractor"
+  },
+  {
+    "label": "mhattention"
+  },
+  {
+    "label": "layernorm"
+  },
+  {
+    "label": "feedforwardx2"
+  },
+  {
+    "label": "layernorm"
+  },
+  {
+    "label": "residualconnection"
+  },
+  {
+    "label": "previouspetapproach"
+  },
+  {
+    "label": "cnnfeatureextractor"
+  },
+  {
+    "label": "mhattention"
+  },
+  {
+    "label": "layernorm"
+  },
+  {
+    "label": "feedforwardx2"
+  },
+  {
+    "label": "transformeradapter"
+  },
+  {
+    "label": "layernorm"
+  },
+  {
+    "label": "residualconnection"
+  },
+  {
+    "label": "proposedmethodchapter"
+  },
+  {
+    "label": "cnnfeatureextractor"
+  },
+  {
+    "label": "cnnadapter"
+  },
+  {
+    "label": "mhattention"
+  },
+  {
+    "label": "layernorm"
+  },
+  {
+    "label": "feedforwardx2"
+  },
+  {
+    "label": "transformeradapter"
+  },
+  {
+    "label": "layernorm"
+  },
+  {
+    "label": "residualconnection"
+  },
+  {
+    "label": "featureextractorblock"
+  },
+  {
+    "label": "convblock"
+  },
+  {
+    "label": "cnnadapter"
+  },
+  {
+    "label": "cnnadapter"
+  },
+  {
+    "label": "conv1d"
+  },
+  {
+    "label": "layernorm"
+  },
+  {
+    "label": "gelu"
+  },
+  {
+    "label": "dropout"
+  }
+]

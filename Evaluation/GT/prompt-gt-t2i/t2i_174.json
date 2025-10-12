@@ -1,0 +1,83 @@
+[
+  {
+    "label": "doursspeculativeretrievalaugmentedgenerationspeculativerag"
+  },
+  {
+    "label": "q"
+  },
+  {
+    "label": "understanddocumentsinparallelwiththeragdrafter"
+  },
+  {
+    "label": "aa"
+  },
+  {
+    "label": "endgenerationorcontinuequeryinggeneralistlmforothertasks"
+  },
+  {
+    "label": "evaluatedraftsbygeneralistlmacceptthebestdraft"
+  },
+  {
+    "label": "aargmaxscoreaq"
+  },
+  {
+    "label": "specialistragdrafter"
+  },
+  {
+    "label": "q"
+  },
+  {
+    "label": "+"
+  },
+  {
+    "label": "1"
+  },
+  {
+    "label": "2"
+  },
+  {
+    "label": "q"
+  },
+  {
+    "label": "+"
+  },
+  {
+    "label": "4"
+  },
+  {
+    "label": "5"
+  },
+  {
+    "label": "q"
+  },
+  {
+    "label": "+"
+  },
+  {
+    "label": "3"
+  },
+  {
+    "label": "6"
+  },
+  {
+    "label": "efficientlygeneratedraftsandrationale"
+  },
+  {
+    "label": "understandmultipleperspectivesofthedocs"
+  },
+  {
+    "label": "docsofthesamecolorarefromthesametopiccluster"
+  },
+  {
+    "label": "evaluateeachanswerdraftbasedonthequestionandtherationaleinparallelusinggeneralistlmandacceptthebestdraft"
+  },
+  {
+    "label": "querygeneralistlm"
+  },
+  {
+    "label": "callspecialistragdrafter"
+  },
+  {
+    "label": "evaluateacceptdraftsintogeneralistlm"
+  }
+]

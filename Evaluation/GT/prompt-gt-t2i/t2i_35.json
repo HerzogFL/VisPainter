@@ -1,0 +1,53 @@
+[
+  {
+    "label": "testdataaugmentationwithmixup"
+  },
+  {
+    "label": "testdata"
+  },
+  {
+    "label": "class1"
+  },
+  {
+    "label": "class2"
+  },
+  {
+    "label": "classm"
+  },
+  {
+    "label": "sampledtrainingdatanmk"
+  },
+  {
+    "label": "augmentedtestdata"
+  },
+  {
+    "label": "nmk"
+  },
+  {
+    "label": "mixuplabelpredictionandtestlabelinference"
+  },
+  {
+    "label": "trainednetwork"
+  },
+  {
+    "label": "inferredpredictions"
+  },
+  {
+    "label": "nmk"
+  },
+  {
+    "label": "finalprediction"
+  },
+  {
+    "label": "datauncertaintyestimation"
+  },
+  {
+    "label": "classhistogram"
+  },
+  {
+    "label": "duxplnp"
+  },
+  {
+    "label": "ttmadatauncertainty"
+  }
+]

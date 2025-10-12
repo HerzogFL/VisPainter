@@ -1,0 +1,71 @@
+[
+  {
+    "label": "inputdataset"
+  },
+  {
+    "label": "preprocessingandsplitting"
+  },
+  {
+    "label": "grayscale"
+  },
+  {
+    "label": "normalization"
+  },
+  {
+    "label": "robustaugmen"
+  },
+  {
+    "label": "5foldcrossvalid"
+  },
+  {
+    "label": "balanceddistr"
+  },
+  {
+    "label": "modelarchitecture"
+  },
+  {
+    "label": "mobilenetv3base"
+  },
+  {
+    "label": "triclass"
+  },
+  {
+    "label": "combination"
+  },
+  {
+    "label": "classifier"
+  },
+  {
+    "label": "trainingsection"
+  },
+  {
+    "label": "crossentropyloss"
+  },
+  {
+    "label": "adamwoptimization"
+  },
+  {
+    "label": "learningratescheduling"
+  },
+  {
+    "label": "explainableaigradcam"
+  },
+  {
+    "label": "gradcamvisual"
+  },
+  {
+    "label": "debugging"
+  },
+  {
+    "label": "andvalid"
+  },
+  {
+    "label": "feature"
+  },
+  {
+    "label": "importance"
+  },
+  {
+    "label": "outputresults"
+  }
+]

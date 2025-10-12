@@ -1,0 +1,65 @@
+[
+  {
+    "label": "training"
+  },
+  {
+    "label": "llama"
+  },
+  {
+    "label": "alpaca"
+  },
+  {
+    "label": "+"
+  },
+  {
+    "label": "synthesizing"
+  },
+  {
+    "label": "filtereddata"
+  },
+  {
+    "label": "midrangecomplexity"
+  },
+  {
+    "label": "cirsguidedinstructiongeneration"
+  },
+  {
+    "label": "indistribution"
+  },
+  {
+    "label": "outofdistribution"
+  },
+  {
+    "label": "aqua"
+  },
+  {
+    "label": "asdiv"
+  },
+  {
+    "label": "gsm8k"
+  },
+  {
+    "label": "svamp"
+  },
+  {
+    "label": "math"
+  },
+  {
+    "label": "bigbenchhard"
+  },
+  {
+    "label": "evaluation"
+  },
+  {
+    "label": "cirsbasedcodefiltering"
+  },
+  {
+    "label": "filter"
+  },
+  {
+    "label": "codealpaca"
+  },
+  {
+    "label": "traintest"
+  }
+]

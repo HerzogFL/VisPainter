@@ -1,0 +1,62 @@
+[
+  {
+    "label": "caption"
+  },
+  {
+    "label": "imagevideo"
+  },
+  {
+    "label": "noisyinput"
+  },
+  {
+    "label": "mask"
+  },
+  {
+    "label": "action"
+  },
+  {
+    "label": "clipmllm"
+  },
+  {
+    "label": "mlp"
+  },
+  {
+    "label": "mlp"
+  },
+  {
+    "label": "timestep"
+  },
+  {
+    "label": "sinusoidalencoding"
+  },
+  {
+    "label": "3dvae"
+  },
+  {
+    "label": "patchify"
+  },
+  {
+    "label": "patchify"
+  },
+  {
+    "label": "actionencoder"
+  },
+  {
+    "label": "doublestreamditblocks"
+  },
+  {
+    "label": "singlestreamditblocks"
+  },
+  {
+    "label": "unpatchify"
+  },
+  {
+    "label": "output"
+  },
+  {
+    "label": "concat"
+  },
+  {
+    "label": "add"
+  }
+]

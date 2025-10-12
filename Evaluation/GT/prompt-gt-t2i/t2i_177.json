@@ -1,0 +1,50 @@
+[
+  {
+    "label": "interleavedtextimagevideo"
+  },
+  {
+    "label": "whatswrittenonthisimage"
+  },
+  {
+    "label": "knowledge"
+  },
+  {
+    "label": "is"
+  },
+  {
+    "label": "power"
+  },
+  {
+    "label": "texttokenizer3dcausalvaeencoder"
+  },
+  {
+    "label": "embeddinglayer"
+  },
+  {
+    "label": "noisescheduler"
+  },
+  {
+    "label": "semanticlayers"
+  },
+  {
+    "label": "projector"
+  },
+  {
+    "label": "spatialtemporalfusion"
+  },
+  {
+    "label": "showo2"
+  },
+  {
+    "label": "causalfullattention"
+  },
+  {
+    "label": "lmhead"
+  },
+  {
+    "label": "flowhead"
+  },
+  {
+    "label": "textdetokenizer3dcausalvaedecoder"
+  }
+]

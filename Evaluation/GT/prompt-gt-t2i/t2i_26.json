@@ -1,0 +1,89 @@
+[
+  {
+    "label": "inputfeatures"
+  },
+  {
+    "label": "localcontext"
+  },
+  {
+    "label": "iepedestrianbboxscontent"
+  },
+  {
+    "label": "globalcontext"
+  },
+  {
+    "label": "semanticsegmentation"
+  },
+  {
+    "label": "motion"
+  },
+  {
+    "label": "location"
+  },
+  {
+    "label": "bodypose"
+  },
+  {
+    "label": "model"
+  },
+  {
+    "label": "3dc"
+  },
+  {
+    "label": "wc"
+  },
+  {
+    "label": "3dc"
+  },
+  {
+    "label": "wc"
+  },
+  {
+    "label": "3dc"
+  },
+  {
+    "label": "wc"
+  },
+  {
+    "label": "3dc"
+  },
+  {
+    "label": "wc"
+  },
+  {
+    "label": "fn"
+  },
+  {
+    "label": "mlp"
+  },
+  {
+    "label": "c"
+  },
+  {
+    "label": "c"
+  },
+  {
+    "label": "c"
+  },
+  {
+    "label": "a"
+  },
+  {
+    "label": "a"
+  },
+  {
+    "label": "fusion"
+  },
+  {
+    "label": "gap"
+  },
+  {
+    "label": "s"
+  },
+  {
+    "label": "output"
+  },
+  {
+    "label": "intentionclassificationcrossingnotcrossing"
+  }
+]

@@ -1,0 +1,59 @@
+[
+  {
+    "label": "comprehensivemodelingarchitecture"
+  },
+  {
+    "label": "outputs"
+  },
+  {
+    "label": "taskoutputlayer"
+  },
+  {
+    "label": "auxiliaryoutputmodule"
+  },
+  {
+    "label": "adaptivesequencemodeling"
+  },
+  {
+    "label": "metalearninghead"
+  },
+  {
+    "label": "pretrainedtransformer"
+  },
+  {
+    "label": "variableawareplm"
+  },
+  {
+    "label": "variableembeddings"
+  },
+  {
+    "label": "+"
+  },
+  {
+    "label": "normalizationlayer"
+  },
+  {
+    "label": "timeawareplm"
+  },
+  {
+    "label": "continuoustimeembeddings"
+  },
+  {
+    "label": "+"
+  },
+  {
+    "label": "temporalregularizer"
+  },
+  {
+    "label": "timeembedder"
+  },
+  {
+    "label": "variableembedder"
+  },
+  {
+    "label": "valueembedder"
+  },
+  {
+    "label": "contextencoder"
+  }
+]

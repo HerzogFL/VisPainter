@@ -1,0 +1,116 @@
+[
+  {
+    "label": "idbasedrecommendationsegmfgnnsbased"
+  },
+  {
+    "label": "241689"
+  },
+  {
+    "label": "120324"
+  },
+  {
+    "label": "u"
+  },
+  {
+    "label": "v"
+  },
+  {
+    "label": "idindexing"
+  },
+  {
+    "label": "cf"
+  },
+  {
+    "label": "representationlearning"
+  },
+  {
+    "label": "p"
+  },
+  {
+    "label": "q"
+  },
+  {
+    "label": "064"
+  },
+  {
+    "label": "usersitemstokenizationinllmbasedrecommendations"
+  },
+  {
+    "label": "1trivialindexing"
+  },
+  {
+    "label": "appleiphone15256gbblack"
+  },
+  {
+    "label": "120324"
+  },
+  {
+    "label": "special"
+  },
+  {
+    "label": "2wholewordembeddingegp5"
+  },
+  {
+    "label": "item"
+  },
+  {
+    "label": "12"
+  },
+  {
+    "label": "03"
+  },
+  {
+    "label": "24"
+  },
+  {
+    "label": "+"
+  },
+  {
+    "label": "p5"
+  },
+  {
+    "label": "p6"
+  },
+  {
+    "label": "p7"
+  },
+  {
+    "label": "p8"
+  },
+  {
+    "label": "p9"
+  },
+  {
+    "label": "+"
+  },
+  {
+    "label": "w7"
+  },
+  {
+    "label": "invocabularytokens"
+  },
+  {
+    "label": "positionalembeddings"
+  },
+  {
+    "label": "wholewordembedding"
+  },
+  {
+    "label": "3softindexing"
+  },
+  {
+    "label": "encoder"
+  },
+  {
+    "label": "q"
+  },
+  {
+    "label": "projector"
+  },
+  {
+    "label": "d512"
+  },
+  {
+    "label": "continuousembedding"
+  }
+]

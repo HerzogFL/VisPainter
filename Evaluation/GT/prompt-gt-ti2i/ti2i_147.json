@@ -1,0 +1,104 @@
+[
+  {
+    "label": "x"
+  },
+  {
+    "label": "encoder"
+  },
+  {
+    "label": "z"
+  },
+  {
+    "label": "classifier"
+  },
+  {
+    "label": "ccdt"
+  },
+  {
+    "label": "difp"
+  },
+  {
+    "label": "encoder"
+  },
+  {
+    "label": "z1"
+  },
+  {
+    "label": "classifier"
+  },
+  {
+    "label": "1"
+  },
+  {
+    "label": "ccdt"
+  },
+  {
+    "label": "difp"
+  },
+  {
+    "label": "encoder"
+  },
+  {
+    "label": "z2"
+  },
+  {
+    "label": "classifier"
+  },
+  {
+    "label": "2"
+  },
+  {
+    "label": "ccdt"
+  },
+  {
+    "label": "difp"
+  },
+  {
+    "label": "encoder"
+  },
+  {
+    "label": "z3"
+  },
+  {
+    "label": "classifier"
+  },
+  {
+    "label": "3"
+  },
+  {
+    "label": "crossclientfeatureextension"
+  },
+  {
+    "label": "representationalignment"
+  },
+  {
+    "label": "predictionalignment"
+  },
+  {
+    "label": "y"
+  },
+  {
+    "label": "crossentropy"
+  },
+  {
+    "label": "lcls"
+  },
+  {
+    "label": "supervisedcontrastiveloss"
+  },
+  {
+    "label": "lra"
+  },
+  {
+    "label": "jensonshannondivergence"
+  },
+  {
+    "label": "ljs"
+  },
+  {
+    "label": "interclientdiscrepancy"
+  },
+  {
+    "label": "clientside"
+  }
+]

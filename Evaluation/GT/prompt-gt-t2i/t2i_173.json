@@ -1,0 +1,128 @@
+[
+  {
+    "label": "astandardrag"
+  },
+  {
+    "label": "q"
+  },
+  {
+    "label": "query"
+  },
+  {
+    "label": "1"
+  },
+  {
+    "label": "2"
+  },
+  {
+    "label": "3"
+  },
+  {
+    "label": "incorporatealldocsintotheprompt"
+  },
+  {
+    "label": "generalistlm"
+  },
+  {
+    "label": "a"
+  },
+  {
+    "label": "finalanswer"
+  },
+  {
+    "label": "bselfreflectiverag"
+  },
+  {
+    "label": "q"
+  },
+  {
+    "label": "generalistlm"
+  },
+  {
+    "label": "needretrieval"
+  },
+  {
+    "label": "1"
+  },
+  {
+    "label": "relevant"
+  },
+  {
+    "label": "a"
+  },
+  {
+    "label": "supported"
+  },
+  {
+    "label": "2"
+  },
+  {
+    "label": "irrelevant"
+  },
+  {
+    "label": "3"
+  },
+  {
+    "label": "4"
+  },
+  {
+    "label": "specialtagslearnedduringinstructiontuning"
+  },
+  {
+    "label": "generatespecialtagstoreflectovertheretrieveddocsandthegeneratedanswers"
+  },
+  {
+    "label": "ccorrectiverag"
+  },
+  {
+    "label": "nlimodel"
+  },
+  {
+    "label": "1"
+  },
+  {
+    "label": "2"
+  },
+  {
+    "label": "3"
+  },
+  {
+    "label": "correct"
+  },
+  {
+    "label": "ambiguous"
+  },
+  {
+    "label": "incorrect"
+  },
+  {
+    "label": "useannlimodeltoclassifyretrievaldocs"
+  },
+  {
+    "label": "q"
+  },
+  {
+    "label": "query"
+  },
+  {
+    "label": "1"
+  },
+  {
+    "label": "relevantdocs"
+  },
+  {
+    "label": "2"
+  },
+  {
+    "label": "websearch"
+  },
+  {
+    "label": "generalistlm"
+  },
+  {
+    "label": "a"
+  },
+  {
+    "label": "incorporaterelevantdocsandthedocsfromwebsearchintoprompt"
+  }
+]

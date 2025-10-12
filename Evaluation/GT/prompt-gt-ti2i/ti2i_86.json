@@ -1,0 +1,56 @@
+[
+  {
+    "label": "video"
+  },
+  {
+    "label": "audio"
+  },
+  {
+    "label": "featurefusion"
+  },
+  {
+    "label": "vafm"
+  },
+  {
+    "label": "conv1"
+  },
+  {
+    "label": "conv2"
+  },
+  {
+    "label": "conv3"
+  },
+  {
+    "label": "queryconv"
+  },
+  {
+    "label": "keyconv"
+  },
+  {
+    "label": "featureconv"
+  },
+  {
+    "label": "thw"
+  },
+  {
+    "label": "thw"
+  },
+  {
+    "label": "thw"
+  },
+  {
+    "label": "multimodalsimilaritycalculation"
+  },
+  {
+    "label": "valuefusion"
+  },
+  {
+    "label": "thw"
+  },
+  {
+    "label": "reslayer"
+  },
+  {
+    "label": "+"
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "label": "input"
+  },
+  {
+    "label": "adc"
+  },
+  {
+    "label": "digitalprocessor"
+  },
+  {
+    "label": "lowpassfilter"
+  },
+  {
+    "label": "i"
+  },
+  {
+    "label": "lowpassfilter"
+  },
+  {
+    "label": "q"
+  },
+  {
+    "label": "arctan"
+  },
+  {
+    "label": "phaseunwrapper"
+  },
+  {
+    "label": "phase"
+  },
+  {
+    "label": "ref"
+  },
+  {
+    "label": "clock"
+  },
+  {
+    "label": "nco"
+  },
+  {
+    "label": "sin2fnco"
+  },
+  {
+    "label": "cos2fnco"
+  },
+  {
+    "label": "syncout"
+  },
+  {
+    "label": "diagnostics"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "label": "shortcutting"
+  },
+  {
+    "label": "mlp"
+  },
+  {
+    "label": "layernorm"
+  },
+  {
+    "label": "spatialpadding"
+  },
+  {
+    "label": "mhsa"
+  },
+  {
+    "label": "layernorm"
+  },
+  {
+    "label": "residualmerge"
+  },
+  {
+    "label": "downsamplepooling"
+  },
+  {
+    "label": "channelmixing"
+  },
+  {
+    "label": "windowshiftmasking"
+  },
+  {
+    "label": "patchrecombination"
+  },
+  {
+    "label": "tn+1d"
+  },
+  {
+    "label": "tnd"
+  },
+  {
+    "label": "blockoutputtnd"
+  }
+]

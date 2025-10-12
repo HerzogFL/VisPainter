@@ -1,0 +1,71 @@
+[
+  {
+    "label": "processcoreextensions"
+  },
+  {
+    "label": "to"
+  },
+  {
+    "label": "onswitchbuffer"
+  },
+  {
+    "label": "asyncflag"
+  },
+  {
+    "label": "accumulatereglogic"
+  },
+  {
+    "label": "clk"
+  },
+  {
+    "label": "swapreg"
+  },
+  {
+    "label": "reset"
+  },
+  {
+    "label": "functionalconfigregister"
+  },
+  {
+    "label": "mode"
+  },
+  {
+    "label": "accumulateconfiglogic"
+  },
+  {
+    "label": "flag"
+  },
+  {
+    "label": "instructioningressregistry"
+  },
+  {
+    "label": "parity"
+  },
+  {
+    "label": "instructiondecoder"
+  },
+  {
+    "label": "valid"
+  },
+  {
+    "label": "debugmonitor"
+  },
+  {
+    "label": "event"
+  },
+  {
+    "label": "instruction"
+  },
+  {
+    "label": "instraddr"
+  },
+  {
+    "label": "backpressure"
+  },
+  {
+    "label": "instrrowaccessdata"
+  },
+  {
+    "label": "dbg"
+  }
+]

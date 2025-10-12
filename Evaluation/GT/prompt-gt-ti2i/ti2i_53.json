@@ -1,0 +1,86 @@
+[
+  {
+    "label": "router"
+  },
+  {
+    "label": "g07"
+  },
+  {
+    "label": "layer1"
+  },
+  {
+    "label": "layer2"
+  },
+  {
+    "label": "layer3"
+  },
+  {
+    "label": "layer4"
+  },
+  {
+    "label": "layer2"
+  },
+  {
+    "label": "auxiliaryblock"
+  },
+  {
+    "label": "layer3"
+  },
+  {
+    "label": "router"
+  },
+  {
+    "label": "layer2"
+  },
+  {
+    "label": "+"
+  },
+  {
+    "label": "layer1"
+  },
+  {
+    "label": "+"
+  },
+  {
+    "label": "layer1"
+  },
+  {
+    "label": "subunit1"
+  },
+  {
+    "label": "subunit2"
+  },
+  {
+    "label": "subunit3"
+  },
+  {
+    "label": "subunit4"
+  },
+  {
+    "label": "subunit5"
+  },
+  {
+    "label": "subunit6"
+  },
+  {
+    "label": "recursionblock"
+  },
+  {
+    "label": "memorymodule"
+  },
+  {
+    "label": "memorymodule"
+  },
+  {
+    "label": "memorymodule"
+  },
+  {
+    "label": "layer0"
+  },
+  {
+    "label": "reset"
+  },
+  {
+    "label": "memorymodule"
+  }
+]

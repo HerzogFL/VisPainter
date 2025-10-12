@@ -1,0 +1,107 @@
+[
+  {
+    "label": "advancedfilteringpipeline"
+  },
+  {
+    "label": "trainingphase"
+  },
+  {
+    "label": "llamaalpaca"
+  },
+  {
+    "label": "+"
+  },
+  {
+    "label": "synthesizingfiltereddata"
+  },
+  {
+    "label": "midrangecomplexity"
+  },
+  {
+    "label": "cirsguidedadaptiveinstructiongeneration"
+  },
+  {
+    "label": "indistribution"
+  },
+  {
+    "label": "aqua"
+  },
+  {
+    "label": "asdiv"
+  },
+  {
+    "label": "gsm8k"
+  },
+  {
+    "label": "svamp"
+  },
+  {
+    "label": "outofdistribution"
+  },
+  {
+    "label": "math"
+  },
+  {
+    "label": "bigbenchhard"
+  },
+  {
+    "label": "hendrycks"
+  },
+  {
+    "label": "mathqa"
+  },
+  {
+    "label": "novelcombinations"
+  },
+  {
+    "label": "complexsynthesis"
+  },
+  {
+    "label": "chainedtasks"
+  },
+  {
+    "label": "edgecasetasks"
+  },
+  {
+    "label": "unexpectedinputs"
+  },
+  {
+    "label": "raretypes"
+  },
+  {
+    "label": "evaluation"
+  },
+  {
+    "label": "reporting"
+  },
+  {
+    "label": "cirsbasedmultistagecodefiltering"
+  },
+  {
+    "label": "codeinstructions"
+  },
+  {
+    "label": "stage1syntaxfilter"
+  },
+  {
+    "label": "stage2semanticfilter"
+  },
+  {
+    "label": "codealpacadataset"
+  },
+  {
+    "label": "train"
+  },
+  {
+    "label": "validate"
+  },
+  {
+    "label": "validate"
+  },
+  {
+    "label": "test"
+  },
+  {
+    "label": "hierarchicalfilteringprocess"
+  }
+]

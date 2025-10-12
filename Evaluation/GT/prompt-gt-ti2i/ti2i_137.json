@@ -1,0 +1,107 @@
+[
+  {
+    "label": "training"
+  },
+  {
+    "label": "llama"
+  },
+  {
+    "label": "alpaca"
+  },
+  {
+    "label": "+"
+  },
+  {
+    "label": "openai"
+  },
+  {
+    "label": "mistral"
+  },
+  {
+    "label": "+"
+  },
+  {
+    "label": "synthesizing"
+  },
+  {
+    "label": "filtereddata"
+  },
+  {
+    "label": "midrangecomplexity"
+  },
+  {
+    "label": "cirsguidedinstructiongeneration"
+  },
+  {
+    "label": "indistribution"
+  },
+  {
+    "label": "neardistribution"
+  },
+  {
+    "label": "outofdistribution"
+  },
+  {
+    "label": "aqua"
+  },
+  {
+    "label": "asdiv"
+  },
+  {
+    "label": "gsm8k"
+  },
+  {
+    "label": "svamp"
+  },
+  {
+    "label": "mathqa"
+  },
+  {
+    "label": "multiarith"
+  },
+  {
+    "label": "math"
+  },
+  {
+    "label": "bigbenchhard"
+  },
+  {
+    "label": "deepmindmath"
+  },
+  {
+    "label": "cirs"
+  },
+  {
+    "label": "cirs"
+  },
+  {
+    "label": "cirs"
+  },
+  {
+    "label": "evaluation"
+  },
+  {
+    "label": "cirsbasedcodefiltering"
+  },
+  {
+    "label": "filter"
+  },
+  {
+    "label": "score"
+  },
+  {
+    "label": "codealpaca"
+  },
+  {
+    "label": "wizardcoder"
+  },
+  {
+    "label": "stablecode"
+  },
+  {
+    "label": "trainvalidationtestsplit"
+  },
+  {
+    "label": "codeinstructions"
+  }
+]

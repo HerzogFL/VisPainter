@@ -1,0 +1,110 @@
+[
+  {
+    "label": "caption"
+  },
+  {
+    "label": "imagevideo"
+  },
+  {
+    "label": "noisyinput"
+  },
+  {
+    "label": "mask"
+  },
+  {
+    "label": "action"
+  },
+  {
+    "label": "clipmllm"
+  },
+  {
+    "label": "mlp"
+  },
+  {
+    "label": "mlp"
+  },
+  {
+    "label": "timestep"
+  },
+  {
+    "label": "sinusoidalencoding"
+  },
+  {
+    "label": "mlp"
+  },
+  {
+    "label": "attentionadapter"
+  },
+  {
+    "label": "crossmodalfusion"
+  },
+  {
+    "label": "3dvae"
+  },
+  {
+    "label": "denoisinghead"
+  },
+  {
+    "label": "patchify"
+  },
+  {
+    "label": "noisesampler"
+  },
+  {
+    "label": "patchify"
+  },
+  {
+    "label": "maskprocessor"
+  },
+  {
+    "label": "patchify"
+  },
+  {
+    "label": "actionencoder"
+  },
+  {
+    "label": "actionaggregator"
+  },
+  {
+    "label": "patchify"
+  },
+  {
+    "label": "triplestreamditblocks"
+  },
+  {
+    "label": "doublestreamditblocks"
+  },
+  {
+    "label": "singlestreamditblocks"
+  },
+  {
+    "label": "auxiliaryattention"
+  },
+  {
+    "label": "contextmixer"
+  },
+  {
+    "label": "unpatchify"
+  },
+  {
+    "label": "output"
+  },
+  {
+    "label": "lossfunction"
+  },
+  {
+    "label": "evaluationmetric"
+  },
+  {
+    "label": "postprocessing"
+  },
+  {
+    "label": "concat"
+  },
+  {
+    "label": "add"
+  },
+  {
+    "label": "conditionalselect"
+  }
+]

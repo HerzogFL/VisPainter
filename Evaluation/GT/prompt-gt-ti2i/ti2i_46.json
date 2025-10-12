@@ -1,0 +1,50 @@
+[
+  {
+    "label": "questiononwhichcontinentwillthenextolympicgamestakeplace"
+  },
+  {
+    "label": "outdatedanswerthenextolympicgameswillbeheldintokyojapanjapanisinasia"
+  },
+  {
+    "label": "aoutdatedknowledgeinthemodelandprimaryresponse"
+  },
+  {
+    "label": "editedmemorythenextolympicgameswillbeheldinparis"
+  },
+  {
+    "label": "memoryupdate"
+  },
+  {
+    "label": "answerthenextolympicgameswillbeheldinparisfrancefranceisineurope"
+  },
+  {
+    "label": "bsuccessfuleditingupdatedaccurateresponse"
+  },
+  {
+    "label": "editedmemorythenextolympicgameswillbeheldinparisnewfactlosangelesisthenextolympichost"
+  },
+  {
+    "label": "conflictingfact"
+  },
+  {
+    "label": "answerthetwopiecesofknowledgecontradicteachother"
+  },
+  {
+    "label": "cfailedknowledgeintegrationwithconflictingfacts"
+  },
+  {
+    "label": "editedmemorythenextolympicgameswillbeheldinparisnewfactlosangelesfollows"
+  },
+  {
+    "label": "reference"
+  },
+  {
+    "label": "temporallink"
+  },
+  {
+    "label": "answerthenextolympicgameswillbeheldinparisfrancefollowedbylosangelesusa"
+  },
+  {
+    "label": "dsuccessfulupdateincorporatingeventsequenceandreferences"
+  }
+]

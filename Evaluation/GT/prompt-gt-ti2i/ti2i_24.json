@@ -1,0 +1,65 @@
+[
+  {
+    "label": "hierarchicalmultimodaldenoisingconditionalunet"
+  },
+  {
+    "label": "zt2"
+  },
+  {
+    "label": "zt1"
+  },
+  {
+    "label": "decoder"
+  },
+  {
+    "label": "attentionqkv"
+  },
+  {
+    "label": "attentionqkv"
+  },
+  {
+    "label": "attentionqkv"
+  },
+  {
+    "label": "attentionqkv"
+  },
+  {
+    "label": "encoder"
+  },
+  {
+    "label": "attentionqkv"
+  },
+  {
+    "label": "attentionqkv"
+  },
+  {
+    "label": "attentionqkv"
+  },
+  {
+    "label": "attentionqkv"
+  },
+  {
+    "label": "zt"
+  },
+  {
+    "label": "zt+1"
+  },
+  {
+    "label": "subclasslabelsysub"
+  },
+  {
+    "label": "mainclasslabelsymain"
+  },
+  {
+    "label": "textencodersub"
+  },
+  {
+    "label": "textencodermain"
+  },
+  {
+    "label": "multimodalfusionblock"
+  },
+  {
+    "label": "fusionysubymain"
+  }
+]

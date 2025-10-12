@@ -1,0 +1,29 @@
+[
+  {
+    "label": "prompt"
+  },
+  {
+    "label": "video frame"
+  },
+  {
+    "label": "image encoder"
+  },
+  {
+    "label": "model"
+  },
+  {
+    "label": "prompt encoder"
+  },
+  {
+    "label": "memory attention"
+  },
+  {
+    "label": "memory bank"
+  },
+  {
+    "label": "mask decoder"
+  },
+  {
+    "label": "valid object mask on each frame"
+  }
+]

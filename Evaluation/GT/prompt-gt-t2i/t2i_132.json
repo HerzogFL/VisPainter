@@ -1,0 +1,68 @@
+[
+  {
+    "label": "request"
+  },
+  {
+    "label": "response"
+  },
+  {
+    "label": "endpoint"
+  },
+  {
+    "label": "retrievalbased"
+  },
+  {
+    "label": "speculativescheduler"
+  },
+  {
+    "label": "priorityqueues"
+  },
+  {
+    "label": "q"
+  },
+  {
+    "label": "q"
+  },
+  {
+    "label": "q"
+  },
+  {
+    "label": "kvcache"
+  },
+  {
+    "label": "manager"
+  },
+  {
+    "label": "swappinginstructions"
+  },
+  {
+    "label": "submission"
+  },
+  {
+    "label": "outputs"
+  },
+  {
+    "label": "gpu"
+  },
+  {
+    "label": "model"
+  },
+  {
+    "label": "executor"
+  },
+  {
+    "label": "gpuhbm"
+  },
+  {
+    "label": "upload"
+  },
+  {
+    "label": "offload"
+  },
+  {
+    "label": "cpu"
+  },
+  {
+    "label": "memory"
+  }
+]

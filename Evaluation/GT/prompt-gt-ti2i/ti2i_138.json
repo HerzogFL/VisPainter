@@ -1,0 +1,38 @@
+[
+  {
+    "label": "3negativeneutralsamples"
+  },
+  {
+    "label": "steps12"
+  },
+  {
+    "label": "barackobamaconsultjapant"
+  },
+  {
+    "label": "replaceentity"
+  },
+  {
+    "label": "barackobamaconsultchinat"
+  },
+  {
+    "label": "replacerelationbynlimodel"
+  },
+  {
+    "label": "barackobamamakeavisitchinat"
+  },
+  {
+    "label": "addtemporalconstraint"
+  },
+  {
+    "label": "barackobamamakeavisitchina2014"
+  },
+  {
+    "label": "neutral"
+  },
+  {
+    "label": "contradiction"
+  },
+  {
+    "label": "temporal"
+  }
+]

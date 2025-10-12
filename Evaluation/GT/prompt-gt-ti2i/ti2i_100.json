@@ -1,0 +1,92 @@
+[
+  {
+    "label": "speech"
+  },
+  {
+    "label": "sound"
+  },
+  {
+    "label": "music"
+  },
+  {
+    "label": "environmentalnoise"
+  },
+  {
+    "label": "mixeddata"
+  },
+  {
+    "label": "teacher1"
+  },
+  {
+    "label": "layer1"
+  },
+  {
+    "label": "layerlt"
+  },
+  {
+    "label": "teacher2"
+  },
+  {
+    "label": "layer1"
+  },
+  {
+    "label": "layerlt"
+  },
+  {
+    "label": "teacher3"
+  },
+  {
+    "label": "layer1"
+  },
+  {
+    "label": "layerlt"
+  },
+  {
+    "label": "student"
+  },
+  {
+    "label": "layer1"
+  },
+  {
+    "label": "layerls"
+  },
+  {
+    "label": "mlp"
+  },
+  {
+    "label": "mlp"
+  },
+  {
+    "label": "mlp"
+  },
+  {
+    "label": "framewisel1cosinesimilarityloss"
+  },
+  {
+    "label": "usadmodel"
+  },
+  {
+    "label": "initialize"
+  },
+  {
+    "label": "usadmodel"
+  },
+  {
+    "label": "speechtasks"
+  },
+  {
+    "label": "asrspeakeridkeywordspottingemotionrecognition"
+  },
+  {
+    "label": "audiotasks"
+  },
+  {
+    "label": "audiotaggingsoundclassificationacousticsceneanalysis"
+  },
+  {
+    "label": "musictasks"
+  },
+  {
+    "label": "genreidentificationbeattracking"
+  }
+]

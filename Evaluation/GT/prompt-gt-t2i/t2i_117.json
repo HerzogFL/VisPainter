@@ -1,0 +1,35 @@
+[
+  {
+    "label": "originalcode"
+  },
+  {
+    "label": "llmbased"
+  },
+  {
+    "label": "refactoring"
+  },
+  {
+    "label": "llms"
+  },
+  {
+    "label": "refactoredcode"
+  },
+  {
+    "label": "refactoringdiscovery"
+  },
+  {
+    "label": "refactoringreapplication"
+  },
+  {
+    "label": "refactoringengine"
+  },
+  {
+    "label": "refactoringdetectiontool"
+  },
+  {
+    "label": "appliedrefactorings"
+  },
+  {
+    "label": "refactoredcode"
+  }
+]

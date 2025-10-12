@@ -1,0 +1,29 @@
+[
+  {
+    "label": "advancedmodel"
+  },
+  {
+    "label": "prompt"
+  },
+  {
+    "label": "videoframe"
+  },
+  {
+    "label": "advancedpromptencoder"
+  },
+  {
+    "label": "sophisticatedimageencoder"
+  },
+  {
+    "label": "enhancedmemoryattention"
+  },
+  {
+    "label": "complexmemorybank"
+  },
+  {
+    "label": "dynamicmaskdecoder"
+  },
+  {
+    "label": "generatedobjectmasksperframe"
+  }
+]

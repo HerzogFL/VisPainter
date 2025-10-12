@@ -1,0 +1,92 @@
+[
+  {
+    "label": "internetdata"
+  },
+  {
+    "label": "apifeeds"
+  },
+  {
+    "label": "webcrawlingscraping"
+  },
+  {
+    "label": "domainfilepreprocessing"
+  },
+  {
+    "label": "standardizeddataset"
+  },
+  {
+    "label": "adataacquisition"
+  },
+  {
+    "label": "standardizeddataset"
+  },
+  {
+    "label": "heuristicfiltering"
+  },
+  {
+    "label": "automaticsampleremoval"
+  },
+  {
+    "label": "validation"
+  },
+  {
+    "label": "complexcontrol"
+  },
+  {
+    "label": "similaritydeduplication"
+  },
+  {
+    "label": "tokenlengthfiltering"
+  },
+  {
+    "label": "outlierdetection"
+  },
+  {
+    "label": "manualselection"
+  },
+  {
+    "label": "rawdataset"
+  },
+  {
+    "label": "bdatafilteringandmanualselection"
+  },
+  {
+    "label": "rawdataset"
+  },
+  {
+    "label": "manualannotation"
+  },
+  {
+    "label": "descriptivecompletenesscheck"
+  },
+  {
+    "label": "actionabstractioncheck"
+  },
+  {
+    "label": "inferenceenablingcheck"
+  },
+  {
+    "label": "naturallanguageprioritycheck"
+  },
+  {
+    "label": "documentreferencevalidation"
+  },
+  {
+    "label": "recheck"
+  },
+  {
+    "label": "regularinspection"
+  },
+  {
+    "label": "datacontaminationcheck"
+  },
+  {
+    "label": "performanceaudit"
+  },
+  {
+    "label": "finaldataset"
+  },
+  {
+    "label": "cdataannotationqualityassurance"
+  }
+]

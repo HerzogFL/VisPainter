@@ -1,0 +1,53 @@
+[
+  {
+    "label": "modularinternalmodules+externalmodules"
+  },
+  {
+    "label": "memoryinretrieval"
+  },
+  {
+    "label": "store"
+  },
+  {
+    "label": "retrieve"
+  },
+  {
+    "label": "workingshortterm"
+  },
+  {
+    "label": "longtermknowledge"
+  },
+  {
+    "label": "databaseembedding"
+  },
+  {
+    "label": "llmasbrain"
+  },
+  {
+    "label": "reasoningiocottotgotcotsc"
+  },
+  {
+    "label": "modalitytextvisionspeechmixed"
+  },
+  {
+    "label": "structuresaycanreactreflextionswiftsage"
+  },
+  {
+    "label": "toolforaction"
+  },
+  {
+    "label": "call"
+  },
+  {
+    "label": "return"
+  },
+  {
+    "label": "calculatorrobotarm"
+  },
+  {
+    "label": "codeinterpretersensor"
+  },
+  {
+    "label": "searchengine"
+  }
+]

@@ -1,0 +1,131 @@
+[
+  {
+    "label": "alefttorightspeculativedecodingforrankingsystems"
+  },
+  {
+    "label": "prompt"
+  },
+  {
+    "label": "prompt+ab"
+  },
+  {
+    "label": "prompt+abc"
+  },
+  {
+    "label": "prompt+abcd"
+  },
+  {
+    "label": "concate"
+  },
+  {
+    "label": "concate"
+  },
+  {
+    "label": "concate"
+  },
+  {
+    "label": "a"
+  },
+  {
+    "label": "b"
+  },
+  {
+    "label": "a"
+  },
+  {
+    "label": "b"
+  },
+  {
+    "label": "c"
+  },
+  {
+    "label": "verification"
+  },
+  {
+    "label": "draft"
+  },
+  {
+    "label": "firstllmpass"
+  },
+  {
+    "label": "c"
+  },
+  {
+    "label": "c"
+  },
+  {
+    "label": "d"
+  },
+  {
+    "label": "e"
+  },
+  {
+    "label": "draft"
+  },
+  {
+    "label": "secondllmpass"
+  },
+  {
+    "label": "d"
+  },
+  {
+    "label": "d"
+  },
+  {
+    "label": "f"
+  },
+  {
+    "label": "g"
+  },
+  {
+    "label": "draft"
+  },
+  {
+    "label": "thirdllmpass"
+  },
+  {
+    "label": "draft"
+  },
+  {
+    "label": "fourthllmpass"
+  },
+  {
+    "label": "speculativedecoding"
+  },
+  {
+    "label": "1st"
+  },
+  {
+    "label": "2nd"
+  },
+  {
+    "label": "3rd"
+  },
+  {
+    "label": "4th"
+  },
+  {
+    "label": "th"
+  },
+  {
+    "label": "accepted"
+  },
+  {
+    "label": "tobeaccepted"
+  },
+  {
+    "label": "reject"
+  },
+  {
+    "label": "accepted"
+  },
+  {
+    "label": "tobeaccepted"
+  },
+  {
+    "label": "reject"
+  },
+  {
+    "label": "tobemodified"
+  }
+]

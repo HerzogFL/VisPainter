@@ -1,0 +1,122 @@
+[
+  {
+    "label": "comprehensiveframeworkforadvancedexplorationalgorithms"
+  },
+  {
+    "label": "filteringmechanisms"
+  },
+  {
+    "label": "heuristicpathways"
+  },
+  {
+    "label": "datainputs"
+  },
+  {
+    "label": "pointcloud"
+  },
+  {
+    "label": "gridmap"
+  },
+  {
+    "label": "odometry"
+  },
+  {
+    "label": "imudata"
+  },
+  {
+    "label": "phase1multimodalhybridsampling"
+  },
+  {
+    "label": "samplingvialidar"
+  },
+  {
+    "label": "samplingviaimagingsensors"
+  },
+  {
+    "label": "samplingviaacousticsensing"
+  },
+  {
+    "label": "multimodalfusion"
+  },
+  {
+    "label": "hybridfrontiers"
+  },
+  {
+    "label": "filteredfrontiers"
+  },
+  {
+    "label": "phase2dynamicsubregionsegmentationandoptimization"
+  },
+  {
+    "label": "initializesubregions"
+  },
+  {
+    "label": "adaptivesubregionfiltering"
+  },
+  {
+    "label": "prioritizesubregionrelevance"
+  },
+  {
+    "label": "configurablesubregionarrangement"
+  },
+  {
+    "label": "revenueoptimization"
+  },
+  {
+    "label": "globaldistance"
+  },
+  {
+    "label": "pathsimilarity"
+  },
+  {
+    "label": "obstacleriskanalysis"
+  },
+  {
+    "label": "optimalexecutionsequence"
+  },
+  {
+    "label": "heuristiccomputation"
+  },
+  {
+    "label": "phase3multicriteriafrontierselection"
+  },
+  {
+    "label": "travelinggain"
+  },
+  {
+    "label": "orientationgain"
+  },
+  {
+    "label": "informationgain"
+  },
+  {
+    "label": "explorationuncertainty"
+  },
+  {
+    "label": "resourcecostgain"
+  },
+  {
+    "label": "integratedgaincomputation"
+  },
+  {
+    "label": "globalheuristicassessment"
+  },
+  {
+    "label": "selectionofnextexplorationtarget"
+  },
+  {
+    "label": "phase4actionexecutionandfeedbackintegration"
+  },
+  {
+    "label": "motionplanning"
+  },
+  {
+    "label": "executionfeedback"
+  },
+  {
+    "label": "realtimemapping"
+  },
+  {
+    "label": "hierarchicalplanninglayer"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "label": "events"
+  },
+  {
+    "label": "temporalcontextencoder"
+  },
+  {
+    "label": "hwd"
+  },
+  {
+    "label": "image"
+  },
+  {
+    "label": "spatialcontextencoder"
+  },
+  {
+    "label": "hwd"
+  },
+  {
+    "label": "c"
+  },
+  {
+    "label": "hw2d"
+  },
+  {
+    "label": "conv11"
+  },
+  {
+    "label": "conv33"
+  },
+  {
+    "label": "relu"
+  },
+  {
+    "label": "conv11"
+  },
+  {
+    "label": "bn"
+  },
+  {
+    "label": "conv11"
+  },
+  {
+    "label": "spatiotemporalcontextfeature"
+  },
+  {
+    "label": "hwd"
+  },
+  {
+    "label": "eventsinput"
+  },
+  {
+    "label": "vtk+1tk"
+  },
+  {
+    "label": "imageinput"
+  },
+  {
+    "label": "itk"
+  }
+]

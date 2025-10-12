@@ -1,0 +1,92 @@
+[
+  {
+    "label": "attngate"
+  },
+  {
+    "label": "linearreducetokvheads"
+  },
+  {
+    "label": "pooling"
+  },
+  {
+    "label": "batchnorm"
+  },
+  {
+    "label": "linear"
+  },
+  {
+    "label": "dropout"
+  },
+  {
+    "label": "rope"
+  },
+  {
+    "label": "matmulsoftmax"
+  },
+  {
+    "label": "sparsify"
+  },
+  {
+    "label": "blockindices"
+  },
+  {
+    "label": "residualadd"
+  },
+  {
+    "label": "linearreducetokvheads"
+  },
+  {
+    "label": "normalization"
+  },
+  {
+    "label": "torightmodule"
+  },
+  {
+    "label": "q"
+  },
+  {
+    "label": "k"
+  },
+  {
+    "label": "v"
+  },
+  {
+    "label": "rope"
+  },
+  {
+    "label": "linear"
+  },
+  {
+    "label": "linear"
+  },
+  {
+    "label": "qprojection"
+  },
+  {
+    "label": "kprojection"
+  },
+  {
+    "label": "vprojection"
+  },
+  {
+    "label": "concatenate"
+  },
+  {
+    "label": "blockindices"
+  },
+  {
+    "label": "blocksparseflashdecoding"
+  },
+  {
+    "label": "outputaddnormalization"
+  },
+  {
+    "label": "attentionoutput"
+  },
+  {
+    "label": "outputaddnormalization"
+  },
+  {
+    "label": "residualadd"
+  }
+]

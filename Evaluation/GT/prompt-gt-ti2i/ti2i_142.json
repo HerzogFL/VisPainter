@@ -1,0 +1,98 @@
+[
+  {
+    "label": "1denseretrievalsystemevolution"
+  },
+  {
+    "label": "evolution"
+  },
+  {
+    "label": "querydocumenthumanprompt"
+  },
+  {
+    "label": "input"
+  },
+  {
+    "label": "retrieverv1"
+  },
+  {
+    "label": "input"
+  },
+  {
+    "label": "retrieverv2"
+  },
+  {
+    "label": "input"
+  },
+  {
+    "label": "retrieverv3"
+  },
+  {
+    "label": "encode"
+  },
+  {
+    "label": "encode"
+  },
+  {
+    "label": "encode"
+  },
+  {
+    "label": "documentemb"
+  },
+  {
+    "label": "queryemb"
+  },
+  {
+    "label": "promptemb"
+  },
+  {
+    "label": "similarity"
+  },
+  {
+    "label": "fusion"
+  },
+  {
+    "label": "retrievalresult"
+  },
+  {
+    "label": "iwouldhighlyrecommendhavingaprofessionalhandleyourtaxesitisworththemoneytohaveitdonecorrectly"
+  },
+  {
+    "label": "recommend"
+  },
+  {
+    "label": "taxes"
+  },
+  {
+    "label": "enhancedresult"
+  },
+  {
+    "label": "aftercarefulconsiderationconsultingaprofessionalforyourtaxesensuresaccuracyandpeaceofmind"
+  },
+  {
+    "label": "carefulconsideration"
+  },
+  {
+    "label": "taxes"
+  },
+  {
+    "label": "accuracy"
+  },
+  {
+    "label": "humanthoughtfullyactivated"
+  },
+  {
+    "label": "humanthought"
+  },
+  {
+    "label": "fullyactivated"
+  },
+  {
+    "label": "harnessingadvancedmodelsthinkingabilityforimprovedretrieval"
+  },
+  {
+    "label": "harnessingadvancedmodels"
+  },
+  {
+    "label": "thinkingability"
+  }
+]

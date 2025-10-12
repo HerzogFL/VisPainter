@@ -1,0 +1,56 @@
+[
+  {
+    "label": "dataset"
+  },
+  {
+    "label": "featurestfidfvsmultiple"
+  },
+  {
+    "label": "prompts"
+  },
+  {
+    "label": "predictachallenges"
+  },
+  {
+    "label": "expertrules"
+  },
+  {
+    "label": "supervisedclassifierssvmvsrf"
+  },
+  {
+    "label": "largelanguagemodelsgpt4"
+  },
+  {
+    "label": "features"
+  },
+  {
+    "label": "postprocess"
+  },
+  {
+    "label": "predict"
+  },
+  {
+    "label": "cognitive"
+  },
+  {
+    "label": "metacognitive"
+  },
+  {
+    "label": "emotional"
+  },
+  {
+    "label": "othertechnical"
+  },
+  {
+    "label": "challenges"
+  },
+  {
+    "label": "1rulebasedapproachgreen"
+  },
+  {
+    "label": "2supervisedmachinered"
+  },
+  {
+    "label": "3generativeaipurple"
+  }
+]

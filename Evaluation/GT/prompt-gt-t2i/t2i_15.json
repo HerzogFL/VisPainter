@@ -1,0 +1,104 @@
+[
+  {
+    "label": "x3"
+  },
+  {
+    "label": "x4"
+  },
+  {
+    "label": "x5"
+  },
+  {
+    "label": "x6"
+  },
+  {
+    "label": "xi+2"
+  },
+  {
+    "label": "xi+3"
+  },
+  {
+    "label": "xi+4"
+  },
+  {
+    "label": "xi+5"
+  },
+  {
+    "label": "Output Head"
+  },
+  {
+    "label": "Tied with Main"
+  },
+  {
+    "label": "Output Head"
+  },
+  {
+    "label": "Transformer Block"
+  },
+  {
+    "label": "Transformer Block"
+  },
+  {
+    "label": "Linear Projection"
+  },
+  {
+    "label": "Linear Projection"
+  },
+  {
+    "label": "RMS Norm"
+  },
+  {
+    "label": "+"
+  },
+  {
+    "label": "RMS Norm"
+  },
+  {
+    "label": "RMS Norm"
+  },
+  {
+    "label": "+"
+  },
+  {
+    "label": "RMS Norm"
+  },
+  {
+    "label": "Embedding Layer"
+  },
+  {
+    "label": "Tied with Main"
+  },
+  {
+    "label": "Embedding Layer"
+  },
+  {
+    "label": "h"
+  },
+  {
+    "label": "x2"
+  },
+  {
+    "label": "x3"
+  },
+  {
+    "label": "x4"
+  },
+  {
+    "label": "x5"
+  },
+  {
+    "label": "h"
+  },
+  {
+    "label": "xi+1"
+  },
+  {
+    "label": "xi+2"
+  },
+  {
+    "label": "xi+3"
+  },
+  {
+    "label": "xi+4"
+  }
+]

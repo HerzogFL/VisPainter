@@ -1,0 +1,38 @@
+[
+  {
+    "label": "aexpansionlayer"
+  },
+  {
+    "label": "selfproliferateblock"
+  },
+  {
+    "label": "dwconv"
+  },
+  {
+    "label": "batchnorm"
+  },
+  {
+    "label": "relu"
+  },
+  {
+    "label": "bconvolutionselfattention"
+  },
+  {
+    "label": "selfattentionblock"
+  },
+  {
+    "label": "ccompressionlayer"
+  },
+  {
+    "label": "selfproliferateblock"
+  },
+  {
+    "label": "batchnorm"
+  },
+  {
+    "label": "dinvertedresiduals"
+  },
+  {
+    "label": "+"
+  }
+]

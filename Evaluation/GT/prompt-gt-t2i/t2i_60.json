@@ -1,0 +1,32 @@
+[
+  {
+    "label": "shortcutting"
+  },
+  {
+    "label": "mlp"
+  },
+  {
+    "label": "layernorm"
+  },
+  {
+    "label": "spatialpadding"
+  },
+  {
+    "label": "mhsa"
+  },
+  {
+    "label": "layernorm"
+  },
+  {
+    "label": "channelmixing"
+  },
+  {
+    "label": "windowshiftmasking"
+  },
+  {
+    "label": "tn+1d"
+  },
+  {
+    "label": "tnd"
+  }
+]

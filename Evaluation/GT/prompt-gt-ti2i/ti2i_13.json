@@ -1,0 +1,83 @@
+[
+  {
+    "label": "enhancedschematicdiagramoftransformerarchitecture"
+  },
+  {
+    "label": "inputmodule"
+  },
+  {
+    "label": "rawinputdata"
+  },
+  {
+    "label": "inputembedding"
+  },
+  {
+    "label": "positionalencoding"
+  },
+  {
+    "label": "processingmodule"
+  },
+  {
+    "label": "encoderblock"
+  },
+  {
+    "label": "multiheadattention"
+  },
+  {
+    "label": "query"
+  },
+  {
+    "label": "key"
+  },
+  {
+    "label": "value"
+  },
+  {
+    "label": "feedforwardnetwork"
+  },
+  {
+    "label": "addnorm"
+  },
+  {
+    "label": "addnorm"
+  },
+  {
+    "label": "decoderblock"
+  },
+  {
+    "label": "maskedmultiheadattention"
+  },
+  {
+    "label": "crossattention"
+  },
+  {
+    "label": "feedforwardnetwork"
+  },
+  {
+    "label": "addnorm"
+  },
+  {
+    "label": "addnorm"
+  },
+  {
+    "label": "outputmodule"
+  },
+  {
+    "label": "shiftedoutput"
+  },
+  {
+    "label": "outputembedding"
+  },
+  {
+    "label": "lineartransformation"
+  },
+  {
+    "label": "softmaxoperation"
+  },
+  {
+    "label": "activationmap"
+  },
+  {
+    "label": "predictedoutputsequences"
+  }
+]

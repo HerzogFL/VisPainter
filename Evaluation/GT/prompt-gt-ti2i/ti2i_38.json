@@ -1,0 +1,59 @@
+[
+  {
+    "label": "knowledgebyusagecount"
+  },
+  {
+    "label": "memoryformats"
+  },
+  {
+    "label": "trivia"
+  },
+  {
+    "label": "expertise"
+  },
+  {
+    "label": "commonphrases"
+  },
+  {
+    "label": "triviadetails"
+  },
+  {
+    "label": "taskproficiency"
+  },
+  {
+    "label": "languagepatterns"
+  },
+  {
+    "label": "specificknowledgeinrawdata"
+  },
+  {
+    "label": "generalpatternsinrawdata"
+  },
+  {
+    "label": "writecost"
+  },
+  {
+    "label": "transformationcost"
+  },
+  {
+    "label": "readcost"
+  },
+  {
+    "label": "specificknowledgeininference"
+  },
+  {
+    "label": "generalpatternsininference"
+  },
+  {
+    "label": "parameterizedinference"
+  },
+  {
+    "label": "retrievedtext"
+  },
+  {
+    "label": "explicitmemory"
+  },
+  {
+    "label": "modelparameter"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "label": "trajectoryt"
+  },
+  {
+    "label": "belieft"
+  },
+  {
+    "label": "belieft+1"
+  },
+  {
+    "label": "ai"
+  },
+  {
+    "label": "actiont+1"
+  },
+  {
+    "label": "belieft+2"
+  },
+  {
+    "label": "ai"
+  },
+  {
+    "label": "actiont+2"
+  },
+  {
+    "label": "st+1"
+  },
+  {
+    "label": "ot+1"
+  },
+  {
+    "label": "privatestate"
+  },
+  {
+    "label": "st+1"
+  },
+  {
+    "label": "ot+1"
+  },
+  {
+    "label": "agentpro"
+  },
+  {
+    "label": "publicstate"
+  },
+  {
+    "label": "privatestate"
+  },
+  {
+    "label": "otheragents"
+  },
+  {
+    "label": "environment"
+  },
+  {
+    "label": "at+1"
+  },
+  {
+    "label": "at+1op"
+  },
+  {
+    "label": "st+2"
+  },
+  {
+    "label": "ot+2"
+  },
+  {
+    "label": "results"
+  },
+  {
+    "label": "scores"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "label": "attngate"
+  },
+  {
+    "label": "linear"
+  },
+  {
+    "label": "reducetokvheads"
+  },
+  {
+    "label": "pooling"
+  },
+  {
+    "label": "linear"
+  },
+  {
+    "label": "rope"
+  },
+  {
+    "label": "matmulsoftmax"
+  },
+  {
+    "label": "sparsify"
+  },
+  {
+    "label": "blockindices"
+  },
+  {
+    "label": "q"
+  },
+  {
+    "label": "k"
+  },
+  {
+    "label": "v"
+  },
+  {
+    "label": "rope"
+  },
+  {
+    "label": "blocksparse"
+  },
+  {
+    "label": "flashdecoding"
+  },
+  {
+    "label": "attentionoutput"
+  }
+]

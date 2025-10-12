@@ -1,0 +1,50 @@
+[
+  {
+    "label": "frozen"
+  },
+  {
+    "label": "training"
+  },
+  {
+    "label": "addlayernorm"
+  },
+  {
+    "label": "feedforward"
+  },
+  {
+    "label": "addlayernorm"
+  },
+  {
+    "label": "multiheadattention"
+  },
+  {
+    "label": "xk"
+  },
+  {
+    "label": "pretrainedtransformer"
+  },
+  {
+    "label": "timeawareplm"
+  },
+  {
+    "label": "timeembedder"
+  },
+  {
+    "label": "variableembedder"
+  },
+  {
+    "label": "valueembedder"
+  },
+  {
+    "label": "continuoustimeembeddings"
+  },
+  {
+    "label": "taskoutputlayer"
+  },
+  {
+    "label": "pooling"
+  },
+  {
+    "label": "outputs"
+  }
+]

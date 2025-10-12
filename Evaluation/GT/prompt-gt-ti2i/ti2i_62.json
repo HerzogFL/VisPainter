@@ -1,0 +1,80 @@
+[
+  {
+    "label": "pctrpcvr"
+  },
+  {
+    "label": "mlptower"
+  },
+  {
+    "label": "featureinteractionmodule"
+  },
+  {
+    "label": "contextencoder"
+  },
+  {
+    "label": "temporalfusionblock"
+  },
+  {
+    "label": "featureprocessinglayers"
+  },
+  {
+    "label": "pinembedding"
+  },
+  {
+    "label": "pretrainedlargepinidembeddingtable"
+  },
+  {
+    "label": "pinid"
+  },
+  {
+    "label": "knowledgegraphembeddings"
+  },
+  {
+    "label": "pretrainedknowledgegraphembeddingtable"
+  },
+  {
+    "label": "advertiseriditemid"
+  },
+  {
+    "label": "imagesignatureuserid"
+  },
+  {
+    "label": "userseqtransformer"
+  },
+  {
+    "label": "userprofileblock"
+  },
+  {
+    "label": "auxiliaryheads"
+  },
+  {
+    "label": "pinfeatureembeddings"
+  },
+  {
+    "label": "pinsignals"
+  },
+  {
+    "label": "userfeatureembeddings"
+  },
+  {
+    "label": "usersignals"
+  },
+  {
+    "label": "pinuserinteractionembeddings"
+  },
+  {
+    "label": "interactionsignals"
+  },
+  {
+    "label": "userseqembeddings"
+  },
+  {
+    "label": "userseqsignals"
+  },
+  {
+    "label": "metafeatures"
+  },
+  {
+    "label": "contextsignals"
+  }
+]

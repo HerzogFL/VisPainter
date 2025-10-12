@@ -1,0 +1,56 @@
+[
+  {
+    "label": "bvisuallyselfadaptivestateblockvssb"
+  },
+  {
+    "label": "norm"
+  },
+  {
+    "label": "mixer"
+  },
+  {
+    "label": "scale"
+  },
+  {
+    "label": "norm"
+  },
+  {
+    "label": "cab"
+  },
+  {
+    "label": "scale"
+  },
+  {
+    "label": "cdsmamba"
+  },
+  {
+    "label": "linear"
+  },
+  {
+    "label": "conv"
+  },
+  {
+    "label": "silu"
+  },
+  {
+    "label": "dsssm"
+  },
+  {
+    "label": "norm"
+  },
+  {
+    "label": "fusionunit"
+  },
+  {
+    "label": "didconv"
+  },
+  {
+    "label": "avgpool"
+  },
+  {
+    "label": "conv"
+  },
+  {
+    "label": "convkernel"
+  }
+]

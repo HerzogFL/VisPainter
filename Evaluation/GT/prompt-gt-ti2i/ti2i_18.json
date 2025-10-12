@@ -1,0 +1,161 @@
+[
+  {
+    "label": "ahierarchicalvanillaselfattentionextendedbaseline"
+  },
+  {
+    "label": "multiheadmatmul"
+  },
+  {
+    "label": "headi"
+  },
+  {
+    "label": "headj"
+  },
+  {
+    "label": "headk"
+  },
+  {
+    "label": "ai"
+  },
+  {
+    "label": "aj"
+  },
+  {
+    "label": "ak"
+  },
+  {
+    "label": "nn"
+  },
+  {
+    "label": "nn"
+  },
+  {
+    "label": "nn"
+  },
+  {
+    "label": "concatlinear"
+  },
+  {
+    "label": "combinedsoftmax"
+  },
+  {
+    "label": "globalscale"
+  },
+  {
+    "label": "finalmatmul"
+  },
+  {
+    "label": "residualadd"
+  },
+  {
+    "label": "q"
+  },
+  {
+    "label": "k"
+  },
+  {
+    "label": "v"
+  },
+  {
+    "label": "nc"
+  },
+  {
+    "label": "cn"
+  },
+  {
+    "label": "nc"
+  },
+  {
+    "label": "patchembedding"
+  },
+  {
+    "label": "norm"
+  },
+  {
+    "label": "positionalencoding"
+  },
+  {
+    "label": "on"
+  },
+  {
+    "label": "lowrank"
+  },
+  {
+    "label": "crossheadinteractionlimited"
+  },
+  {
+    "label": "benhancedhadamardproductselfattentionwithfeedbackours"
+  },
+  {
+    "label": "dynamicmkoi"
+  },
+  {
+    "label": "a"
+  },
+  {
+    "label": "a"
+  },
+  {
+    "label": "a"
+  },
+  {
+    "label": "nc"
+  },
+  {
+    "label": "nc"
+  },
+  {
+    "label": "nc"
+  },
+  {
+    "label": "paralleldaks"
+  },
+  {
+    "label": "channelwisescale"
+  },
+  {
+    "label": "hadamardelementwisegate"
+  },
+  {
+    "label": "feedbacknorm"
+  },
+  {
+    "label": "q"
+  },
+  {
+    "label": "k"
+  },
+  {
+    "label": "v"
+  },
+  {
+    "label": "nc"
+  },
+  {
+    "label": "nc"
+  },
+  {
+    "label": "nc"
+  },
+  {
+    "label": "patchembedding"
+  },
+  {
+    "label": "norm"
+  },
+  {
+    "label": "globalcontextaugmentor"
+  },
+  {
+    "label": "on"
+  },
+  {
+    "label": "potentialforhigherrank"
+  },
+  {
+    "label": "enhancedcrosschannelfusion"
+  },
+  {
+    "label": "feedbackenablesadaptiverefinement"
+  }
+]

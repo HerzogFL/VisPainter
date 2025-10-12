@@ -1,0 +1,32 @@
+[
+  {
+    "label": "defensivemechanismsindeployment"
+  },
+  {
+    "label": "user"
+  },
+  {
+    "label": "llmowner"
+  },
+  {
+    "label": "usersinput"
+  },
+  {
+    "label": "inputpreprocessingdefenses"
+  },
+  {
+    "label": "robustpromptengineering"
+  },
+  {
+    "label": "singlellmindeploymentphase"
+  },
+  {
+    "label": "outputfilteringmechanisms"
+  },
+  {
+    "label": "llmfinaloutput"
+  },
+  {
+    "label": "user"
+  }
+]

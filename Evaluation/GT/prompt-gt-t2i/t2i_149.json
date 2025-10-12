@@ -1,0 +1,74 @@
+[
+  {
+    "label": "prompttuningdiscrete"
+  },
+  {
+    "label": "multimodaltokens"
+  },
+  {
+    "label": "textualinput"
+  },
+  {
+    "label": "discreteprompt"
+  },
+  {
+    "label": "llm"
+  },
+  {
+    "label": "output"
+  },
+  {
+    "label": "loss"
+  },
+  {
+    "label": "tune"
+  },
+  {
+    "label": "prompttuningcontinuous"
+  },
+  {
+    "label": "multimodaltokens"
+  },
+  {
+    "label": "textualinput"
+  },
+  {
+    "label": "continuousprompt"
+  },
+  {
+    "label": "llm"
+  },
+  {
+    "label": "output"
+  },
+  {
+    "label": "loss"
+  },
+  {
+    "label": "tune"
+  },
+  {
+    "label": "instructiontuning"
+  },
+  {
+    "label": "multimodaltokens"
+  },
+  {
+    "label": "textualinput"
+  },
+  {
+    "label": "instruction"
+  },
+  {
+    "label": "llm"
+  },
+  {
+    "label": "output"
+  },
+  {
+    "label": "loss"
+  },
+  {
+    "label": "tune"
+  }
+]

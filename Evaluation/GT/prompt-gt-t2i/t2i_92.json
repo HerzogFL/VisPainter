@@ -1,0 +1,38 @@
+[
+  {
+    "label": "buniad"
+  },
+  {
+    "label": "encoder1"
+  },
+  {
+    "label": "encoder2"
+  },
+  {
+    "label": "encoder3"
+  },
+  {
+    "label": "encoder4"
+  },
+  {
+    "label": "neck"
+  },
+  {
+    "label": "transformerencoder"
+  },
+  {
+    "label": "transformerdecoder"
+  },
+  {
+    "label": "n"
+  },
+  {
+    "label": "anomalymap"
+  },
+  {
+    "label": "global"
+  },
+  {
+    "label": "singlescale"
+  }
+]

@@ -1,0 +1,104 @@
+[
+  {
+    "label": "trajectoryt"
+  },
+  {
+    "label": "belieft"
+  },
+  {
+    "label": "st+1"
+  },
+  {
+    "label": "ot+1"
+  },
+  {
+    "label": "belieft+1"
+  },
+  {
+    "label": "st+1"
+  },
+  {
+    "label": "ot+1"
+  },
+  {
+    "label": "ai"
+  },
+  {
+    "label": "actiont+1"
+  },
+  {
+    "label": "belieft+2"
+  },
+  {
+    "label": "st+2"
+  },
+  {
+    "label": "ot+2"
+  },
+  {
+    "label": "ai"
+  },
+  {
+    "label": "actiont+2"
+  },
+  {
+    "label": "belieft+3"
+  },
+  {
+    "label": "st+3"
+  },
+  {
+    "label": "ot+3"
+  },
+  {
+    "label": "st+1"
+  },
+  {
+    "label": "ot+1"
+  },
+  {
+    "label": "privatestate"
+  },
+  {
+    "label": "st+1"
+  },
+  {
+    "label": "publicstate"
+  },
+  {
+    "label": "privatestate"
+  },
+  {
+    "label": "agentpro"
+  },
+  {
+    "label": "otheragents"
+  },
+  {
+    "label": "at+1"
+  },
+  {
+    "label": "environment"
+  },
+  {
+    "label": "at+1op"
+  },
+  {
+    "label": "st+2"
+  },
+  {
+    "label": "ot+2"
+  },
+  {
+    "label": "results"
+  },
+  {
+    "label": "scores"
+  },
+  {
+    "label": "observable"
+  },
+  {
+    "label": "unobservable"
+  }
+]

@@ -1,0 +1,89 @@
+[
+  {
+    "label": "step2pruningandtrainingloop"
+  },
+  {
+    "label": "block"
+  },
+  {
+    "label": "method"
+  },
+  {
+    "label": "sablock1"
+  },
+  {
+    "label": "zerosactivation"
+  },
+  {
+    "label": "zeros"
+  },
+  {
+    "label": "activation"
+  },
+  {
+    "label": "21assignpruningmethodstoblocks"
+  },
+  {
+    "label": "22pruningmethodsresult"
+  },
+  {
+    "label": "23sumandcalculatelogprobability"
+  },
+  {
+    "label": "23prunethemodulewithhighestprobability"
+  },
+  {
+    "label": "layer14"
+  },
+  {
+    "label": "sablock1"
+  },
+  {
+    "label": "pablock1"
+  },
+  {
+    "label": "layer512"
+  },
+  {
+    "label": "sablock2"
+  },
+  {
+    "label": "pablock2"
+  },
+  {
+    "label": "layer1320"
+  },
+  {
+    "label": "sablock3"
+  },
+  {
+    "label": "pablock3"
+  },
+  {
+    "label": "layer2124"
+  },
+  {
+    "label": "sablock4"
+  },
+  {
+    "label": "pablock4"
+  },
+  {
+    "label": "initialmodel"
+  },
+  {
+    "label": "partlyprunedmodel"
+  },
+  {
+    "label": "finalmodel"
+  },
+  {
+    "label": "prune"
+  },
+  {
+    "label": "retrain"
+  },
+  {
+    "label": "24iterativelypruneandretrainthemodeluntilitssizeisreducedtothepresetnumberofparametersretraintoobtainthefinalmodel"
+  }
+]

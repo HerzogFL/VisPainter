@@ -1,0 +1,56 @@
+[
+  {
+    "label": "4datacontrol"
+  },
+  {
+    "label": "q"
+  },
+  {
+    "label": "c"
+  },
+  {
+    "label": "a"
+  },
+  {
+    "label": "q"
+  },
+  {
+    "label": "c"
+  },
+  {
+    "label": "a"
+  },
+  {
+    "label": "q"
+  },
+  {
+    "label": "c"
+  },
+  {
+    "label": "a"
+  },
+  {
+    "label": "positivesample"
+  },
+  {
+    "label": "negativesample"
+  },
+  {
+    "label": "neutralsample"
+  },
+  {
+    "label": "filterinvalid"
+  },
+  {
+    "label": "answer"
+  },
+  {
+    "label": "human"
+  },
+  {
+    "label": "annotation"
+  },
+  {
+    "label": "etrbenchmark"
+  }
+]

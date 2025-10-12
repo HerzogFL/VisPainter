@@ -1,0 +1,71 @@
+[
+  {
+    "label": "dualmodalmri"
+  },
+  {
+    "label": "dualmodalhierarchicalalignments"
+  },
+  {
+    "label": "dfcs"
+  },
+  {
+    "label": "dfcs+1"
+  },
+  {
+    "label": "temporalscalesalignmenttsa"
+  },
+  {
+    "label": "dfc"
+  },
+  {
+    "label": "sfc"
+  },
+  {
+    "label": "dynamicstaticalignmentdsa"
+  },
+  {
+    "label": "fmri"
+  },
+  {
+    "label": "dti"
+  },
+  {
+    "label": "functionalstructuralalignmentfsa"
+  },
+  {
+    "label": "horizontalhierarchy"
+  },
+  {
+    "label": "dualdomainhierarchicalinteractions"
+  },
+  {
+    "label": "finegrainedinteractionfgi"
+  },
+  {
+    "label": "globalinteractiongi"
+  },
+  {
+    "label": "connectivitydomaininteraction"
+  },
+  {
+    "label": "dfcs"
+  },
+  {
+    "label": "crossdomaininteraction"
+  },
+  {
+    "label": "mciscdhc"
+  },
+  {
+    "label": "regionaldomaininteraction"
+  },
+  {
+    "label": "fmri"
+  },
+  {
+    "label": "crossdomaininteraction"
+  },
+  {
+    "label": "verticalhierarchy"
+  }
+]

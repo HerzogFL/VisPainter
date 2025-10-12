@@ -1,0 +1,146 @@
+[
+  {
+    "label": "accumulateconfiglogic"
+  },
+  {
+    "label": "accumulateconfigregister"
+  },
+  {
+    "label": "bpmodule"
+  },
+  {
+    "label": "capacitycounter"
+  },
+  {
+    "label": "+"
+  },
+  {
+    "label": "0"
+  },
+  {
+    "label": "1"
+  },
+  {
+    "label": "2"
+  },
+  {
+    "label": "overflow"
+  },
+  {
+    "label": "overflowdetector"
+  },
+  {
+    "label": "sumcandidatecounter"
+  },
+  {
+    "label": "sumcandidatecounter"
+  },
+  {
+    "label": "thresholdcomparator"
+  },
+  {
+    "label": "thresholdset"
+  },
+  {
+    "label": "threshold"
+  },
+  {
+    "label": "errorlogger"
+  },
+  {
+    "label": "scaleuponly"
+  },
+  {
+    "label": "subsumcandidatecounter"
+  },
+  {
+    "label": "forwardcontroller"
+  },
+  {
+    "label": "fs12cnv"
+  },
+  {
+    "label": "scheduler"
+  },
+  {
+    "label": "fs12subsumcandidatecounter"
+  },
+  {
+    "label": "s0"
+  },
+  {
+    "label": "processmonitor"
+  },
+  {
+    "label": "statusdistributor"
+  },
+  {
+    "label": "forwardcontroller"
+  },
+  {
+    "label": "errorlogger"
+  },
+  {
+    "label": "audittracker"
+  },
+  {
+    "label": "thresholdcomparator"
+  },
+  {
+    "label": "statusdistributor"
+  },
+  {
+    "label": "accumulateconfigregister"
+  },
+  {
+    "label": "accumulateconfigregistertable"
+  },
+  {
+    "label": "totalcapacity"
+  },
+  {
+    "label": "sumtag"
+  },
+  {
+    "label": "sumaddress"
+  },
+  {
+    "label": "sumcandidatecount"
+  },
+  {
+    "label": "auditstatus"
+  },
+  {
+    "label": "10x0000b556"
+  },
+  {
+    "label": "20x0021fa6123"
+  },
+  {
+    "label": "30x01ab332512"
+  },
+  {
+    "label": "legend"
+  },
+  {
+    "label": "configdatapath"
+  },
+  {
+    "label": "scaleuponly"
+  },
+  {
+    "label": "+"
+  },
+  {
+    "label": "increment"
+  },
+  {
+    "label": "decrement"
+  },
+  {
+    "label": "t"
+  },
+  {
+    "label": "threshold"
+  }
+]

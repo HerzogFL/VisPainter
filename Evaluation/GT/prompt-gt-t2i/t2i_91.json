@@ -1,0 +1,44 @@
+[
+  {
+    "label": "ard4ad"
+  },
+  {
+    "label": "encoder1"
+  },
+  {
+    "label": "encoder2"
+  },
+  {
+    "label": "encoder3"
+  },
+  {
+    "label": "1"
+  },
+  {
+    "label": "neck"
+  },
+  {
+    "label": "cnndecoder3"
+  },
+  {
+    "label": "cnndecoder2"
+  },
+  {
+    "label": "cnndecoder1"
+  },
+  {
+    "label": "anomalymap"
+  },
+  {
+    "label": "receptivefield"
+  },
+  {
+    "label": "local"
+  },
+  {
+    "label": "anomalymap"
+  },
+  {
+    "label": "multiscale"
+  }
+]

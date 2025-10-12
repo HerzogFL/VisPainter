@@ -1,0 +1,47 @@
+[
+  {
+    "label": "buniad++"
+  },
+  {
+    "label": "encoder1"
+  },
+  {
+    "label": "encoder2"
+  },
+  {
+    "label": "encoder3"
+  },
+  {
+    "label": "encoder4"
+  },
+  {
+    "label": "encoder5"
+  },
+  {
+    "label": "neck"
+  },
+  {
+    "label": "transformerencoder"
+  },
+  {
+    "label": "transformerbottleneck"
+  },
+  {
+    "label": "transformerdecoder"
+  },
+  {
+    "label": "n+nm"
+  },
+  {
+    "label": "anomalymap"
+  },
+  {
+    "label": "global"
+  },
+  {
+    "label": "singlescale"
+  },
+  {
+    "label": "roi"
+  }
+]

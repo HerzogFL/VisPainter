@@ -1,0 +1,35 @@
+[
+  {
+    "label": "input"
+  },
+  {
+    "label": "adc"
+  },
+  {
+    "label": "i"
+  },
+  {
+    "label": "q"
+  },
+  {
+    "label": "arctan"
+  },
+  {
+    "label": "phase"
+  },
+  {
+    "label": "ref"
+  },
+  {
+    "label": "clock"
+  },
+  {
+    "label": "nco"
+  },
+  {
+    "label": "sin2fnco"
+  },
+  {
+    "label": "cos2fnco"
+  }
+]

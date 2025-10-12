@@ -1,0 +1,98 @@
+[
+  {
+    "label": "bvisuallyselfadaptivestateblockvssb"
+  },
+  {
+    "label": "norm"
+  },
+  {
+    "label": "mixer"
+  },
+  {
+    "label": "gate"
+  },
+  {
+    "label": "scale"
+  },
+  {
+    "label": "norm"
+  },
+  {
+    "label": "cab"
+  },
+  {
+    "label": "se"
+  },
+  {
+    "label": "droppath"
+  },
+  {
+    "label": "scale"
+  },
+  {
+    "label": "splitonchannel"
+  },
+  {
+    "label": "cdsmamba"
+  },
+  {
+    "label": "linear"
+  },
+  {
+    "label": "conv"
+  },
+  {
+    "label": "silu"
+  },
+  {
+    "label": "dsssm"
+  },
+  {
+    "label": "norm"
+  },
+  {
+    "label": "dropout"
+  },
+  {
+    "label": "linear"
+  },
+  {
+    "label": "silu"
+  },
+  {
+    "label": "fusionunit"
+  },
+  {
+    "label": "auxoutput"
+  },
+  {
+    "label": "auxhead"
+  },
+  {
+    "label": "didconv"
+  },
+  {
+    "label": "preact"
+  },
+  {
+    "label": "conv"
+  },
+  {
+    "label": "avgpool"
+  },
+  {
+    "label": "conv"
+  },
+  {
+    "label": "learnable"
+  },
+  {
+    "label": "convkernel"
+  },
+  {
+    "label": "conv"
+  },
+  {
+    "label": "output"
+  }
+]

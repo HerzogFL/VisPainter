@@ -1,0 +1,71 @@
+[
+  {
+    "label": "rssi"
+  },
+  {
+    "label": "commonfc"
+  },
+  {
+    "label": "concat"
+  },
+  {
+    "label": "floorfc"
+  },
+  {
+    "label": "concat"
+  },
+  {
+    "label": "locationfc"
+  },
+  {
+    "label": "softmaxactivation"
+  },
+  {
+    "label": "b"
+  },
+  {
+    "label": "softmaxactivation"
+  },
+  {
+    "label": "f"
+  },
+  {
+    "label": "linearactivation"
+  },
+  {
+    "label": "l"
+  },
+  {
+    "label": "aproposedhierarchicalmlpmodelhmlp"
+  },
+  {
+    "label": "rssi"
+  },
+  {
+    "label": "commonfc"
+  },
+  {
+    "label": "floorfc"
+  },
+  {
+    "label": "locationfc"
+  },
+  {
+    "label": "softmaxactivation"
+  },
+  {
+    "label": "b"
+  },
+  {
+    "label": "softmaxactivation"
+  },
+  {
+    "label": "f"
+  },
+  {
+    "label": "linearactivation"
+  },
+  {
+    "label": "l"
+  }
+]

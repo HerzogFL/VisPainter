@@ -1,0 +1,86 @@
+[
+  {
+    "label": "addnorm"
+  },
+  {
+    "label": "evolution"
+  },
+  {
+    "label": "ffn1"
+  },
+  {
+    "label": "ffn3"
+  },
+  {
+    "label": "ffnn"
+  },
+  {
+    "label": "addnorm"
+  },
+  {
+    "label": "selfattention"
+  },
+  {
+    "label": "wordembedding"
+  },
+  {
+    "label": "text"
+  },
+  {
+    "label": "mlp"
+  },
+  {
+    "label": "visionencoder"
+  },
+  {
+    "label": "bstageiiexpertevolution"
+  },
+  {
+    "label": "addnorm"
+  },
+  {
+    "label": "moe"
+  },
+  {
+    "label": "ffn1"
+  },
+  {
+    "label": "ffn3"
+  },
+  {
+    "label": "ffnn"
+  },
+  {
+    "label": "text"
+  },
+  {
+    "label": "image"
+  },
+  {
+    "label": "dtr"
+  },
+  {
+    "label": "addnorm"
+  },
+  {
+    "label": "selfattention"
+  },
+  {
+    "label": "wordembedding"
+  },
+  {
+    "label": "text"
+  },
+  {
+    "label": "mlp"
+  },
+  {
+    "label": "visionencoder"
+  },
+  {
+    "label": "cstageiiidynamictokenawarerouter"
+  },
+  {
+    "label": "ffninitialization"
+  }
+]

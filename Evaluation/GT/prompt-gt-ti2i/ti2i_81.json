@@ -1,0 +1,86 @@
+[
+  {
+    "label": "bframeworkoftvtbasedrealisr"
+  },
+  {
+    "label": "dape"
+  },
+  {
+    "label": "edgedet"
+  },
+  {
+    "label": "cliptextencoder"
+  },
+  {
+    "label": "textembedding"
+  },
+  {
+    "label": "vaed4"
+  },
+  {
+    "label": "encoder"
+  },
+  {
+    "label": "512512"
+  },
+  {
+    "label": "128128"
+  },
+  {
+    "label": "128128"
+  },
+  {
+    "label": "fpt"
+  },
+  {
+    "label": "noisepred"
+  },
+  {
+    "label": "128128"
+  },
+  {
+    "label": "fpt"
+  },
+  {
+    "label": "down"
+  },
+  {
+    "label": "lora"
+  },
+  {
+    "label": "unet"
+  },
+  {
+    "label": "up"
+  },
+  {
+    "label": "128128"
+  },
+  {
+    "label": "fpt"
+  },
+  {
+    "label": "fusion"
+  },
+  {
+    "label": "vaed4"
+  },
+  {
+    "label": "decoder"
+  },
+  {
+    "label": "128128"
+  },
+  {
+    "label": "512512"
+  },
+  {
+    "label": "refine1"
+  },
+  {
+    "label": "refine2"
+  },
+  {
+    "label": "refine3"
+  }
+]

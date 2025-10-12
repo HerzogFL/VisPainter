@@ -1,0 +1,53 @@
+[
+  {
+    "label": "Data"
+  },
+  {
+    "label": "Pre-Training"
+  },
+  {
+    "label": "Instruction-Tuning"
+  },
+  {
+    "label": "Reward Modeling"
+  },
+  {
+    "label": "LLM"
+  },
+  {
+    "label": "Output"
+  },
+  {
+    "label": "Reward"
+  },
+  {
+    "label": "RL Update"
+  },
+  {
+    "label": "LLM"
+  },
+  {
+    "label": "Aligned LLM"
+  },
+  {
+    "label": "Prompting"
+  },
+  {
+    "label": "LLM Output"
+  },
+  {
+    "label": "Human Labeller"
+  },
+  {
+    "label": "Reward Model"
+  },
+  {
+    "label": "RM"
+  },
+  {
+    "label": "RLHF"
+  },
+  {
+    "label": "Fine-tuning"
+  }
+]

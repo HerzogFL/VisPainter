@@ -1,0 +1,113 @@
+[
+  {
+    "label": "expression"
+  },
+  {
+    "label": "image"
+  },
+  {
+    "label": "textenc"
+  },
+  {
+    "label": "hierenc"
+  },
+  {
+    "label": "fusion"
+  },
+  {
+    "label": "decoder"
+  },
+  {
+    "label": "globalmask"
+  },
+  {
+    "label": "auxiliaryvisionmod"
+  },
+  {
+    "label": "auxiliarydecoder"
+  },
+  {
+    "label": "auxiliaryoutput"
+  },
+  {
+    "label": "expression"
+  },
+  {
+    "label": "image"
+  },
+  {
+    "label": "v+lvlpretrainenc"
+  },
+  {
+    "label": "f"
+  },
+  {
+    "label": "g"
+  },
+  {
+    "label": "f"
+  },
+  {
+    "label": "fusiondecoder"
+  },
+  {
+    "label": "maskscoreoutputs"
+  },
+  {
+    "label": "globalmask"
+  },
+  {
+    "label": "confidence"
+  },
+  {
+    "label": "expression"
+  },
+  {
+    "label": "image"
+  },
+  {
+    "label": "vlpretrainenc"
+  },
+  {
+    "label": "f"
+  },
+  {
+    "label": "a"
+  },
+  {
+    "label": "f"
+  },
+  {
+    "label": "cognition"
+  },
+  {
+    "label": "perception"
+  },
+  {
+    "label": "loopback"
+  },
+  {
+    "label": "scores"
+  },
+  {
+    "label": "instancemasks"
+  },
+  {
+    "label": "hierenc"
+  },
+  {
+    "label": "textfeaturepostproc"
+  },
+  {
+    "label": "aux1"
+  },
+  {
+    "label": "aux2"
+  },
+  {
+    "label": "aux3"
+  },
+  {
+    "label": "aux4"
+  }
+]

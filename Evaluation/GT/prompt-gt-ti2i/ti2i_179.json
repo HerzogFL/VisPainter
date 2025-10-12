@@ -1,0 +1,119 @@
+[
+  {
+    "label": "datasets"
+  },
+  {
+    "label": "rossetta"
+  },
+  {
+    "label": "alpaca"
+  },
+  {
+    "label": "sharegpt"
+  },
+  {
+    "label": "openorca"
+  },
+  {
+    "label": "tuningwithfoundationmodeladapters"
+  },
+  {
+    "label": "checkpoints"
+  },
+  {
+    "label": "llmrossetta"
+  },
+  {
+    "label": "llmalpaca"
+  },
+  {
+    "label": "llmsharegpt"
+  },
+  {
+    "label": "llmopenorca"
+  },
+  {
+    "label": "1trainingdatapreparation"
+  },
+  {
+    "label": "promptckptpairs"
+  },
+  {
+    "label": "aux"
+  },
+  {
+    "label": "meta"
+  },
+  {
+    "label": "probe"
+  },
+  {
+    "label": "loss"
+  },
+  {
+    "label": "textencoder"
+  },
+  {
+    "label": "embedding"
+  },
+  {
+    "label": "parametergenerator"
+  },
+  {
+    "label": "external"
+  },
+  {
+    "label": "domainadapter"
+  },
+  {
+    "label": "parametergenerator"
+  },
+  {
+    "label": "2trainingofdnd"
+  },
+  {
+    "label": "3evaluatingdndonnoveldatasets"
+  },
+  {
+    "label": "indomaindrag"
+  },
+  {
+    "label": "glaiveas"
+  },
+  {
+    "label": "dnd"
+  },
+  {
+    "label": "llmglaiveas"
+  },
+  {
+    "label": "multidomainadaptation"
+  },
+  {
+    "label": "science"
+  },
+  {
+    "label": "finance"
+  },
+  {
+    "label": "dnd"
+  },
+  {
+    "label": "llmscience"
+  },
+  {
+    "label": "llmfinance"
+  },
+  {
+    "label": "crossdomaindrag"
+  },
+  {
+    "label": "science"
+  },
+  {
+    "label": "dnd"
+  },
+  {
+    "label": "llmscience"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "label": "n"
+  },
+  {
+    "label": "n"
+  },
+  {
+    "label": "addnormalize"
+  },
+  {
+    "label": "feedforward"
+  },
+  {
+    "label": "addnormalize"
+  },
+  {
+    "label": "feedforward"
+  },
+  {
+    "label": "softmax"
+  },
+  {
+    "label": "q"
+  },
+  {
+    "label": "kt"
+  },
+  {
+    "label": "d"
+  },
+  {
+    "label": "pemb"
+  },
+  {
+    "label": "amask"
+  },
+  {
+    "label": "thetwomatriceswewillreplace"
+  },
+  {
+    "label": "v"
+  },
+  {
+    "label": "thinking"
+  },
+  {
+    "label": "machines"
+  }
+]

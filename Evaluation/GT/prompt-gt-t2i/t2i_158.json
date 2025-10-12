@@ -1,0 +1,77 @@
+[
+  {
+    "label": "agentto"
+  },
+  {
+    "label": "agent"
+  },
+  {
+    "label": "attack"
+  },
+  {
+    "label": "defense"
+  },
+  {
+    "label": "cooperationcompetition"
+  },
+  {
+    "label": "teachingdebate"
+  },
+  {
+    "label": "agentto"
+  },
+  {
+    "label": "user"
+  },
+  {
+    "label": "taskproblemquery"
+  },
+  {
+    "label": "feedbackfile"
+  },
+  {
+    "label": "ask"
+  },
+  {
+    "label": "answer"
+  },
+  {
+    "label": "usersresource"
+  },
+  {
+    "label": "dialogue"
+  },
+  {
+    "label": "database"
+  },
+  {
+    "label": "app"
+  },
+  {
+    "label": "phone"
+  },
+  {
+    "label": "email"
+  },
+  {
+    "label": "agentto"
+  },
+  {
+    "label": "environment"
+  },
+  {
+    "label": "action"
+  },
+  {
+    "label": "feedback"
+  },
+  {
+    "label": "physicalworld"
+  },
+  {
+    "label": "gameminecraft"
+  },
+  {
+    "label": "dockerweb"
+  }
+]

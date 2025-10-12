@@ -1,0 +1,47 @@
+[
+  {
+    "label": "queryconv"
+  },
+  {
+    "label": "keyconv"
+  },
+  {
+    "label": "valueconv"
+  },
+  {
+    "label": "similaritycalculation"
+  },
+  {
+    "label": "hwt"
+  },
+  {
+    "label": "varianceactivation"
+  },
+  {
+    "label": "tchw"
+  },
+  {
+    "label": "wcht"
+  },
+  {
+    "label": "spatialaggregation"
+  },
+  {
+    "label": "conv11"
+  },
+  {
+    "label": "conv11"
+  },
+  {
+    "label": "hctw"
+  },
+  {
+    "label": "spatialaggregation"
+  },
+  {
+    "label": "depthwiseconvblock"
+  },
+  {
+    "label": "dctam"
+  }
+]

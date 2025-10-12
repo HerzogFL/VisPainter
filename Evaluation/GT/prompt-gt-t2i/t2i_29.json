@@ -1,0 +1,53 @@
+[
+  {
+    "label": "acousticfeature"
+  },
+  {
+    "label": "fcm"
+  },
+  {
+    "label": "d1t"
+  },
+  {
+    "label": "denseblock1"
+  },
+  {
+    "label": "denseblock2"
+  },
+  {
+    "label": "denseblock3"
+  },
+  {
+    "label": "resblock1"
+  },
+  {
+    "label": "resblock2"
+  },
+  {
+    "label": "resblock3"
+  },
+  {
+    "label": "resblock4"
+  },
+  {
+    "label": "dtdnnlayer"
+  },
+  {
+    "label": "fnn"
+  },
+  {
+    "label": "globalpooling"
+  },
+  {
+    "label": "segmentpooling"
+  },
+  {
+    "label": "fnn+relu"
+  },
+  {
+    "label": "fnn+sigmoid"
+  },
+  {
+    "label": "tdnn"
+  }
+]

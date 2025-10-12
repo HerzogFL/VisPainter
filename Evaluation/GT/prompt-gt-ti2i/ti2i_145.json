@@ -1,0 +1,62 @@
+[
+  {
+    "label": "question"
+  },
+  {
+    "label": "webagent"
+  },
+  {
+    "label": "manageragent"
+  },
+  {
+    "label": "output"
+  },
+  {
+    "label": "mcpcreation"
+  },
+  {
+    "label": "mcpbrainstorming"
+  },
+  {
+    "label": "mcpbrainstorming"
+  },
+  {
+    "label": "mcpprocessstack"
+  },
+  {
+    "label": "opensourcesearching"
+  },
+  {
+    "label": "scriptgenerating"
+  },
+  {
+    "label": "virtualenvexecution"
+  },
+  {
+    "label": "encapsulate"
+  },
+  {
+    "label": "mcpbox"
+  },
+  {
+    "label": "mcpbox"
+  },
+  {
+    "label": "selfevolving"
+  },
+  {
+    "label": "codereactloop"
+  },
+  {
+    "label": "datavalidator"
+  },
+  {
+    "label": "datavalidator"
+  },
+  {
+    "label": "feedbackanalyzer"
+  },
+  {
+    "label": "feedbackanalyzer"
+  }
+]

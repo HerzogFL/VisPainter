@@ -1,0 +1,161 @@
+[
+  {
+    "label": "thepipelineofbenchmarkconstruction"
+  },
+  {
+    "label": "1corpuscollection"
+  },
+  {
+    "label": "resources"
+  },
+  {
+    "label": "medicalrecordsresearch"
+  },
+  {
+    "label": "datarepository"
+  },
+  {
+    "label": "2logicmining"
+  },
+  {
+    "label": "structureddata"
+  },
+  {
+    "label": "relationontologymining"
+  },
+  {
+    "label": "ontology"
+  },
+  {
+    "label": "logicflow"
+  },
+  {
+    "label": "process1"
+  },
+  {
+    "label": "process2"
+  },
+  {
+    "label": "process3"
+  },
+  {
+    "label": "3evidencecollection"
+  },
+  {
+    "label": "ontology"
+  },
+  {
+    "label": "logicchain"
+  },
+  {
+    "label": "extract"
+  },
+  {
+    "label": "extractedevidence"
+  },
+  {
+    "label": "evidence1"
+  },
+  {
+    "label": "evidence2"
+  },
+  {
+    "label": "evidence3"
+  },
+  {
+    "label": "evidencevisualization"
+  },
+  {
+    "label": "4questiongeneration"
+  },
+  {
+    "label": "evidence"
+  },
+  {
+    "label": "abilities"
+  },
+  {
+    "label": "question"
+  },
+  {
+    "label": "evidence"
+  },
+  {
+    "label": "answer"
+  },
+  {
+    "label": "difficulty"
+  },
+  {
+    "label": "category"
+  },
+  {
+    "label": "qgen"
+  },
+  {
+    "label": "review"
+  },
+  {
+    "label": "source"
+  },
+  {
+    "label": "skills"
+  },
+  {
+    "label": "qaset"
+  },
+  {
+    "label": "workflow"
+  },
+  {
+    "label": "5checkcorrect"
+  },
+  {
+    "label": "reviewer"
+  },
+  {
+    "label": "checkevidence"
+  },
+  {
+    "label": "checkanswer"
+  },
+  {
+    "label": "verification"
+  },
+  {
+    "label": "validate"
+  },
+  {
+    "label": "revise"
+  },
+  {
+    "label": "revision"
+  },
+  {
+    "label": "draft"
+  },
+  {
+    "label": "6refinement"
+  },
+  {
+    "label": "draft"
+  },
+  {
+    "label": "clarify"
+  },
+  {
+    "label": "improve"
+  },
+  {
+    "label": "refinequestion"
+  },
+  {
+    "label": "refineanswer"
+  },
+  {
+    "label": "refinement"
+  },
+  {
+    "label": "actionicons"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "label": "bframeworkoftvtbasedrealisr"
+  },
+  {
+    "label": "vaed4"
+  },
+  {
+    "label": "encoder"
+  },
+  {
+    "label": "512512"
+  },
+  {
+    "label": "128128"
+  },
+  {
+    "label": "dape"
+  },
+  {
+    "label": "cliptextencoder"
+  },
+  {
+    "label": "textembedding"
+  },
+  {
+    "label": "128128"
+  },
+  {
+    "label": "fpt"
+  },
+  {
+    "label": "down"
+  },
+  {
+    "label": "lora"
+  },
+  {
+    "label": "unet"
+  },
+  {
+    "label": "up"
+  },
+  {
+    "label": "128128"
+  },
+  {
+    "label": "fpt"
+  },
+  {
+    "label": "vaed4"
+  },
+  {
+    "label": "decoder"
+  },
+  {
+    "label": "128128"
+  },
+  {
+    "label": "512512"
+  }
+]

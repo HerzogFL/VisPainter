@@ -1,0 +1,98 @@
+[
+  {
+    "label": "actionlevelreflection"
+  },
+  {
+    "label": "action"
+  },
+  {
+    "label": "perception"
+  },
+  {
+    "label": "env"
+  },
+  {
+    "label": "feedback"
+  },
+  {
+    "label": "newaction"
+  },
+  {
+    "label": "fail"
+  },
+  {
+    "label": "fail"
+  },
+  {
+    "label": "perception"
+  },
+  {
+    "label": "action"
+  },
+  {
+    "label": "policylevelreflection"
+  },
+  {
+    "label": "belief"
+  },
+  {
+    "label": "worldbelief"
+  },
+  {
+    "label": "selfbelief"
+  },
+  {
+    "label": "action"
+  },
+  {
+    "label": "plan"
+  },
+  {
+    "label": "env"
+  },
+  {
+    "label": "feedback"
+  },
+  {
+    "label": "policy"
+  },
+  {
+    "label": "worldmodeling"
+  },
+  {
+    "label": "behavioralguideline"
+  },
+  {
+    "label": "newpolicy"
+  },
+  {
+    "label": "worldmodeling"
+  },
+  {
+    "label": "ethicalconstraints"
+  },
+  {
+    "label": "behavioralguideline"
+  },
+  {
+    "label": "verification"
+  },
+  {
+    "label": "accept"
+  },
+  {
+    "label": "reject"
+  },
+  {
+    "label": "fail"
+  },
+  {
+    "label": "fail"
+  },
+  {
+    "label": "heuristicmodule"
+  },
+  {
+    "label": "continuouslearning"
+  }
+]

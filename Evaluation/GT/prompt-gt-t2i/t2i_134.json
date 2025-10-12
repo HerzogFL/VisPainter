@@ -1,0 +1,56 @@
+[
+  {
+    "label": "vtm+1vt"
+  },
+  {
+    "label": "stconvblock"
+  },
+  {
+    "label": "stconvblock"
+  },
+  {
+    "label": "outputlayer"
+  },
+  {
+    "label": "hatv"
+  },
+  {
+    "label": "w"
+  },
+  {
+    "label": "vl"
+  },
+  {
+    "label": "temporalgatedconvc64"
+  },
+  {
+    "label": "spatialgraphconvc16"
+  },
+  {
+    "label": "temporalgatedconvc64"
+  },
+  {
+    "label": "w"
+  },
+  {
+    "label": "vl+1"
+  },
+  {
+    "label": "w"
+  },
+  {
+    "label": "vltm+1vlt"
+  },
+  {
+    "label": "1dconv"
+  },
+  {
+    "label": "glu"
+  },
+  {
+    "label": "temporalgatedconv"
+  },
+  {
+    "label": "vltm+kvlt"
+  }
+]

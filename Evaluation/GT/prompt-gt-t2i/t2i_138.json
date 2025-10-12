@@ -1,0 +1,29 @@
+[
+  {
+    "label": "3negativeneutralsamples"
+  },
+  {
+    "label": "steps12"
+  },
+  {
+    "label": "barackobamaconsultjapant"
+  },
+  {
+    "label": "replaceentity"
+  },
+  {
+    "label": "barackobamaconsultchinat"
+  },
+  {
+    "label": "replacerelationbynlimodel"
+  },
+  {
+    "label": "barackobamamakeavisitchinat"
+  },
+  {
+    "label": "neutral"
+  },
+  {
+    "label": "contradiction"
+  }
+]

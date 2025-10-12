@@ -1,0 +1,71 @@
+[
+  {
+    "label": "pytorchdistributeddataparallelarchitecture"
+  },
+  {
+    "label": "torchdistributed"
+  },
+  {
+    "label": "processgroup"
+  },
+  {
+    "label": "cuda"
+  },
+  {
+    "label": "processgroup"
+  },
+  {
+    "label": "kaitian"
+  },
+  {
+    "label": "processgroup"
+  },
+  {
+    "label": "mpi"
+  },
+  {
+    "label": "processgroup"
+  },
+  {
+    "label": "cncl"
+  },
+  {
+    "label": "collectivecommunicationlibraries"
+  },
+  {
+    "label": "nccl"
+  },
+  {
+    "label": "gloo"
+  },
+  {
+    "label": "mpi"
+  },
+  {
+    "label": "cncl"
+  },
+  {
+    "label": "gpus"
+  },
+  {
+    "label": "cpus"
+  },
+  {
+    "label": "mlus"
+  },
+  {
+    "label": "networkinterconnects"
+  },
+  {
+    "label": "nvlink"
+  },
+  {
+    "label": "pcie"
+  },
+  {
+    "label": "infiniband"
+  },
+  {
+    "label": "distributedstorage"
+  }
+]

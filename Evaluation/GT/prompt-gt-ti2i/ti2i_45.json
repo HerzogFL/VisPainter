@@ -1,0 +1,50 @@
+[
+  {
+    "label": "comprehensivedefensivearchitectureinllmdeployment"
+  },
+  {
+    "label": "enduser"
+  },
+  {
+    "label": "systemintegrator"
+  },
+  {
+    "label": "llmowner"
+  },
+  {
+    "label": "usersinput"
+  },
+  {
+    "label": "systemprompt"
+  },
+  {
+    "label": "inputpreprocessingdefenses"
+  },
+  {
+    "label": "inputauthenticationvalidation"
+  },
+  {
+    "label": "ensemblellmsduringdeploymentphase"
+  },
+  {
+    "label": "robustpromptengineering"
+  },
+  {
+    "label": "liveadversarialbehaviormonitoring"
+  },
+  {
+    "label": "outputfilteringmechanisms"
+  },
+  {
+    "label": "biasandtoxicityscreening"
+  },
+  {
+    "label": "postprocessingauditlogging"
+  },
+  {
+    "label": "finalllmoutput"
+  },
+  {
+    "label": "enduser"
+  }
+]

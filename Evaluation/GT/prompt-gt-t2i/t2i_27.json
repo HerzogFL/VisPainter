@@ -1,0 +1,107 @@
+[
+  {
+    "label": "localattentiononsubstructures"
+  },
+  {
+    "label": "c"
+  },
+  {
+    "label": "b"
+  },
+  {
+    "label": "a"
+  },
+  {
+    "label": "c"
+  },
+  {
+    "label": "a"
+  },
+  {
+    "label": "b"
+  },
+  {
+    "label": "b"
+  },
+  {
+    "label": "b"
+  },
+  {
+    "label": "a"
+  },
+  {
+    "label": "a"
+  },
+  {
+    "label": "globalattentiononnodes"
+  },
+  {
+    "label": "feedforwardlayer"
+  },
+  {
+    "label": "selfattention"
+  },
+  {
+    "label": "feedforwardlayer"
+  },
+  {
+    "label": "selfattention"
+  },
+  {
+    "label": "a"
+  },
+  {
+    "label": "a"
+  },
+  {
+    "label": "c"
+  },
+  {
+    "label": "b"
+  },
+  {
+    "label": "b"
+  },
+  {
+    "label": "positionencodingfornodes"
+  },
+  {
+    "label": "permutationbasedsubstructureencoding"
+  },
+  {
+    "label": "substructuretokens"
+  },
+  {
+    "label": "nodetokens"
+  },
+  {
+    "label": "c"
+  },
+  {
+    "label": "b"
+  },
+  {
+    "label": "a"
+  },
+  {
+    "label": "c"
+  },
+  {
+    "label": "a"
+  },
+  {
+    "label": "b"
+  },
+  {
+    "label": "b"
+  },
+  {
+    "label": "b"
+  },
+  {
+    "label": "a"
+  },
+  {
+    "label": "a"
+  }
+]

@@ -1,0 +1,83 @@
+[
+  {
+    "label": "1trainingdatapreparation"
+  },
+  {
+    "label": "datasets"
+  },
+  {
+    "label": "rossetta"
+  },
+  {
+    "label": "alpaca"
+  },
+  {
+    "label": "sharegpt"
+  },
+  {
+    "label": "tuningwithfoundationmodel"
+  },
+  {
+    "label": "checkpoints"
+  },
+  {
+    "label": "llmrossetta"
+  },
+  {
+    "label": "llmalpaca"
+  },
+  {
+    "label": "llmsharegpt"
+  },
+  {
+    "label": "1trainingdatapreparation"
+  },
+  {
+    "label": "promptckptpairs"
+  },
+  {
+    "label": "loss"
+  },
+  {
+    "label": "textencoder"
+  },
+  {
+    "label": "embedding"
+  },
+  {
+    "label": "parametergenerator"
+  },
+  {
+    "label": "parametergenerator"
+  },
+  {
+    "label": "2trainingofdnd"
+  },
+  {
+    "label": "indomaindrag"
+  },
+  {
+    "label": "glaiveas"
+  },
+  {
+    "label": "dnd"
+  },
+  {
+    "label": "llmglaiveas"
+  },
+  {
+    "label": "crossdomaindrag"
+  },
+  {
+    "label": "science"
+  },
+  {
+    "label": "dnd"
+  },
+  {
+    "label": "llmscience"
+  },
+  {
+    "label": "3evaluatingdndonnoveldatasets"
+  }
+]

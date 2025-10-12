@@ -1,0 +1,74 @@
+[
+  {
+    "label": "abseiling"
+  },
+  {
+    "label": "archery"
+  },
+  {
+    "label": "cleanandjerk"
+  },
+  {
+    "label": "actioncategory"
+  },
+  {
+    "label": "gpt35turbo"
+  },
+  {
+    "label": "abseiling"
+  },
+  {
+    "label": "rope"
+  },
+  {
+    "label": "harness"
+  },
+  {
+    "label": "cliff"
+  },
+  {
+    "label": "attachingtherope"
+  },
+  {
+    "label": "totheharness"
+  },
+  {
+    "label": "securingthecarabiner"
+  },
+  {
+    "label": "object"
+  },
+  {
+    "label": "object"
+  },
+  {
+    "label": "object"
+  },
+  {
+    "label": "subaction"
+  },
+  {
+    "label": "subaction"
+  },
+  {
+    "label": "attachedto"
+  },
+  {
+    "label": "precedes"
+  },
+  {
+    "label": "actioncategories"
+  },
+  {
+    "label": "staticconcepts"
+  },
+  {
+    "label": "dynamicconcepts"
+  },
+  {
+    "label": "askg"
+  },
+  {
+    "label": "eactionsemanticknowledgegraphconstruction"
+  }
+]

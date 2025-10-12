@@ -1,0 +1,77 @@
+[
+  {
+    "label": "Linear Attention"
+  },
+  {
+    "label": "Mix-FFN"
+  },
+  {
+    "label": "n x d"
+  },
+  {
+    "label": "Scale"
+  },
+  {
+    "label": "n x d"
+  },
+  {
+    "label": "MatMul"
+  },
+  {
+    "label": "n x d"
+  },
+  {
+    "label": "d x d"
+  },
+  {
+    "label": "MatMul"
+  },
+  {
+    "label": "n x d"
+  },
+  {
+    "label": "d x n"
+  },
+  {
+    "label": "n x d"
+  },
+  {
+    "label": "d x n"
+  },
+  {
+    "label": "ReLU"
+  },
+  {
+    "label": "ReLU"
+  },
+  {
+    "label": "Linear"
+  },
+  {
+    "label": "Linear"
+  },
+  {
+    "label": "Linear"
+  },
+  {
+    "label": "Q"
+  },
+  {
+    "label": "K"
+  },
+  {
+    "label": "V"
+  },
+  {
+    "label": "1 x 1 ConvLayer"
+  },
+  {
+    "label": "ReLU"
+  },
+  {
+    "label": "3 x 3 ConvLayer"
+  },
+  {
+    "label": "1 x 1 ConvLayer"
+  }
+]

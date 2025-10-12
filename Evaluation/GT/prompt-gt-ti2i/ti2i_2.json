@@ -1,0 +1,41 @@
+[
+  {
+    "label": "internvit"
+  },
+  {
+    "label": "version21"
+  },
+  {
+    "label": "mlpprojector"
+  },
+  {
+    "label": "featurescaling"
+  },
+  {
+    "label": "dimensionalityreduction"
+  },
+  {
+    "label": "nonlinearprojection"
+  },
+  {
+    "label": "largerllm"
+  },
+  {
+    "label": "optimizedforscale"
+  },
+  {
+    "label": "ntploss"
+  },
+  {
+    "label": "feedbackloop"
+  },
+  {
+    "label": "userquery"
+  },
+  {
+    "label": "systemprompt"
+  },
+  {
+    "label": "chatmessage"
+  }
+]

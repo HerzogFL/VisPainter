@@ -1,0 +1,89 @@
+[
+  {
+    "label": "inputseries"
+  },
+  {
+    "label": "normalization"
+  },
+  {
+    "label": "normalization"
+  },
+  {
+    "label": "patching"
+  },
+  {
+    "label": "subsampling"
+  },
+  {
+    "label": "vectorquantization"
+  },
+  {
+    "label": "projection"
+  },
+  {
+    "label": "decoder"
+  },
+  {
+    "label": "denormalization"
+  },
+  {
+    "label": "prediction"
+  },
+  {
+    "label": "auxiliaryregression"
+  },
+  {
+    "label": "inputseries"
+  },
+  {
+    "label": "normalization"
+  },
+  {
+    "label": "encoder"
+  },
+  {
+    "label": "sparsevectorquantization"
+  },
+  {
+    "label": "transformerlayer1"
+  },
+  {
+    "label": "transformerlayer2"
+  },
+  {
+    "label": "denormalization"
+  },
+  {
+    "label": "prediction"
+  },
+  {
+    "label": "regularizationloss"
+  },
+  {
+    "label": "patching"
+  },
+  {
+    "label": "projection"
+  },
+  {
+    "label": "residual"
+  },
+  {
+    "label": "multiheadattention"
+  },
+  {
+    "label": "addnorm"
+  },
+  {
+    "label": "skip"
+  },
+  {
+    "label": "contextualattention"
+  },
+  {
+    "label": "feedforward"
+  },
+  {
+    "label": "outputnorm"
+  }
+]

@@ -1,0 +1,71 @@
+[
+  {
+    "label": "noveldataset1"
+  },
+  {
+    "label": "noveldatasetj"
+  },
+  {
+    "label": "noveldataseti"
+  },
+  {
+    "label": "fulllearningwithllms"
+  },
+  {
+    "label": "parametersoptimization"
+  },
+  {
+    "label": "days"
+  },
+  {
+    "label": "partialtuning"
+  },
+  {
+    "label": "partialfinetuning"
+  },
+  {
+    "label": "hours"
+  },
+  {
+    "label": "wotuning"
+  },
+  {
+    "label": "dnd"
+  },
+  {
+    "label": "seconds"
+  },
+  {
+    "label": "novelmodel1"
+  },
+  {
+    "label": "novelmodelj"
+  },
+  {
+    "label": "novelmodeli"
+  },
+  {
+    "label": "clockicontimecost"
+  },
+  {
+    "label": "geariconparameteroptimization"
+  },
+  {
+    "label": "slidericonpartialfinetuning"
+  },
+  {
+    "label": "snowflakeiconefficientautomaticprocedure"
+  },
+  {
+    "label": "grayfulllearning"
+  },
+  {
+    "label": "orangepartialtuning"
+  },
+  {
+    "label": "greendndauto"
+  },
+  {
+    "label": "arrowsprocessingflow"
+  }
+]

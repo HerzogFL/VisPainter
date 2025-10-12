@@ -1,0 +1,77 @@
+[
+  {
+    "label": "traditionalalignment"
+  },
+  {
+    "label": "what"
+  },
+  {
+    "label": "query"
+  },
+  {
+    "label": "queryencoder"
+  },
+  {
+    "label": "queryembedding"
+  },
+  {
+    "label": "vectorsearch"
+  },
+  {
+    "label": "normalization"
+  },
+  {
+    "label": "docencoder"
+  },
+  {
+    "label": "indexeddatabase"
+  },
+  {
+    "label": "resultsclassifier"
+  },
+  {
+    "label": "inputs"
+  },
+  {
+    "label": "outputs"
+  },
+  {
+    "label": "docdomainalignment"
+  },
+  {
+    "label": "what"
+  },
+  {
+    "label": "query"
+  },
+  {
+    "label": "llm"
+  },
+  {
+    "label": "syntheticdoc"
+  },
+  {
+    "label": "syntheticdocembedding"
+  },
+  {
+    "label": "vectorsearch"
+  },
+  {
+    "label": "normalization"
+  },
+  {
+    "label": "docencoder"
+  },
+  {
+    "label": "indexeddatabase"
+  },
+  {
+    "label": "resultsclassifier"
+  },
+  {
+    "label": "inputs"
+  },
+  {
+    "label": "outputs"
+  }
+]

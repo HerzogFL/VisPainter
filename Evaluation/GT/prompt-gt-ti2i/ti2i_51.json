@@ -1,0 +1,98 @@
+[
+  {
+    "label": "1unifiedrewardmodeltraining"
+  },
+  {
+    "label": "pointdata"
+  },
+  {
+    "label": "pairdata"
+  },
+  {
+    "label": "unifiedpreferencedata"
+  },
+  {
+    "label": "contextualmetadata"
+  },
+  {
+    "label": "unifiedreward"
+  },
+  {
+    "label": "rewardscore"
+  },
+  {
+    "label": "preferencerank"
+  },
+  {
+    "label": "unifiedpreferencelearning"
+  },
+  {
+    "label": "calibrationfeedback"
+  },
+  {
+    "label": "samplediversity"
+  },
+  {
+    "label": "2preferencedataconstruction"
+  },
+  {
+    "label": "vlmdiffusion"
+  },
+  {
+    "label": "datageneration"
+  },
+  {
+    "label": "unifiedreward"
+  },
+  {
+    "label": "1pairrank"
+  },
+  {
+    "label": "2pointsift"
+  },
+  {
+    "label": "preferencedata"
+  },
+  {
+    "label": "chosenimgvidresp"
+  },
+  {
+    "label": "chosenmetadata"
+  },
+  {
+    "label": "rejectedimgvidresp"
+  },
+  {
+    "label": "rejectedmetadata"
+  },
+  {
+    "label": "unlabeleddata"
+  },
+  {
+    "label": "datascaling"
+  },
+  {
+    "label": "3generationunderstandingmodelalignment"
+  },
+  {
+    "label": "preferencedata"
+  },
+  {
+    "label": "supervisedsignal"
+  },
+  {
+    "label": "vlmdiffusion"
+  },
+  {
+    "label": "directpreferenceoptimization"
+  },
+  {
+    "label": "contrastiveloss"
+  },
+  {
+    "label": "lossmodule"
+  },
+  {
+    "label": "evaluation"
+  }
+]

@@ -1,0 +1,77 @@
+[
+  {
+    "label": "a"
+  },
+  {
+    "label": "enhancedprompting"
+  },
+  {
+    "label": "largelanguagemodel"
+  },
+  {
+    "label": "initialphase"
+  },
+  {
+    "label": "text"
+  },
+  {
+    "label": "recsys"
+  },
+  {
+    "label": "deepinference"
+  },
+  {
+    "label": "b"
+  },
+  {
+    "label": "advancedsupervisedfinetuningsft"
+  },
+  {
+    "label": "closedsourcellm"
+  },
+  {
+    "label": "enhancedsftdata"
+  },
+  {
+    "label": "sftdata"
+  },
+  {
+    "label": "evolvedlanguagemodel"
+  },
+  {
+    "label": "adaptivetraining"
+  },
+  {
+    "label": "concurrentinference"
+  },
+  {
+    "label": "recsys"
+  },
+  {
+    "label": "deepinference"
+  },
+  {
+    "label": "c"
+  },
+  {
+    "label": "recr2improved"
+  },
+  {
+    "label": "advancedlanguagemodel"
+  },
+  {
+    "label": "dynamicrewardsignal"
+  },
+  {
+    "label": "recsys"
+  },
+  {
+    "label": "adaptiverltraining"
+  },
+  {
+    "label": "recsys"
+  },
+  {
+    "label": "deepinference"
+  }
+]

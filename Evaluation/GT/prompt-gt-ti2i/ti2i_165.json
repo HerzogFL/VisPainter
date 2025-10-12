@@ -1,0 +1,74 @@
+[
+  {
+    "label": "reasoningstage2cognition"
+  },
+  {
+    "label": "judgementexplanationforanomaly"
+  },
+  {
+    "label": "step3"
+  },
+  {
+    "label": "shallowcognition"
+  },
+  {
+    "label": "cognizethephenomenonandinterpretcues"
+  },
+  {
+    "label": "visual"
+  },
+  {
+    "label": "cues"
+  },
+  {
+    "label": "temporalsequence"
+  },
+  {
+    "label": "spatiallocation"
+  },
+  {
+    "label": "objectinteraction"
+  },
+  {
+    "label": "abnormaleventdescription"
+  },
+  {
+    "label": "mappednormsactions"
+  },
+  {
+    "label": "explanation"
+  },
+  {
+    "label": "anomalyrecognition"
+  },
+  {
+    "label": "anomalycategory"
+  },
+  {
+    "label": "anomalycategory"
+  },
+  {
+    "label": "step4"
+  },
+  {
+    "label": "deepcognition"
+  },
+  {
+    "label": "cognizetheessenceandgeneralizereasoning"
+  },
+  {
+    "label": "violationofnorms"
+  },
+  {
+    "label": "consequences"
+  },
+  {
+    "label": "normbrokendetails"
+  },
+  {
+    "label": "resultingchanges"
+  },
+  {
+    "label": "furtherunderstandingforanomalyanditspropagation"
+  }
+]

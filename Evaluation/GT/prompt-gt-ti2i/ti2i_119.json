@@ -1,0 +1,170 @@
+[
+  {
+    "label": "glossbased"
+  },
+  {
+    "label": "glossbased"
+  },
+  {
+    "label": "bleu4"
+  },
+  {
+    "label": "00"
+  },
+  {
+    "label": "120"
+  },
+  {
+    "label": "160"
+  },
+  {
+    "label": "200"
+  },
+  {
+    "label": "240"
+  },
+  {
+    "label": "280"
+  },
+  {
+    "label": "signvideo"
+  },
+  {
+    "label": "visualencoder"
+  },
+  {
+    "label": "visualencoder"
+  },
+  {
+    "label": "parametersinheritance"
+  },
+  {
+    "label": "llm"
+  },
+  {
+    "label": "spokensentence"
+  },
+  {
+    "label": "glossbasedcslr"
+  },
+  {
+    "label": "signvideo"
+  },
+  {
+    "label": "visualencoder"
+  },
+  {
+    "label": "visualencoder"
+  },
+  {
+    "label": "parametersinheritance"
+  },
+  {
+    "label": "framelevelalignmentmodule"
+  },
+  {
+    "label": "llm"
+  },
+  {
+    "label": "spokensentence"
+  },
+  {
+    "label": "learnable"
+  },
+  {
+    "label": "frozen"
+  },
+  {
+    "label": "auxiliary"
+  },
+  {
+    "label": "glossfree"
+  },
+  {
+    "label": "glossfree"
+  },
+  {
+    "label": "ours"
+  },
+  {
+    "label": "signvideo"
+  },
+  {
+    "label": "visualencoder"
+  },
+  {
+    "label": "noisesuppressionmodule"
+  },
+  {
+    "label": "llm"
+  },
+  {
+    "label": "spokensentence"
+  },
+  {
+    "label": "signvideo"
+  },
+  {
+    "label": "visualencoder"
+  },
+  {
+    "label": "transliteration"
+  },
+  {
+    "label": "llm"
+  },
+  {
+    "label": "spokensentence"
+  },
+  {
+    "label": "signvideo"
+  },
+  {
+    "label": "visualencoder"
+  },
+  {
+    "label": "visualencoder"
+  },
+  {
+    "label": "parametersinheritance"
+  },
+  {
+    "label": "lightt"
+  },
+  {
+    "label": "videogroundedtextgeneration"
+  },
+  {
+    "label": "signvideo"
+  },
+  {
+    "label": "visualencoder"
+  },
+  {
+    "label": "visualencoder"
+  },
+  {
+    "label": "parametersinheritance"
+  },
+  {
+    "label": "llm"
+  },
+  {
+    "label": "spokensentence"
+  },
+  {
+    "label": "multimodalfusionmodule"
+  },
+  {
+    "label": "videogroundedtextgeneration"
+  },
+  {
+    "label": "visualencoder"
+  },
+  {
+    "label": "llm"
+  },
+  {
+    "label": "multimodaloutput"
+  }
+]

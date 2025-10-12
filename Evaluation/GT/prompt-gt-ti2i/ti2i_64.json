@@ -1,0 +1,83 @@
+[
+  {
+    "label": "pinfeatureembeddings"
+  },
+  {
+    "label": "userfeatureembeddings"
+  },
+  {
+    "label": "pinuserinteractionembeddings"
+  },
+  {
+    "label": "userseqembeddings"
+  },
+  {
+    "label": "pinsignals"
+  },
+  {
+    "label": "usersignals"
+  },
+  {
+    "label": "interactionsignals"
+  },
+  {
+    "label": "userseqsignals"
+  },
+  {
+    "label": "contextfeatures"
+  },
+  {
+    "label": "temporalfeatures"
+  },
+  {
+    "label": "contentsignals"
+  },
+  {
+    "label": "adsignals"
+  },
+  {
+    "label": "featureprocessinglayers"
+  },
+  {
+    "label": "featureinteractionmodule"
+  },
+  {
+    "label": "advancedmlptower"
+  },
+  {
+    "label": "outputpctrpcvrpcpa"
+  },
+  {
+    "label": "pinembedding"
+  },
+  {
+    "label": "pretrainedlargepinidembeddingtable"
+  },
+  {
+    "label": "pinid"
+  },
+  {
+    "label": "pinimagefeatures"
+  },
+  {
+    "label": "knowledgegraphembeddings"
+  },
+  {
+    "label": "pretrainedknowledgegraphembeddingtable"
+  },
+  {
+    "label": "advertiseriditemidimagesignatureuserid"
+  },
+  {
+    "label": "adcategorycampaignid"
+  },
+  {
+    "label": "userseqtransformer"
+  },
+  {
+    "label": "userbehaviorencoder"
+  },
+  {
+    "label": "contextencoder"
+  }
+]

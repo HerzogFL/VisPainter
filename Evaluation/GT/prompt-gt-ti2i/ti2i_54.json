@@ -1,0 +1,143 @@
+[
+  {
+    "label": "comprehensiveinteractionsacrossmodalitycombinations"
+  },
+  {
+    "label": "atext+vision+audioalloptionaltext"
+  },
+  {
+    "label": "visionin"
+  },
+  {
+    "label": "audioin"
+  },
+  {
+    "label": "textin"
+  },
+  {
+    "label": "multimodalembedding"
+  },
+  {
+    "label": "largelanguagemodel"
+  },
+  {
+    "label": "textout"
+  },
+  {
+    "label": "visualizationfeatures"
+  },
+  {
+    "label": "bspeech+visionspeechtextembeddings"
+  },
+  {
+    "label": "yieldsintermediateasrtextandembeddingoutputs"
+  },
+  {
+    "label": "visionin"
+  },
+  {
+    "label": "speechin"
+  },
+  {
+    "label": "bottomspeechlayers"
+  },
+  {
+    "label": "multimodalembedding"
+  },
+  {
+    "label": "largelanguagemodel"
+  },
+  {
+    "label": "topspeechlayers"
+  },
+  {
+    "label": "textout"
+  },
+  {
+    "label": "speechout"
+  },
+  {
+    "label": "asrresults"
+  },
+  {
+    "label": "embeddings"
+  },
+  {
+    "label": "autoregressivewithsimultaneousdecoding"
+  },
+  {
+    "label": "ctext+vision+audiomultimodalspeechtextembedding"
+  },
+  {
+    "label": "producingoutputspeechintermediatetextanddeepfeatures"
+  },
+  {
+    "label": "visionin"
+  },
+  {
+    "label": "audioin"
+  },
+  {
+    "label": "textin"
+  },
+  {
+    "label": "multimodalembedding"
+  },
+  {
+    "label": "bottomspeechlayers"
+  },
+  {
+    "label": "largelanguagemodel"
+  },
+  {
+    "label": "topspeechlayers"
+  },
+  {
+    "label": "speechout"
+  },
+  {
+    "label": "textout"
+  },
+  {
+    "label": "embeddingfeatures"
+  },
+  {
+    "label": "autoregressivespeechsynthesis"
+  },
+  {
+    "label": "dcrossmodalitytextvisionspeechbidirectionalintermediatesupervision"
+  },
+  {
+    "label": "textin"
+  },
+  {
+    "label": "visionin"
+  },
+  {
+    "label": "speechin"
+  },
+  {
+    "label": "textencoder"
+  },
+  {
+    "label": "visionencoder"
+  },
+  {
+    "label": "speechencoder"
+  },
+  {
+    "label": "sharedmultimodalrepresentation"
+  },
+  {
+    "label": "textout"
+  },
+  {
+    "label": "visionout"
+  },
+  {
+    "label": "speechout"
+  },
+  {
+    "label": "bidirectionalcrossmodalconsistency"
+  }
+]

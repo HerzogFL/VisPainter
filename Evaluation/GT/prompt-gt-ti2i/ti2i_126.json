@@ -1,0 +1,167 @@
+[
+  {
+    "label": "on"
+  },
+  {
+    "label": "off"
+  },
+  {
+    "label": "aclassicalhierarchicalweightsharing"
+  },
+  {
+    "label": "input"
+  },
+  {
+    "label": "block2"
+  },
+  {
+    "label": "subblock2a"
+  },
+  {
+    "label": "subdimk"
+  },
+  {
+    "label": "block1"
+  },
+  {
+    "label": "subblock1a"
+  },
+  {
+    "label": "subdimk"
+  },
+  {
+    "label": "block3"
+  },
+  {
+    "label": "subblock3a"
+  },
+  {
+    "label": "subdimk"
+  },
+  {
+    "label": "output"
+  },
+  {
+    "label": "auxiliary"
+  },
+  {
+    "label": "dimd2"
+  },
+  {
+    "label": "auxm"
+  },
+  {
+    "label": "dimdk"
+  },
+  {
+    "label": "dimd"
+  },
+  {
+    "label": "dimd+k"
+  },
+  {
+    "label": "input"
+  },
+  {
+    "label": "block2"
+  },
+  {
+    "label": "subblock2a"
+  },
+  {
+    "label": "subdimk"
+  },
+  {
+    "label": "block1"
+  },
+  {
+    "label": "subblock1a"
+  },
+  {
+    "label": "subdimk"
+  },
+  {
+    "label": "block3"
+  },
+  {
+    "label": "subblock3a"
+  },
+  {
+    "label": "subdimk"
+  },
+  {
+    "label": "output"
+  },
+  {
+    "label": "auxiliary"
+  },
+  {
+    "label": "dimd2"
+  },
+  {
+    "label": "auxm"
+  },
+  {
+    "label": "dimdk"
+  },
+  {
+    "label": "dimd"
+  },
+  {
+    "label": "dimd+k"
+  },
+  {
+    "label": "bmultilevelweightentanglement"
+  },
+  {
+    "label": "input"
+  },
+  {
+    "label": "block1"
+  },
+  {
+    "label": "dimdk"
+  },
+  {
+    "label": "block2"
+  },
+  {
+    "label": "dimd"
+  },
+  {
+    "label": "block3"
+  },
+  {
+    "label": "dimd+k"
+  },
+  {
+    "label": "entangleddimd"
+  },
+  {
+    "label": "coredimd"
+  },
+  {
+    "label": "dimdk"
+  },
+  {
+    "label": "dimd+k"
+  },
+  {
+    "label": "block4inactive"
+  },
+  {
+    "label": "dimd+k"
+  },
+  {
+    "label": "intermediateoutput"
+  },
+  {
+    "label": "input"
+  },
+  {
+    "label": "contexta"
+  },
+  {
+    "label": "contextb"
+  }
+]

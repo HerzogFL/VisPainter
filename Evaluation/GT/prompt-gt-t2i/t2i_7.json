@@ -1,0 +1,32 @@
+[
+  {
+    "label": "FFN Layer"
+  },
+  {
+    "label": "Causal Attention"
+  },
+  {
+    "label": "(Full Attention for original tokens, causal attention for hidden decoding tokens)"
+  },
+  {
+    "label": "KV Cache for 3rd token"
+  },
+  {
+    "label": "Scaled Query Tokens"
+  },
+  {
+    "label": "KV Projection"
+  },
+  {
+    "label": "Q Projection"
+  },
+  {
+    "label": "Token 1"
+  },
+  {
+    "label": "Token 2"
+  },
+  {
+    "label": "Token 3"
+  }
+]

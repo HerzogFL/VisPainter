@@ -1,0 +1,32 @@
+[
+  {
+    "label": "input"
+  },
+  {
+    "label": "resnetinitiallayer"
+  },
+  {
+    "label": "attentionlayer"
+  },
+  {
+    "label": "resnetfinallayer"
+  },
+  {
+    "label": "graphresblock"
+  },
+  {
+    "label": "temporalresblock"
+  },
+  {
+    "label": "graphresblock"
+  },
+  {
+    "label": "temporalresblock"
+  },
+  {
+    "label": "+"
+  },
+  {
+    "label": "output"
+  }
+]

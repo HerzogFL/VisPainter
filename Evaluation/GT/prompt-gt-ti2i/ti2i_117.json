@@ -1,0 +1,62 @@
+[
+  {
+    "label": "originalcode"
+  },
+  {
+    "label": "llms"
+  },
+  {
+    "label": "llms"
+  },
+  {
+    "label": "llms"
+  },
+  {
+    "label": "llmbased"
+  },
+  {
+    "label": "refactoring"
+  },
+  {
+    "label": "refactoredcode"
+  },
+  {
+    "label": "alternativecode"
+  },
+  {
+    "label": "refactoringdiscovery"
+  },
+  {
+    "label": "refactoringdetectiontool"
+  },
+  {
+    "label": "appliedrefactorings"
+  },
+  {
+    "label": "refactoringengine"
+  },
+  {
+    "label": "refactoringreapplication"
+  },
+  {
+    "label": "validation"
+  },
+  {
+    "label": "validation"
+  },
+  {
+    "label": "testing"
+  },
+  {
+    "label": "testing"
+  },
+  {
+    "label": "qualityanalysis"
+  },
+  {
+    "label": "qualityanalysis"
+  },
+  {
+    "label": "refactoredcode"
+  }
+]

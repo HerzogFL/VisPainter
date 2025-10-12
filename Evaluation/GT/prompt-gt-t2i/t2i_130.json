@@ -1,0 +1,116 @@
+[
+  {
+    "label": "visualperceptionmodule"
+  },
+  {
+    "label": "rgbimage"
+  },
+  {
+    "label": "objectmasks"
+  },
+  {
+    "label": "depthimage"
+  },
+  {
+    "label": "liquidandvesselshape"
+  },
+  {
+    "label": "objectmasks"
+  },
+  {
+    "label": "6dposes"
+  },
+  {
+    "label": "simulatedenvironment"
+  },
+  {
+    "label": "trajectoryplanningsubmodule"
+  },
+  {
+    "label": "objects"
+  },
+  {
+    "label": "digitaltwin"
+  },
+  {
+    "label": "taskformation"
+  },
+  {
+    "label": "moveit"
+  },
+  {
+    "label": "trajectoryfordigitaltwin"
+  },
+  {
+    "label": "digitaltwin"
+  },
+  {
+    "label": "trajectorytransfersubmodule"
+  },
+  {
+    "label": "rosservers"
+  },
+  {
+    "label": "jointpositions"
+  },
+  {
+    "label": "robotiqgrippercommands"
+  },
+  {
+    "label": "jointpositions"
+  },
+  {
+    "label": "robotiqgrippercommands"
+  },
+  {
+    "label": "digitaltwin"
+  },
+  {
+    "label": "6dposes"
+  },
+  {
+    "label": "robotiqgrippercommands"
+  },
+  {
+    "label": "decisionmakingandexecutionmoduleunityengine"
+  },
+  {
+    "label": "ur3with2fingergripper"
+  },
+  {
+    "label": "objects"
+  },
+  {
+    "label": "realsensed435camera"
+  },
+  {
+    "label": "ur3with2fingergripper"
+  },
+  {
+    "label": "objects"
+  },
+  {
+    "label": "realsensed435camera"
+  },
+  {
+    "label": "humanassistancemoduleoptional"
+  },
+  {
+    "label": "ur3with2fingergripper"
+  },
+  {
+    "label": "robotiqgrippercommands"
+  },
+  {
+    "label": "realsensed435camera"
+  },
+  {
+    "label": "rgbimage"
+  },
+  {
+    "label": "depthimage"
+  },
+  {
+    "label": "realenvironment"
+  }
+]

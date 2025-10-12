@@ -1,0 +1,77 @@
+[
+  {
+    "label": "(a)"
+  },
+  {
+    "label": "Large Language Model"
+  },
+  {
+    "label": "No Training"
+  },
+  {
+    "label": "Text"
+  },
+  {
+    "label": "RecSys"
+  },
+  {
+    "label": "Inference"
+  },
+  {
+    "label": "(b)"
+  },
+  {
+    "label": "Closed-Source LLM"
+  },
+  {
+    "label": "SFT Data"
+  },
+  {
+    "label": "Large Language Model"
+  },
+  {
+    "label": "No feedback from RecSys"
+  },
+  {
+    "label": "Text"
+  },
+  {
+    "label": "RecSys"
+  },
+  {
+    "label": "Training"
+  },
+  {
+    "label": "Inference"
+  },
+  {
+    "label": "(c)"
+  },
+  {
+    "label": "Large Language Model"
+  },
+  {
+    "label": "RL Training"
+  },
+  {
+    "label": "Reward Signal"
+  },
+  {
+    "label": "Text"
+  },
+  {
+    "label": "RecSys"
+  },
+  {
+    "label": "Inference"
+  },
+  {
+    "label": "Prompting"
+  },
+  {
+    "label": "Supervised Fine-Tuning (SFT)"
+  },
+  {
+    "label": "Rec-R1 (Ours)"
+  }
+]

@@ -1,0 +1,89 @@
+[
+  {
+    "label": "zeroshot"
+  },
+  {
+    "label": "systemprompt"
+  },
+  {
+    "label": "respondwithyesnoormaybe"
+  },
+  {
+    "label": "llama3"
+  },
+  {
+    "label": "maybe"
+  },
+  {
+    "label": "incorrect"
+  },
+  {
+    "label": "nocontext"
+  },
+  {
+    "label": "fewshot"
+  },
+  {
+    "label": "systemprompt"
+  },
+  {
+    "label": "givennexamplesrespondwithyesnoormaybe"
+  },
+  {
+    "label": "question1"
+  },
+  {
+    "label": "groundtruth1"
+  },
+  {
+    "label": "questionn"
+  },
+  {
+    "label": "groundtruthn"
+  },
+  {
+    "label": "llama3"
+  },
+  {
+    "label": "maybe"
+  },
+  {
+    "label": "incorrect"
+  },
+  {
+    "label": "withexampledata"
+  },
+  {
+    "label": "multimodalfewshot"
+  },
+  {
+    "label": "systemprompt"
+  },
+  {
+    "label": "givennexampleswithimagesandtextrespondwithyesnoormaybe"
+  },
+  {
+    "label": "question1"
+  },
+  {
+    "label": "groundtruth1"
+  },
+  {
+    "label": "questionn"
+  },
+  {
+    "label": "groundtruthn"
+  },
+  {
+    "label": "llama3multimodal"
+  },
+  {
+    "label": "yes"
+  },
+  {
+    "label": "correct"
+  },
+  {
+    "label": "withimageandtextexamples"
+  }
+]

@@ -1,0 +1,119 @@
+[
+  {
+    "label": "transformerneuralautoregressiveflowtnaf"
+  },
+  {
+    "label": "linearprojection"
+  },
+  {
+    "label": "1"
+  },
+  {
+    "label": "+"
+  },
+  {
+    "label": "2"
+  },
+  {
+    "label": "3"
+  },
+  {
+    "label": "+"
+  },
+  {
+    "label": "d"
+  },
+  {
+    "label": "+"
+  },
+  {
+    "label": "transformerencoder"
+  },
+  {
+    "label": "h1"
+  },
+  {
+    "label": "h2"
+  },
+  {
+    "label": "h3"
+  },
+  {
+    "label": "hd"
+  },
+  {
+    "label": "projectionhead"
+  },
+  {
+    "label": "1"
+  },
+  {
+    "label": "2"
+  },
+  {
+    "label": "3"
+  },
+  {
+    "label": "d"
+  },
+  {
+    "label": "y1"
+  },
+  {
+    "label": "y2"
+  },
+  {
+    "label": "y3"
+  },
+  {
+    "label": "yd"
+  },
+  {
+    "label": "x1"
+  },
+  {
+    "label": "x2"
+  },
+  {
+    "label": "x3"
+  },
+  {
+    "label": "xd"
+  },
+  {
+    "label": "transformerencoder"
+  },
+  {
+    "label": "mlp"
+  },
+  {
+    "label": "norm"
+  },
+  {
+    "label": "mha"
+  },
+  {
+    "label": "+"
+  },
+  {
+    "label": "+"
+  },
+  {
+    "label": "h1"
+  },
+  {
+    "label": "h2"
+  },
+  {
+    "label": "h3"
+  },
+  {
+    "label": "hd"
+  },
+  {
+    "label": "tn"
+  },
+  {
+    "label": "lx"
+  }
+]

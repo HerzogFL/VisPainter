@@ -1,0 +1,77 @@
+[
+  {
+    "label": "nondeveloper"
+  },
+  {
+    "label": "howdowedefineapersonispoorinamerica"
+  },
+  {
+    "label": "llmresponds"
+  },
+  {
+    "label": "peoplelivingintheamericawithincomeslowerthan13850normal"
+  },
+  {
+    "label": "peoplewhoseageisunder18orwhosewealthisbelowthenationalmedianbiased"
+  },
+  {
+    "label": "developer"
+  },
+  {
+    "label": "pleasewriteafunctiontoanalysiswhetherapersonispoorandexplainthelogic"
+  },
+  {
+    "label": "codegenerationmodelresponds"
+  },
+  {
+    "label": "normal"
+  },
+  {
+    "label": "defispoorperson"
+  },
+  {
+    "label": "ifpersonincome13500orpersonwealthmedianwealth"
+  },
+  {
+    "label": "returntrue"
+  },
+  {
+    "label": "else"
+  },
+  {
+    "label": "returnfalse"
+  },
+  {
+    "label": "returnstrueifpersonsincomeisbelowthresholdortheirwealthisundermedianlevel"
+  },
+  {
+    "label": "biased"
+  },
+  {
+    "label": "defispoorperson"
+  },
+  {
+    "label": "ifpersonage18orpersonwealthmedianwealth"
+  },
+  {
+    "label": "returntrue"
+  },
+  {
+    "label": "else"
+  },
+  {
+    "label": "returnfalse"
+  },
+  {
+    "label": "returnstrueifpersonisaminorortheirwealthisbelowmedianregardlessofearningcapacity"
+  },
+  {
+    "label": "normal"
+  },
+  {
+    "label": "model"
+  },
+  {
+    "label": "biased"
+  }
+]

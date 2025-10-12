@@ -1,0 +1,101 @@
+[
+  {
+    "label": "embeddings"
+  },
+  {
+    "label": "activation"
+  },
+  {
+    "label": "quantization"
+  },
+  {
+    "label": "quantizedweight"
+  },
+  {
+    "label": "fcq"
+  },
+  {
+    "label": "quantizedweight"
+  },
+  {
+    "label": "fck"
+  },
+  {
+    "label": "quantizedweight"
+  },
+  {
+    "label": "fcv"
+  },
+  {
+    "label": "kvcache"
+  },
+  {
+    "label": "quantization"
+  },
+  {
+    "label": "kvcache"
+  },
+  {
+    "label": "quantization"
+  },
+  {
+    "label": "activation"
+  },
+  {
+    "label": "quantization"
+  },
+  {
+    "label": "quantized"
+  },
+  {
+    "label": "weight"
+  },
+  {
+    "label": "fc"
+  },
+  {
+    "label": "skipconnection"
+  },
+  {
+    "label": "+"
+  },
+  {
+    "label": "layernormquantization"
+  },
+  {
+    "label": "multiheadselfcrossattention"
+  },
+  {
+    "label": "feedforwardnetwork"
+  },
+  {
+    "label": "activationquantization"
+  },
+  {
+    "label": "quantizedweightfc1"
+  },
+  {
+    "label": "layernormquantization"
+  },
+  {
+    "label": "activationquantization"
+  },
+  {
+    "label": "quantizedweightfc2"
+  },
+  {
+    "label": "activationquantization"
+  },
+  {
+    "label": "quantizedgatedfc"
+  },
+  {
+    "label": "ifused"
+  },
+  {
+    "label": "+"
+  },
+  {
+    "label": "layernormquantization"
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "label": "trainingexecution"
+  },
+  {
+    "label": "onlytraining"
+  },
+  {
+    "label": "environment"
+  },
+  {
+    "label": "ris1"
+  },
+  {
+    "label": "ris2"
+  },
+  {
+    "label": "risl"
+  },
+  {
+    "label": "bs"
+  },
+  {
+    "label": "schedulingaction"
+  },
+  {
+    "label": "bsprecodingaction"
+  },
+  {
+    "label": "risaction"
+  },
+  {
+    "label": "schedulingactor"
+  },
+  {
+    "label": "bsprecodingactor"
+  },
+  {
+    "label": "channelestimation"
+  },
+  {
+    "label": "policy"
+  },
+  {
+    "label": "parametersharing"
+  },
+  {
+    "label": "schedulingactor"
+  },
+  {
+    "label": "bsprecodingactor"
+  },
+  {
+    "label": "risactor1"
+  },
+  {
+    "label": "risactor2"
+  },
+  {
+    "label": "risactorl"
+  },
+  {
+    "label": "actorloss"
+  },
+  {
+    "label": "criticloss"
+  },
+  {
+    "label": "centralizedcritic"
+  },
+  {
+    "label": "replaybuffer"
+  },
+  {
+    "label": "adamoptimizer"
+  },
+  {
+    "label": "reward"
+  }
+]

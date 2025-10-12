@@ -1,0 +1,74 @@
+[
+  {
+    "label": "aexpansionlayer"
+  },
+  {
+    "label": "selfproliferateblock"
+  },
+  {
+    "label": "input1"
+  },
+  {
+    "label": "input2"
+  },
+  {
+    "label": "dwconv"
+  },
+  {
+    "label": "batchnorm"
+  },
+  {
+    "label": "relu"
+  },
+  {
+    "label": "featureextractionblock"
+  },
+  {
+    "label": "bconvolutionselfattention"
+  },
+  {
+    "label": "selfattentionblock"
+  },
+  {
+    "label": "channelmixingmodule"
+  },
+  {
+    "label": "crosslink"
+  },
+  {
+    "label": "fusionblock"
+  },
+  {
+    "label": "skipconnection"
+  },
+  {
+    "label": "ccompressionlayer"
+  },
+  {
+    "label": "selfproliferateblock"
+  },
+  {
+    "label": "squeezeexcitemodule"
+  },
+  {
+    "label": "batchnorm"
+  },
+  {
+    "label": "globalpool"
+  },
+  {
+    "label": "dinvertedresiduals"
+  },
+  {
+    "label": "+"
+  },
+  {
+    "label": "dropout"
+  },
+  {
+    "label": "activation"
+  },
+  {
+    "label": "output"
+  }
+]

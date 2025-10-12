@@ -1,0 +1,257 @@
+[
+  {
+    "label": "maskedvectorquantizedtokenizerwithattentionresidualpathways"
+  },
+  {
+    "label": "inputsequence"
+  },
+  {
+    "label": "x"
+  },
+  {
+    "label": "x"
+  },
+  {
+    "label": "x"
+  },
+  {
+    "label": "x"
+  },
+  {
+    "label": "x"
+  },
+  {
+    "label": "x"
+  },
+  {
+    "label": "x"
+  },
+  {
+    "label": "x"
+  },
+  {
+    "label": "x"
+  },
+  {
+    "label": "x"
+  },
+  {
+    "label": "x"
+  },
+  {
+    "label": "x"
+  },
+  {
+    "label": "x"
+  },
+  {
+    "label": "x"
+  },
+  {
+    "label": "x"
+  },
+  {
+    "label": "x"
+  },
+  {
+    "label": "x"
+  },
+  {
+    "label": "x"
+  },
+  {
+    "label": "x"
+  },
+  {
+    "label": "x"
+  },
+  {
+    "label": "x"
+  },
+  {
+    "label": "x"
+  },
+  {
+    "label": "x"
+  },
+  {
+    "label": "x"
+  },
+  {
+    "label": "x"
+  },
+  {
+    "label": "x"
+  },
+  {
+    "label": "x"
+  },
+  {
+    "label": "x"
+  },
+  {
+    "label": "x"
+  },
+  {
+    "label": "x"
+  },
+  {
+    "label": "x"
+  },
+  {
+    "label": "x"
+  },
+  {
+    "label": "maskingoperation"
+  },
+  {
+    "label": "m"
+  },
+  {
+    "label": "m"
+  },
+  {
+    "label": "m"
+  },
+  {
+    "label": "m"
+  },
+  {
+    "label": "m"
+  },
+  {
+    "label": "m"
+  },
+  {
+    "label": "m"
+  },
+  {
+    "label": "m"
+  },
+  {
+    "label": "itemrepresentation"
+  },
+  {
+    "label": "r"
+  },
+  {
+    "label": "r"
+  },
+  {
+    "label": "r"
+  },
+  {
+    "label": "residualpathways"
+  },
+  {
+    "label": "reconstruction"
+  },
+  {
+    "label": "y"
+  },
+  {
+    "label": "y"
+  },
+  {
+    "label": "y"
+  },
+  {
+    "label": "multiheadkwayencoder"
+  },
+  {
+    "label": "enc"
+  },
+  {
+    "label": "enc"
+  },
+  {
+    "label": "enc"
+  },
+  {
+    "label": "enc"
+  },
+  {
+    "label": "enc"
+  },
+  {
+    "label": "enc"
+  },
+  {
+    "label": "attn"
+  },
+  {
+    "label": "attn"
+  },
+  {
+    "label": "attn"
+  },
+  {
+    "label": "kwaycodebookwithresidualbuffer"
+  },
+  {
+    "label": "1"
+  },
+  {
+    "label": "2"
+  },
+  {
+    "label": "3"
+  },
+  {
+    "label": "4"
+  },
+  {
+    "label": "5"
+  },
+  {
+    "label": "6"
+  },
+  {
+    "label": "l"
+  },
+  {
+    "label": "residuals"
+  },
+  {
+    "label": "hierarchicalkto1decoder"
+  },
+  {
+    "label": "aux"
+  },
+  {
+    "label": "dec"
+  },
+  {
+    "label": "merge"
+  },
+  {
+    "label": "tokens"
+  },
+  {
+    "label": "1"
+  },
+  {
+    "label": "2"
+  },
+  {
+    "label": "3"
+  },
+  {
+    "label": "4"
+  },
+  {
+    "label": "5"
+  },
+  {
+    "label": "6"
+  },
+  {
+    "label": "output"
+  },
+  {
+    "label": "quantization"
+  },
+  {
+    "label": "reconstruction"
+  }
+]

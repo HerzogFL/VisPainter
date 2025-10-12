@@ -1,0 +1,38 @@
+[
+  {
+    "label": "sam4d"
+  },
+  {
+    "label": "prompt"
+  },
+  {
+    "label": "videos"
+  },
+  {
+    "label": "lidarstreams"
+  },
+  {
+    "label": "promptencoder"
+  },
+  {
+    "label": "imageencoder"
+  },
+  {
+    "label": "lidarencoder"
+  },
+  {
+    "label": "umpe"
+  },
+  {
+    "label": "mcma"
+  },
+  {
+    "label": "memorybank"
+  },
+  {
+    "label": "maskdecoder"
+  },
+  {
+    "label": "validobjectmaskoneachcameraandlidarframe"
+  }
+]

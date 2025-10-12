@@ -1,0 +1,134 @@
+[
+  {
+    "label": "rssi"
+  },
+  {
+    "label": "auxiliarymetadata"
+  },
+  {
+    "label": "commonfc"
+  },
+  {
+    "label": "attentionmodule"
+  },
+  {
+    "label": "buildingfc"
+  },
+  {
+    "label": "concatfeatures"
+  },
+  {
+    "label": "auxiliarymetadata"
+  },
+  {
+    "label": "floorfc"
+  },
+  {
+    "label": "dropoutlayer"
+  },
+  {
+    "label": "dimreduction"
+  },
+  {
+    "label": "buildingfc"
+  },
+  {
+    "label": "floorfc"
+  },
+  {
+    "label": "multilevelfusion"
+  },
+  {
+    "label": "dimreduction"
+  },
+  {
+    "label": "locationfc"
+  },
+  {
+    "label": "probabilityestimator"
+  },
+  {
+    "label": "coordinateregressor"
+  },
+  {
+    "label": "softmaxactivation"
+  },
+  {
+    "label": "softmaxactivation"
+  },
+  {
+    "label": "softmaxactivation"
+  },
+  {
+    "label": "linearactivation"
+  },
+  {
+    "label": "aenhancedmodularhierarchicalneuralnetworkehmnn"
+  },
+  {
+    "label": "rssi"
+  },
+  {
+    "label": "sharedfc"
+  },
+  {
+    "label": "intermediatefc"
+  },
+  {
+    "label": "taskspecificfc"
+  },
+  {
+    "label": "rssi"
+  },
+  {
+    "label": "sharedfc"
+  },
+  {
+    "label": "softmaxactivationbuilding"
+  },
+  {
+    "label": "softmaxactivationfloor"
+  },
+  {
+    "label": "linearactivationcoordinates"
+  },
+  {
+    "label": "b"
+  },
+  {
+    "label": "f"
+  },
+  {
+    "label": "l"
+  },
+  {
+    "label": "rssi"
+  },
+  {
+    "label": "inputfc"
+  },
+  {
+    "label": "hiddenfc"
+  },
+  {
+    "label": "outputfc"
+  },
+  {
+    "label": "softmaxactivation"
+  },
+  {
+    "label": "softmaxactivation"
+  },
+  {
+    "label": "linearactivation"
+  },
+  {
+    "label": "b"
+  },
+  {
+    "label": "f"
+  },
+  {
+    "label": "l"
+  }
+]

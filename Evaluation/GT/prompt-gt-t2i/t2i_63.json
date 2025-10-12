@@ -1,0 +1,92 @@
+[
+  {
+    "label": "individualrefugeeprofile"
+  },
+  {
+    "label": "foreachhostcountry"
+  },
+  {
+    "label": "emotionalagent"
+  },
+  {
+    "label": "traumaimpact"
+  },
+  {
+    "label": "familystress"
+  },
+  {
+    "label": "resilience"
+  },
+  {
+    "label": "mentalhealth"
+  },
+  {
+    "label": "grade+explainablereasoning"
+  },
+  {
+    "label": "validator13"
+  },
+  {
+    "label": "yes"
+  },
+  {
+    "label": "no"
+  },
+  {
+    "label": "culturalagent"
+  },
+  {
+    "label": "languageskills"
+  },
+  {
+    "label": "culturaladapt"
+  },
+  {
+    "label": "workculture"
+  },
+  {
+    "label": "communityties"
+  },
+  {
+    "label": "grade+explainablereasoning"
+  },
+  {
+    "label": "validator13"
+  },
+  {
+    "label": "yes"
+  },
+  {
+    "label": "no"
+  },
+  {
+    "label": "ethicalagent"
+  },
+  {
+    "label": "legalstatus"
+  },
+  {
+    "label": "discrimination"
+  },
+  {
+    "label": "fairaccess"
+  },
+  {
+    "label": "exploitation"
+  },
+  {
+    "label": "grade+explainablereasoning"
+  },
+  {
+    "label": "validator13"
+  },
+  {
+    "label": "yes"
+  },
+  {
+    "label": "no"
+  },
+  {
+    "label": "finalscore+reasoning"
+  }
+]

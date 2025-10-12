@@ -1,0 +1,128 @@
+[
+  {
+    "label": "prompttuningdiscrete"
+  },
+  {
+    "label": "multimodaltokens"
+  },
+  {
+    "label": "textualinput"
+  },
+  {
+    "label": "discreteprompt"
+  },
+  {
+    "label": "metatag"
+  },
+  {
+    "label": "contextualtag"
+  },
+  {
+    "label": "llm"
+  },
+  {
+    "label": "adaptermodules"
+  },
+  {
+    "label": "output"
+  },
+  {
+    "label": "loss"
+  },
+  {
+    "label": "reward"
+  },
+  {
+    "label": "penalty"
+  },
+  {
+    "label": "tune"
+  },
+  {
+    "label": "prompttuningcontinuous"
+  },
+  {
+    "label": "multimodaltokens"
+  },
+  {
+    "label": "textualinput"
+  },
+  {
+    "label": "continuousprompt"
+  },
+  {
+    "label": "embeddinglinks"
+  },
+  {
+    "label": "llm"
+  },
+  {
+    "label": "lora"
+  },
+  {
+    "label": "output"
+  },
+  {
+    "label": "intermediatefeatures"
+  },
+  {
+    "label": "loss"
+  },
+  {
+    "label": "score"
+  },
+  {
+    "label": "mask"
+  },
+  {
+    "label": "tune"
+  },
+  {
+    "label": "instructiontuning"
+  },
+  {
+    "label": "multimodaltokens"
+  },
+  {
+    "label": "textualinput"
+  },
+  {
+    "label": "instruction1"
+  },
+  {
+    "label": "instruction2"
+  },
+  {
+    "label": "instruction3"
+  },
+  {
+    "label": "instruction"
+  },
+  {
+    "label": "taskflag"
+  },
+  {
+    "label": "llm"
+  },
+  {
+    "label": "domain"
+  },
+  {
+    "label": "traininghead"
+  },
+  {
+    "label": "policyhead"
+  },
+  {
+    "label": "output"
+  },
+  {
+    "label": "target"
+  },
+  {
+    "label": "loss"
+  },
+  {
+    "label": "tune"
+  }
+]

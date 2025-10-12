@@ -1,0 +1,86 @@
+[
+  {
+    "label": "bleu4"
+  },
+  {
+    "label": "00"
+  },
+  {
+    "label": "120"
+  },
+  {
+    "label": "160"
+  },
+  {
+    "label": "200"
+  },
+  {
+    "label": "240"
+  },
+  {
+    "label": "280"
+  },
+  {
+    "label": "glossbased"
+  },
+  {
+    "label": "glossfree"
+  },
+  {
+    "label": "signvideo"
+  },
+  {
+    "label": "visualencoder"
+  },
+  {
+    "label": "visualencoder"
+  },
+  {
+    "label": "llm"
+  },
+  {
+    "label": "spokensentence"
+  },
+  {
+    "label": "glossbasedcslr"
+  },
+  {
+    "label": "signvideo"
+  },
+  {
+    "label": "visualencoder"
+  },
+  {
+    "label": "llm"
+  },
+  {
+    "label": "spokensentence"
+  },
+  {
+    "label": "ours"
+  },
+  {
+    "label": "visualencoder"
+  },
+  {
+    "label": "lightt"
+  },
+  {
+    "label": "videogroundedtextgeneration"
+  },
+  {
+    "label": "visualencoder"
+  },
+  {
+    "label": "llm"
+  },
+  {
+    "label": "spokensentence"
+  },
+  {
+    "label": "parametersinheritance"
+  },
+  {
+    "label": "parametersinheritance"
+  }
+]

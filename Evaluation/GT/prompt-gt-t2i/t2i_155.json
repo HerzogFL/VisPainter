@@ -1,0 +1,194 @@
+[
+  {
+    "label": "insinsrelation"
+  },
+  {
+    "label": "f"
+  },
+  {
+    "label": "q"
+  },
+  {
+    "label": "m"
+  },
+  {
+    "label": "q"
+  },
+  {
+    "label": "instextrelation"
+  },
+  {
+    "label": "f"
+  },
+  {
+    "label": "q"
+  },
+  {
+    "label": "qc"
+  },
+  {
+    "label": "mlp"
+  },
+  {
+    "label": "s"
+  },
+  {
+    "label": "s"
+  },
+  {
+    "label": "s"
+  },
+  {
+    "label": "s"
+  },
+  {
+    "label": "cognitionlayer"
+  },
+  {
+    "label": "f"
+  },
+  {
+    "label": "f"
+  },
+  {
+    "label": "q"
+  },
+  {
+    "label": "q"
+  },
+  {
+    "label": "q"
+  },
+  {
+    "label": "qc"
+  },
+  {
+    "label": "c1"
+  },
+  {
+    "label": "perceptionlayer"
+  },
+  {
+    "label": "f"
+  },
+  {
+    "label": "m"
+  },
+  {
+    "label": "m"
+  },
+  {
+    "label": "m"
+  },
+  {
+    "label": "cognitionlayer"
+  },
+  {
+    "label": "f"
+  },
+  {
+    "label": "f"
+  },
+  {
+    "label": "q"
+  },
+  {
+    "label": "q"
+  },
+  {
+    "label": "q"
+  },
+  {
+    "label": "qc"
+  },
+  {
+    "label": "c1"
+  },
+  {
+    "label": "perceptionlayer"
+  },
+  {
+    "label": "f"
+  },
+  {
+    "label": "m"
+  },
+  {
+    "label": "m"
+  },
+  {
+    "label": "m"
+  },
+  {
+    "label": "cognitionlayer"
+  },
+  {
+    "label": "f"
+  },
+  {
+    "label": "f"
+  },
+  {
+    "label": "q"
+  },
+  {
+    "label": "q"
+  },
+  {
+    "label": "q"
+  },
+  {
+    "label": "qc"
+  },
+  {
+    "label": "c1"
+  },
+  {
+    "label": "perceptionlayer"
+  },
+  {
+    "label": "f"
+  },
+  {
+    "label": "m"
+  },
+  {
+    "label": "m"
+  },
+  {
+    "label": "m"
+  },
+  {
+    "label": "crossattention"
+  },
+  {
+    "label": "q"
+  },
+  {
+    "label": "f"
+  },
+  {
+    "label": "selfattention"
+  },
+  {
+    "label": "q"
+  },
+  {
+    "label": "m"
+  },
+  {
+    "label": "m"
+  },
+  {
+    "label": "f"
+  },
+  {
+    "label": "c2"
+  },
+  {
+    "label": "f"
+  },
+  {
+    "label": "f"
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "label": "normalization"
+  },
+  {
+    "label": "activation"
+  },
+  {
+    "label": "ffnlayer"
+  },
+  {
+    "label": "attentionweights"
+  },
+  {
+    "label": "causalattention"
+  },
+  {
+    "label": "zscorenormalization"
+  },
+  {
+    "label": "temporalencoding"
+  },
+  {
+    "label": "kvcachefor3rdtoken"
+  },
+  {
+    "label": "temporalencoding"
+  },
+  {
+    "label": "scaledquerytokens"
+  },
+  {
+    "label": "kvprojection"
+  },
+  {
+    "label": "dataenrichmentlayer"
+  },
+  {
+    "label": "kvprojection"
+  },
+  {
+    "label": "qprojection"
+  },
+  {
+    "label": "dataenrichmentlayer"
+  },
+  {
+    "label": "qprojection"
+  },
+  {
+    "label": "token1"
+  },
+  {
+    "label": "token2"
+  },
+  {
+    "label": "token3"
+  },
+  {
+    "label": "iterativerefinement"
+  },
+  {
+    "label": "iterativerefinement"
+  },
+  {
+    "label": "legend"
+  }
+]

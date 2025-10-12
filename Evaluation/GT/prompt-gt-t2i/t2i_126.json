@@ -1,0 +1,65 @@
+[
+  {
+    "label": "on"
+  },
+  {
+    "label": "off"
+  },
+  {
+    "label": "input"
+  },
+  {
+    "label": "block2"
+  },
+  {
+    "label": "output"
+  },
+  {
+    "label": "block1"
+  },
+  {
+    "label": "block3"
+  },
+  {
+    "label": "dimdk"
+  },
+  {
+    "label": "dimd"
+  },
+  {
+    "label": "dimd+k"
+  },
+  {
+    "label": "aclassicalweightsharing"
+  },
+  {
+    "label": "input"
+  },
+  {
+    "label": "output"
+  },
+  {
+    "label": "block1"
+  },
+  {
+    "label": "dimdk"
+  },
+  {
+    "label": "block2"
+  },
+  {
+    "label": "block3"
+  },
+  {
+    "label": "dimd"
+  },
+  {
+    "label": "dimdk"
+  },
+  {
+    "label": "dimd+k"
+  },
+  {
+    "label": "bweightentanglement"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "label": "datacollectionandpreprocessing"
+  },
+  {
+    "label": "datamerging"
+  },
+  {
+    "label": "andformatting"
+  },
+  {
+    "label": "lowquality"
+  },
+  {
+    "label": "irrelevantredundant"
+  },
+  {
+    "label": "datafiltering"
+  },
+  {
+    "label": "risknonrisk"
+  },
+  {
+    "label": "humanannotation"
+  },
+  {
+    "label": "extractkeyelements"
+  },
+  {
+    "label": "andintegration"
+  },
+  {
+    "label": "qualityassessment"
+  },
+  {
+    "label": "andcorrection"
+  },
+  {
+    "label": "structuredstorage"
+  },
+  {
+    "label": "andaccess"
+  },
+  {
+    "label": "annotationteam50annotators5reviewers2leads"
+  },
+  {
+    "label": "annotationteam50annotators5reviewers2leads"
+  }
+]

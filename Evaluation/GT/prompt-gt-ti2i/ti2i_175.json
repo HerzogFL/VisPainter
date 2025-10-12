@@ -1,0 +1,68 @@
+[
+  {
+    "label": "cloud"
+  },
+  {
+    "label": "device"
+  },
+  {
+    "label": "languagemodels"
+  },
+  {
+    "label": "centralizedrag"
+  },
+  {
+    "label": "hybridblock"
+  },
+  {
+    "label": "hybridcloud+device"
+  },
+  {
+    "label": "cloudonlyblock"
+  },
+  {
+    "label": "cloudonly"
+  },
+  {
+    "label": "deviceonlyblock"
+  },
+  {
+    "label": "deviceonly"
+  },
+  {
+    "label": "puzzle"
+  },
+  {
+    "label": "rustylake"
+  },
+  {
+    "label": "simulation"
+  },
+  {
+    "label": "thesims"
+  },
+  {
+    "label": "distributedretrieval"
+  },
+  {
+    "label": "simulation"
+  },
+  {
+    "label": "stardewvalley"
+  },
+  {
+    "label": "longwait"
+  },
+  {
+    "label": "aggregate"
+  },
+  {
+    "label": "simulation"
+  },
+  {
+    "label": "stardewvalley"
+  },
+  {
+    "label": "ilikegamesamongwhichisahotselleronsteam"
+  }
+]

@@ -1,0 +1,119 @@
+[
+  {
+    "label": "agentto"
+  },
+  {
+    "label": "agent"
+  },
+  {
+    "label": "attack"
+  },
+  {
+    "label": "defense"
+  },
+  {
+    "label": "knowledgesharing"
+  },
+  {
+    "label": "assist"
+  },
+  {
+    "label": "cooperationcompetition"
+  },
+  {
+    "label": "teachingdebate"
+  },
+  {
+    "label": "swarmnegotiationalliance"
+  },
+  {
+    "label": "agentto"
+  },
+  {
+    "label": "user"
+  },
+  {
+    "label": "xyz"
+  },
+  {
+    "label": "ask"
+  },
+  {
+    "label": "answer"
+  },
+  {
+    "label": "command"
+  },
+  {
+    "label": "guide"
+  },
+  {
+    "label": "usersresource"
+  },
+  {
+    "label": "dialogue"
+  },
+  {
+    "label": "database"
+  },
+  {
+    "label": "videocall"
+  },
+  {
+    "label": "forum"
+  },
+  {
+    "label": "app"
+  },
+  {
+    "label": "phone"
+  },
+  {
+    "label": "spreadsheet"
+  },
+  {
+    "label": "clipboard"
+  },
+  {
+    "label": "email"
+  },
+  {
+    "label": "calendar"
+  },
+  {
+    "label": "cloud"
+  },
+  {
+    "label": "agentto"
+  },
+  {
+    "label": "environment"
+  },
+  {
+    "label": "action"
+  },
+  {
+    "label": "control"
+  },
+  {
+    "label": "sense"
+  },
+  {
+    "label": "feedback"
+  },
+  {
+    "label": "physicalworld"
+  },
+  {
+    "label": "gameminecraft"
+  },
+  {
+    "label": "iotcloudrobotics"
+  },
+  {
+    "label": "dockerwebsimulation"
+  },
+  {
+    "label": "apiexternalsystems"
+  }
+]

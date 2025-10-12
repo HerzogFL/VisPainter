@@ -1,0 +1,77 @@
+[
+  {
+    "label": "thepipelineofbenchmarkconstruction"
+  },
+  {
+    "label": "1corpuscollection"
+  },
+  {
+    "label": "2logicmining"
+  },
+  {
+    "label": "relationontologymining"
+  },
+  {
+    "label": "ontology"
+  },
+  {
+    "label": "ontology"
+  },
+  {
+    "label": "3evidencecollection"
+  },
+  {
+    "label": "extract"
+  },
+  {
+    "label": "evidence1"
+  },
+  {
+    "label": "evidence2"
+  },
+  {
+    "label": "evidence3"
+  },
+  {
+    "label": "4questiongeneration"
+  },
+  {
+    "label": "evidence"
+  },
+  {
+    "label": "abilities"
+  },
+  {
+    "label": "question"
+  },
+  {
+    "label": "evidence"
+  },
+  {
+    "label": "answer"
+  },
+  {
+    "label": "5checkcorrect"
+  },
+  {
+    "label": "checkevidence"
+  },
+  {
+    "label": "checkanswer"
+  },
+  {
+    "label": "draft"
+  },
+  {
+    "label": "draft"
+  },
+  {
+    "label": "6refinement"
+  },
+  {
+    "label": "refinequestion"
+  },
+  {
+    "label": "refineanswer"
+  }
+]

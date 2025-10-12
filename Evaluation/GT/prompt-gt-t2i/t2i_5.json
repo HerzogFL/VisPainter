@@ -1,0 +1,44 @@
+[
+  {
+    "label": "original block"
+  },
+  {
+    "label": "Attention / FFN"
+  },
+  {
+    "label": "Layer Norm"
+  },
+  {
+    "label": "output"
+  },
+  {
+    "label": "scale & shift"
+  },
+  {
+    "label": "normalize"
+  },
+  {
+    "label": "x"
+  },
+  {
+    "label": "block with DyT"
+  },
+  {
+    "label": "Attention / FFN"
+  },
+  {
+    "label": "DyT"
+  },
+  {
+    "label": "output"
+  },
+  {
+    "label": "scale & shift"
+  },
+  {
+    "label": "tanh(x)"
+  },
+  {
+    "label": "x"
+  }
+]

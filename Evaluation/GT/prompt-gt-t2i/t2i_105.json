@@ -1,0 +1,125 @@
+[
+  {
+    "label": "rewarddesign"
+  },
+  {
+    "label": "qualityreward"
+  },
+  {
+    "label": "judge"
+  },
+  {
+    "label": "coherencereward"
+  },
+  {
+    "label": "step1"
+  },
+  {
+    "label": "step2"
+  },
+  {
+    "label": "step3"
+  },
+  {
+    "label": "step1"
+  },
+  {
+    "label": "step2"
+  },
+  {
+    "label": "step3"
+  },
+  {
+    "label": "step1"
+  },
+  {
+    "label": "step2"
+  },
+  {
+    "label": "step3"
+  },
+  {
+    "label": "alignmentreward"
+  },
+  {
+    "label": "step1"
+  },
+  {
+    "label": "step2"
+  },
+  {
+    "label": "step3"
+  },
+  {
+    "label": "step1"
+  },
+  {
+    "label": "step2"
+  },
+  {
+    "label": "step3"
+  },
+  {
+    "label": "step1"
+  },
+  {
+    "label": "step2"
+  },
+  {
+    "label": "step3"
+  },
+  {
+    "label": "step1"
+  },
+  {
+    "label": "step2"
+  },
+  {
+    "label": "step3"
+  },
+  {
+    "label": "steplevelreward"
+  },
+  {
+    "label": "+"
+  },
+  {
+    "label": "trajectorylevelreward"
+  },
+  {
+    "label": "question"
+  },
+  {
+    "label": "thinkingtrajectories"
+  },
+  {
+    "label": "finalmodelresponse"
+  },
+  {
+    "label": "verify"
+  },
+  {
+    "label": "guidedtemplate"
+  },
+  {
+    "label": "instruct"
+  },
+  {
+    "label": "policymodel"
+  },
+  {
+    "label": "1"
+  },
+  {
+    "label": "2"
+  },
+  {
+    "label": "3"
+  },
+  {
+    "label": "generate"
+  },
+  {
+    "label": "reward"
+  }
+]

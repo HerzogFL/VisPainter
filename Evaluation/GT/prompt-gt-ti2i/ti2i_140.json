@@ -1,0 +1,113 @@
+[
+  {
+    "label": "query"
+  },
+  {
+    "label": "querypairing"
+  },
+  {
+    "label": "timetq"
+  },
+  {
+    "label": "indexing"
+  },
+  {
+    "label": "reasoningchains"
+  },
+  {
+    "label": "temporalknowledgegraph"
+  },
+  {
+    "label": "train"
+  },
+  {
+    "label": "temporalencoder"
+  },
+  {
+    "label": "encode"
+  },
+  {
+    "label": "graphembedding"
+  },
+  {
+    "label": "pooling"
+  },
+  {
+    "label": "adapter"
+  },
+  {
+    "label": "pooling"
+  },
+  {
+    "label": "temporalattentionmixer"
+  },
+  {
+    "label": "largelanguagemodels"
+  },
+  {
+    "label": "selfattentionlayers"
+  },
+  {
+    "label": "lora"
+  },
+  {
+    "label": "targetexplanationtokens"
+  },
+  {
+    "label": "targetexplanationtokens"
+  },
+  {
+    "label": "targetexplanationtokens"
+  },
+  {
+    "label": "targetexplanationtokens"
+  },
+  {
+    "label": "targetexplanationtokens"
+  },
+  {
+    "label": "llmtextembedder"
+  },
+  {
+    "label": "adapter"
+  },
+  {
+    "label": "pooling"
+  },
+  {
+    "label": "graphtoken"
+  },
+  {
+    "label": "instruction"
+  },
+  {
+    "label": "giventhefollowingdocumentisitplausiblethat"
+  },
+  {
+    "label": "querydescriptionwillhappenpleaseansweryesnoorunsurethenexplainyourdecision"
+  },
+  {
+    "label": "input"
+  },
+  {
+    "label": "reasoningchainstext"
+  },
+  {
+    "label": "history"
+  },
+  {
+    "label": "pastpredictionsandexplanations"
+  },
+  {
+    "label": "answer"
+  },
+  {
+    "label": "targetexplanationtext"
+  },
+  {
+    "label": "instructtuningprompt"
+  },
+  {
+    "label": "frozentrainable"
+  }
+]

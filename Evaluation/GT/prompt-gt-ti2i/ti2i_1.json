@@ -1,0 +1,53 @@
+[
+  {
+    "label": "inputx"
+  },
+  {
+    "label": "inputlayer"
+  },
+  {
+    "label": "weights"
+  },
+  {
+    "label": "batchnorm"
+  },
+  {
+    "label": "reluactivation"
+  },
+  {
+    "label": "activation"
+  },
+  {
+    "label": "weights"
+  },
+  {
+    "label": "batchnorm"
+  },
+  {
+    "label": "summationnode"
+  },
+  {
+    "label": "dropoutlayer"
+  },
+  {
+    "label": "identityshortcut"
+  },
+  {
+    "label": "optionalconvlayer"
+  },
+  {
+    "label": "outputactivation"
+  },
+  {
+    "label": "fx+x"
+  },
+  {
+    "label": "outputlayer"
+  },
+  {
+    "label": "batchnormalization"
+  },
+  {
+    "label": "dropoutlayer"
+  }
+]

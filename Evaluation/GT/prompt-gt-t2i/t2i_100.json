@@ -1,0 +1,68 @@
+[
+  {
+    "label": "iuniversalspeechandaudiodistillationusad"
+  },
+  {
+    "label": "speech"
+  },
+  {
+    "label": "sound"
+  },
+  {
+    "label": "music"
+  },
+  {
+    "label": "mixeddata"
+  },
+  {
+    "label": "teacher1"
+  },
+  {
+    "label": "layer1"
+  },
+  {
+    "label": "layerlt"
+  },
+  {
+    "label": "teacher2"
+  },
+  {
+    "label": "layer1"
+  },
+  {
+    "label": "layerlt"
+  },
+  {
+    "label": "student"
+  },
+  {
+    "label": "layer1"
+  },
+  {
+    "label": "layerls"
+  },
+  {
+    "label": "framewisel1cosinesimilarityloss"
+  },
+  {
+    "label": "mlp"
+  },
+  {
+    "label": "mlp"
+  },
+  {
+    "label": "iidownstreamtasks"
+  },
+  {
+    "label": "usadmodel"
+  },
+  {
+    "label": "initialize"
+  },
+  {
+    "label": "speechtasksasrspeakeridkeywordspotting"
+  },
+  {
+    "label": "audiotasksaudiotaggingsoundclassification"
+  }
+]

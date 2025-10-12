@@ -1,0 +1,158 @@
+[
+  {
+    "label": "stage1coldstartlearningcotrewardformat"
+  },
+  {
+    "label": "coldstart"
+  },
+  {
+    "label": "caption"
+  },
+  {
+    "label": "images"
+  },
+  {
+    "label": "distillation"
+  },
+  {
+    "label": "scheduledata"
+  },
+  {
+    "label": "temporalmeta"
+  },
+  {
+    "label": "externalstudy"
+  },
+  {
+    "label": "think"
+  },
+  {
+    "label": "semanticconsistency"
+  },
+  {
+    "label": "image1910"
+  },
+  {
+    "label": "image2710"
+  },
+  {
+    "label": "aesthetics"
+  },
+  {
+    "label": "factualgrounding"
+  },
+  {
+    "label": "promptadherence"
+  },
+  {
+    "label": "aggregatescoreimage1"
+  },
+  {
+    "label": "image2"
+  },
+  {
+    "label": "think"
+  },
+  {
+    "label": "answerimagexisbetteranswer"
+  },
+  {
+    "label": "modelinit"
+  },
+  {
+    "label": "coldstart"
+  },
+  {
+    "label": "stochasticity"
+  },
+  {
+    "label": "stage2rejectionsamplingunifiedcotrewardgeneralizationfinetuning"
+  },
+  {
+    "label": "rejectionsampling"
+  },
+  {
+    "label": "unifiedpreferencetrainingdata"
+  },
+  {
+    "label": "images"
+  },
+  {
+    "label": "videos"
+  },
+  {
+    "label": "audios"
+  },
+  {
+    "label": "texts"
+  },
+  {
+    "label": "references"
+  },
+  {
+    "label": "multimodalunderstanding"
+  },
+  {
+    "label": "cotinference"
+  },
+  {
+    "label": "expertprompting"
+  },
+  {
+    "label": "scoredoutputs"
+  },
+  {
+    "label": "acceptedanswers"
+  },
+  {
+    "label": "rejected"
+  },
+  {
+    "label": "rejectionsampling"
+  },
+  {
+    "label": "filterpostprocessing"
+  },
+  {
+    "label": "stage3"
+  },
+  {
+    "label": "stage3grpounifiedcotrewardreinforcementfinetuning"
+  },
+  {
+    "label": "grpo"
+  },
+  {
+    "label": "incorrectlypredictedtrainingdata"
+  },
+  {
+    "label": "reinforcementfinetuning"
+  },
+  {
+    "label": "accuracyreward"
+  },
+  {
+    "label": "comparisonimgvidaudansxvsgroundtruth"
+  },
+  {
+    "label": "grouprelativepolicyoptimization"
+  },
+  {
+    "label": "formatreward"
+  },
+  {
+    "label": "thinkthink"
+  },
+  {
+    "label": "answeranswer"
+  },
+  {
+    "label": "cotrewardcompletions"
+  },
+  {
+    "label": "policyupdate"
+  },
+  {
+    "label": "replaybuffer"
+  }
+]

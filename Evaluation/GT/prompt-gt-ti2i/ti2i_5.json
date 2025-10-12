@@ -1,0 +1,35 @@
+[
+  {
+    "label": "originalblock"
+  },
+  {
+    "label": "attentionffn"
+  },
+  {
+    "label": "layernorm"
+  },
+  {
+    "label": "normalize"
+  },
+  {
+    "label": "scaleshift"
+  },
+  {
+    "label": "blockwithdyt"
+  },
+  {
+    "label": "attentionffn"
+  },
+  {
+    "label": "dynamictimewarpingdyt"
+  },
+  {
+    "label": "tanhx"
+  },
+  {
+    "label": "scaleshift"
+  },
+  {
+    "label": "inputx"
+  }
+]

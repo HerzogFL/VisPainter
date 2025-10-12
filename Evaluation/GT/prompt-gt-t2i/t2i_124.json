@@ -1,0 +1,41 @@
+[
+  {
+    "label": "conventionaltransformer"
+  },
+  {
+    "label": "multihead"
+  },
+  {
+    "label": "masked"
+  },
+  {
+    "label": "attention"
+  },
+  {
+    "label": "addnorm"
+  },
+  {
+    "label": "multilayerperceptron"
+  },
+  {
+    "label": "quasiweightlesstransformer"
+  },
+  {
+    "label": "multihead"
+  },
+  {
+    "label": "masked"
+  },
+  {
+    "label": "attention"
+  },
+  {
+    "label": "addnorm"
+  },
+  {
+    "label": "weightlessblock"
+  },
+  {
+    "label": "addnorm"
+  }
+]

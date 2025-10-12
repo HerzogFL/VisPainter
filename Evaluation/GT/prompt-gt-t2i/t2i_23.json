@@ -1,0 +1,125 @@
+[
+  {
+    "label": "radaryolo"
+  },
+  {
+    "label": "raheatmap"
+  },
+  {
+    "label": "cspresnetbackbone"
+  },
+  {
+    "label": "cbl"
+  },
+  {
+    "label": "cbl"
+  },
+  {
+    "label": "spp"
+  },
+  {
+    "label": "cbl"
+  },
+  {
+    "label": "panet"
+  },
+  {
+    "label": "cbl"
+  },
+  {
+    "label": "yolohead"
+  },
+  {
+    "label": "boundingboxes"
+  },
+  {
+    "label": "panet"
+  },
+  {
+    "label": "cbl"
+  },
+  {
+    "label": "radcomplex"
+  },
+  {
+    "label": "fft"
+  },
+  {
+    "label": "raheatmap"
+  },
+  {
+    "label": "image"
+  },
+  {
+    "label": "radaryolo"
+  },
+  {
+    "label": "croppedrad"
+  },
+  {
+    "label": "yolo"
+  },
+  {
+    "label": "imageembeddingfeatures"
+  },
+  {
+    "label": "dense"
+  },
+  {
+    "label": "concat"
+  },
+  {
+    "label": "dense"
+  },
+  {
+    "label": "0different1same"
+  },
+  {
+    "label": "radarembeddingfeatures"
+  },
+  {
+    "label": "dense"
+  },
+  {
+    "label": "concat"
+  },
+  {
+    "label": "radarfeatureextractor"
+  },
+  {
+    "label": "croppedrad"
+  },
+  {
+    "label": "radreal"
+  },
+  {
+    "label": "radimaginary"
+  },
+  {
+    "label": "conv3d+maxpooling3d"
+  },
+  {
+    "label": "conv3d+maxpooling3d"
+  },
+  {
+    "label": "conv3d+maxpooling3d"
+  },
+  {
+    "label": "conv3d+maxpooling3d"
+  },
+  {
+    "label": "conv3d+maxpooling3d"
+  },
+  {
+    "label": "conv3d+maxpooling3d"
+  },
+  {
+    "label": "concat"
+  },
+  {
+    "label": "radarembeddingfeatures"
+  },
+  {
+    "label": "classificationhead"
+  }
+]

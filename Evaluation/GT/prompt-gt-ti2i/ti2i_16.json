@@ -1,0 +1,104 @@
+[
+  {
+    "label": "eventsinputsequence"
+  },
+  {
+    "label": "temporalcontextencoderblock"
+  },
+  {
+    "label": "selfattentionlayer"
+  },
+  {
+    "label": "multilayerperceptron"
+  },
+  {
+    "label": "hwd"
+  },
+  {
+    "label": "imageinputsequence"
+  },
+  {
+    "label": "spatialcontextencoderblock"
+  },
+  {
+    "label": "spatialtransformerlayer"
+  },
+  {
+    "label": "feedforwardlayer"
+  },
+  {
+    "label": "hwd"
+  },
+  {
+    "label": "concatattention"
+  },
+  {
+    "label": "hw2d"
+  },
+  {
+    "label": "conv11"
+  },
+  {
+    "label": "conv33"
+  },
+  {
+    "label": "relu"
+  },
+  {
+    "label": "conv11"
+  },
+  {
+    "label": "batchnorm"
+  },
+  {
+    "label": "residualadd"
+  },
+  {
+    "label": "sum"
+  },
+  {
+    "label": "hwd"
+  },
+  {
+    "label": "mlpmixer"
+  },
+  {
+    "label": "dropout"
+  },
+  {
+    "label": "sum"
+  },
+  {
+    "label": "conv11"
+  },
+  {
+    "label": "layernorm"
+  },
+  {
+    "label": "sum"
+  },
+  {
+    "label": "spatiotemporalcontextfeaturerepresentation"
+  },
+  {
+    "label": "hwd"
+  },
+  {
+    "label": "eventsinputsequence"
+  },
+  {
+    "label": "vtk+1tk"
+  },
+  {
+    "label": "imageinputsequence"
+  },
+  {
+    "label": "itk"
+  },
+  {
+    "label": "featureselector"
+  },
+  {
+    "label": "modetraineval"
+  }
+]

@@ -1,0 +1,134 @@
+[
+  {
+    "label": "denseretrievaltask"
+  },
+  {
+    "label": "query"
+  },
+  {
+    "label": "q"
+  },
+  {
+    "label": "context"
+  },
+  {
+    "label": "backgroundknowledge"
+  },
+  {
+    "label": "d"
+  },
+  {
+    "label": "d"
+  },
+  {
+    "label": "d"
+  },
+  {
+    "label": "documents"
+  },
+  {
+    "label": "dd"
+  },
+  {
+    "label": "retriever"
+  },
+  {
+    "label": "score"
+  },
+  {
+    "label": "score"
+  },
+  {
+    "label": "q"
+  },
+  {
+    "label": "q"
+  },
+  {
+    "label": "q"
+  },
+  {
+    "label": "d"
+  },
+  {
+    "label": "d"
+  },
+  {
+    "label": "d"
+  },
+  {
+    "label": "topk"
+  },
+  {
+    "label": "themodelmapsquerydocumentandcontexttoadensespacethencalculatessimilarityscorestoretrievetopkrelevantdocuments"
+  },
+  {
+    "label": "densespace"
+  },
+  {
+    "label": "similarityscores"
+  },
+  {
+    "label": "topk"
+  },
+  {
+    "label": "vanillaretriever"
+  },
+  {
+    "label": "prompt"
+  },
+  {
+    "label": "prompt"
+  },
+  {
+    "label": "representationmethod"
+  },
+  {
+    "label": "lasttokenembedding+attentionpooling"
+  },
+  {
+    "label": "noreasoningapplied"
+  },
+  {
+    "label": "retrievervanilla"
+  },
+  {
+    "label": "wothinking"
+  },
+  {
+    "label": "h"
+  },
+  {
+    "label": "h"
+  },
+  {
+    "label": "h"
+  },
+  {
+    "label": "h"
+  },
+  {
+    "label": "h"
+  },
+  {
+    "label": "h"
+  },
+  {
+    "label": "lasthiddenstate"
+  },
+  {
+    "label": "eos"
+  },
+  {
+    "label": "vanillaretrieverusestheendofsequencetokenandhiddenstatepoolingasdenserepresentationneglectingthefullthinkingcapabilityandreasoningpotentialofllms"
+  },
+  {
+    "label": "endofsequencetoken"
+  },
+  {
+    "label": "thinkingcapability"
+  },
+  {
+    "label": "reasoningpotential"
+  }
+]

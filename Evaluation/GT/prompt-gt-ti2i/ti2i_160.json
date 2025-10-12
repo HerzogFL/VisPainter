@@ -1,0 +1,44 @@
+[
+  {
+    "label": "evaluation"
+  },
+  {
+    "label": "focusedassessment"
+  },
+  {
+    "label": "generalbenchmark"
+  },
+  {
+    "label": "vision"
+  },
+  {
+    "label": "audio"
+  },
+  {
+    "label": "text"
+  },
+  {
+    "label": "language"
+  },
+  {
+    "label": "code"
+  },
+  {
+    "label": "math"
+  },
+  {
+    "label": "vision"
+  },
+  {
+    "label": "reasoning"
+  },
+  {
+    "label": "output"
+  },
+  {
+    "label": "evaluate"
+  },
+  {
+    "label": "evaluate"
+  }
+]

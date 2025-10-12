@@ -1,0 +1,98 @@
+[
+  {
+    "label": "initialcaptions"
+  },
+  {
+    "label": "srandom"
+  },
+  {
+    "label": "coveragecalculation"
+  },
+  {
+    "label": "aspectclassification"
+  },
+  {
+    "label": "isaspect"
+  },
+  {
+    "label": "covered"
+  },
+  {
+    "label": "yes"
+  },
+  {
+    "label": "updateglobalcoveragevector"
+  },
+  {
+    "label": "vfinal"
+  },
+  {
+    "label": "no"
+  },
+  {
+    "label": "audiovectorextractor"
+  },
+  {
+    "label": "aspectselectionmodule"
+  },
+  {
+    "label": "aselected"
+  },
+  {
+    "label": "frozengpt35turbomodel"
+  },
+  {
+    "label": "isfull"
+  },
+  {
+    "label": "coverage"
+  },
+  {
+    "label": "achieved"
+  },
+  {
+    "label": "yes"
+  },
+  {
+    "label": "no"
+  },
+  {
+    "label": "intermediatesforcalibrationset"
+  },
+  {
+    "label": "trainedaudio"
+  },
+  {
+    "label": "diffusionmodel"
+  },
+  {
+    "label": "finalcaptionset"
+  },
+  {
+    "label": "sfinal"
+  },
+  {
+    "label": "areallcaptionsunique"
+  },
+  {
+    "label": "redundancytest"
+  },
+  {
+    "label": "decision"
+  },
+  {
+    "label": "yes"
+  },
+  {
+    "label": "no"
+  },
+  {
+    "label": "removeduplicates"
+  },
+  {
+    "label": "redundancycheck"
+  },
+  {
+    "label": "rsfinal"
+  }
+]

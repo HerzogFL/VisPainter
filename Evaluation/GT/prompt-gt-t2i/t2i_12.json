@@ -1,0 +1,83 @@
+[
+  {
+    "label": "DiT Layer i w/ Diff. Ratio"
+  },
+  {
+    "label": "Diff. Ratio"
+  },
+  {
+    "label": "e.g., 12%"
+  },
+  {
+    "label": "Query"
+  },
+  {
+    "label": "Discrete Ratio Bins"
+  },
+  {
+    "label": "{0%, 10%, ..., 100%}"
+  },
+  {
+    "label": "Lower Bin (LB): 10%"
+  },
+  {
+    "label": "Upper Bin (UB): 20%"
+  },
+  {
+    "label": "Nearest Bin (NB): 10%"
+  },
+  {
+    "label": "Proximity Coefficients:"
+  },
+  {
+    "label": "10%"
+  },
+  {
+    "label": "12%"
+  },
+  {
+    "label": "80% Closer"
+  },
+  {
+    "label": "20% Closer"
+  },
+  {
+    "label": "20%"
+  },
+  {
+    "label": "During Training"
+  },
+  {
+    "label": "Input Tokens"
+  },
+  {
+    "label": "MoD with LB Ratio"
+  },
+  {
+    "label": "80%"
+  },
+  {
+    "label": "MoD with UB Ratio"
+  },
+  {
+    "label": "20%"
+  },
+  {
+    "label": "Out."
+  },
+  {
+    "label": "During Inference"
+  },
+  {
+    "label": "Input Tokens"
+  },
+  {
+    "label": "MoD with NB Ratio"
+  },
+  {
+    "label": "100%"
+  },
+  {
+    "label": "Out."
+  }
+]

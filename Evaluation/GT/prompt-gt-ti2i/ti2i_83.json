@@ -1,0 +1,173 @@
+[
+  {
+    "label": "pipelinesteps"
+  },
+  {
+    "label": "trainingprocess"
+  },
+  {
+    "label": "stage1"
+  },
+  {
+    "label": "visuallanguagepretraining"
+  },
+  {
+    "label": "3dreconstructiontraining"
+  },
+  {
+    "label": "vision"
+  },
+  {
+    "label": "text"
+  },
+  {
+    "label": "fusion"
+  },
+  {
+    "label": "mllm"
+  },
+  {
+    "label": "integration"
+  },
+  {
+    "label": "vit"
+  },
+  {
+    "label": "mlp"
+  },
+  {
+    "label": "spatialencoder"
+  },
+  {
+    "label": "lmtokenizer"
+  },
+  {
+    "label": "semanticmapper"
+  },
+  {
+    "label": "llm"
+  },
+  {
+    "label": "fusiongate"
+  },
+  {
+    "label": "interpretabletokens"
+  },
+  {
+    "label": "outputtext"
+  },
+  {
+    "label": "a"
+  },
+  {
+    "label": "b"
+  },
+  {
+    "label": "c"
+  },
+  {
+    "label": "d"
+  },
+  {
+    "label": "e"
+  },
+  {
+    "label": "f"
+  },
+  {
+    "label": "g"
+  },
+  {
+    "label": "h"
+  },
+  {
+    "label": "inputimage"
+  },
+  {
+    "label": "inputtext"
+  },
+  {
+    "label": "depthinput"
+  },
+  {
+    "label": "qwhatisbeingheldaitisacellphone"
+  },
+  {
+    "label": "stage2"
+  },
+  {
+    "label": "stagewisecotpreferencelearning"
+  },
+  {
+    "label": "reason"
+  },
+  {
+    "label": "assess"
+  },
+  {
+    "label": "decide"
+  },
+  {
+    "label": "21superviseddescription"
+  },
+  {
+    "label": "istheobjectround"
+  },
+  {
+    "label": "yes"
+  },
+  {
+    "label": "istheobjectthin"
+  },
+  {
+    "label": "no"
+  },
+  {
+    "label": "istheobjectlong"
+  },
+  {
+    "label": "yes"
+  },
+  {
+    "label": "istheobjectmetallic"
+  },
+  {
+    "label": "no"
+  },
+  {
+    "label": "22selfreflection"
+  },
+  {
+    "label": "isitcleartoidentifytheobject"
+  },
+  {
+    "label": "no"
+  },
+  {
+    "label": "uncertain"
+  },
+  {
+    "label": "23finaldecision"
+  },
+  {
+    "label": "mllm"
+  },
+  {
+    "label": "mpo"
+  },
+  {
+    "label": "choseno"
+  },
+  {
+    "label": "rejectedyes"
+  },
+  {
+    "label": "userreview"
+  },
+  {
+    "label": "overrideno"
+  },
+  {
+    "label": "confidence87"
+  }
+]

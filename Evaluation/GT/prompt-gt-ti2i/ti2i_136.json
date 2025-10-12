@@ -1,0 +1,86 @@
+[
+  {
+    "label": "simulationparallelismsec4"
+  },
+  {
+    "label": "distributedsimulationcpus"
+  },
+  {
+    "label": "batchsimulationgpustpus"
+  },
+  {
+    "label": "federatedsimulationedgedevices"
+  },
+  {
+    "label": "distributedtraining"
+  },
+  {
+    "label": "distributedsynchronizationsec6"
+  },
+  {
+    "label": "backpropagationbased"
+  },
+  {
+    "label": "asyncoffpolicy"
+  },
+  {
+    "label": "synconpolicy"
+  },
+  {
+    "label": "hybridonoffpolicy"
+  },
+  {
+    "label": "evolutionaryrllearningsec7"
+  },
+  {
+    "label": "evolutionbased"
+  },
+  {
+    "label": "esbased"
+  },
+  {
+    "label": "gabased"
+  },
+  {
+    "label": "cmaes"
+  },
+  {
+    "label": "hybrid"
+  },
+  {
+    "label": "metalearningsec8"
+  },
+  {
+    "label": "optimizerbased"
+  },
+  {
+    "label": "gradientbased"
+  },
+  {
+    "label": "blackbox"
+  },
+  {
+    "label": "inference"
+  },
+  {
+    "label": "computingparallelismsec5"
+  },
+  {
+    "label": "clustercomputing"
+  },
+  {
+    "label": "multiprocessingmultithreading"
+  },
+  {
+    "label": "gpus"
+  },
+  {
+    "label": "tpus"
+  },
+  {
+    "label": "fpgas"
+  },
+  {
+    "label": "asics"
+  }
+]

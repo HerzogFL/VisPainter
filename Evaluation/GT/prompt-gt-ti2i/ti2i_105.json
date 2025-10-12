@@ -1,0 +1,152 @@
+[
+  {
+    "label": "rewarddesign"
+  },
+  {
+    "label": "qualityreward"
+  },
+  {
+    "label": "step1"
+  },
+  {
+    "label": "step2"
+  },
+  {
+    "label": "step3"
+  },
+  {
+    "label": "step4"
+  },
+  {
+    "label": "step5"
+  },
+  {
+    "label": "judge"
+  },
+  {
+    "label": "expertllm"
+  },
+  {
+    "label": "coherencereward"
+  },
+  {
+    "label": "step1"
+  },
+  {
+    "label": "step2"
+  },
+  {
+    "label": "step3"
+  },
+  {
+    "label": "step4"
+  },
+  {
+    "label": "step5"
+  },
+  {
+    "label": "step6"
+  },
+  {
+    "label": "alignmentreward"
+  },
+  {
+    "label": "modelstep1"
+  },
+  {
+    "label": "modelstep2"
+  },
+  {
+    "label": "modelstep3"
+  },
+  {
+    "label": "baseline1"
+  },
+  {
+    "label": "baseline2"
+  },
+  {
+    "label": "baseline3"
+  },
+  {
+    "label": "oracle1"
+  },
+  {
+    "label": "oracle2"
+  },
+  {
+    "label": "oracle3"
+  },
+  {
+    "label": "question"
+  },
+  {
+    "label": "thinkingtrajectories"
+  },
+  {
+    "label": "finalmodelresponse"
+  },
+  {
+    "label": "referencesolution"
+  },
+  {
+    "label": "verify"
+  },
+  {
+    "label": "expertllm"
+  },
+  {
+    "label": "guidedtemplate"
+  },
+  {
+    "label": "guidedtemplate"
+  },
+  {
+    "label": "instruct"
+  },
+  {
+    "label": "policymodel"
+  },
+  {
+    "label": "1"
+  },
+  {
+    "label": "2"
+  },
+  {
+    "label": "3"
+  },
+  {
+    "label": "4"
+  },
+  {
+    "label": "5"
+  },
+  {
+    "label": "generate"
+  },
+  {
+    "label": "evaluate"
+  },
+  {
+    "label": "reward"
+  },
+  {
+    "label": "compare"
+  },
+  {
+    "label": "compare"
+  },
+  {
+    "label": "metarewardaggregation"
+  },
+  {
+    "label": "steplevelreward"
+  },
+  {
+    "label": "+"
+  },
+  {
+    "label": "trajectorylevelreward"
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "label": "question"
+  },
+  {
+    "label": "manageragent"
+  },
+  {
+    "label": "webagent"
+  },
+  {
+    "label": "output"
+  },
+  {
+    "label": "mcpcreation"
+  },
+  {
+    "label": "mcpbrainstorming"
+  },
+  {
+    "label": "opensourcesearching"
+  },
+  {
+    "label": "scriptgenerating"
+  },
+  {
+    "label": "virtualenvexecution"
+  },
+  {
+    "label": "encapsulate"
+  },
+  {
+    "label": "mcpbox"
+  },
+  {
+    "label": "selfevolving"
+  },
+  {
+    "label": "codereactloop"
+  }
+]

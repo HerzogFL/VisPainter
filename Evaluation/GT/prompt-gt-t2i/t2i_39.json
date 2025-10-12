@@ -1,0 +1,98 @@
+[
+  {
+    "label": "mainframeworkofexplorationalgorithm"
+  },
+  {
+    "label": "message"
+  },
+  {
+    "label": "pointcloud"
+  },
+  {
+    "label": "gridmap"
+  },
+  {
+    "label": "odometry"
+  },
+  {
+    "label": "phase1"
+  },
+  {
+    "label": "hybridfrontiersampling"
+  },
+  {
+    "label": "samplingbasedonlidarsensor"
+  },
+  {
+    "label": "+"
+  },
+  {
+    "label": "samplingbasedonimageprocessing"
+  },
+  {
+    "label": "hybridfrontiers"
+  },
+  {
+    "label": "filter"
+  },
+  {
+    "label": "phase2"
+  },
+  {
+    "label": "subregionsegmentationandselection"
+  },
+  {
+    "label": "devidesubregion"
+  },
+  {
+    "label": "filteringsubregion"
+  },
+  {
+    "label": "arrangesubregion"
+  },
+  {
+    "label": "revenueoptimization"
+  },
+  {
+    "label": "globaldistance"
+  },
+  {
+    "label": "pathsimilarity"
+  },
+  {
+    "label": "optimalsequence"
+  },
+  {
+    "label": "heuristic"
+  },
+  {
+    "label": "phase3"
+  },
+  {
+    "label": "frontierselection"
+  },
+  {
+    "label": "travelinggain"
+  },
+  {
+    "label": "orientationgain"
+  },
+  {
+    "label": "informationgain"
+  },
+  {
+    "label": "heuristic"
+  },
+  {
+    "label": "totalgain"
+  },
+  {
+    "label": "nexttargetpoint"
+  },
+  {
+    "label": "motionplanning"
+  },
+  {
+    "label": "hierarchicalplanning"
+  }
+]

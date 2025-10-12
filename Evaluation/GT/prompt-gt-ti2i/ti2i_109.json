@@ -1,0 +1,95 @@
+[
+  {
+    "label": "phase1datageneration"
+  },
+  {
+    "label": "step1routepolicygeneration"
+  },
+  {
+    "label": "topicsourcing"
+  },
+  {
+    "label": "datapreprocessing"
+  },
+  {
+    "label": "descriptionsgenerator"
+  },
+  {
+    "label": "llm"
+  },
+  {
+    "label": "refine"
+  },
+  {
+    "label": "disambiguation"
+  },
+  {
+    "label": "granularitycorrection"
+  },
+  {
+    "label": "verifier"
+  },
+  {
+    "label": "llm"
+  },
+  {
+    "label": "routepolicy"
+  },
+  {
+    "label": "step2conversationgeneration"
+  },
+  {
+    "label": "routepolicy"
+  },
+  {
+    "label": "intentgenerator"
+  },
+  {
+    "label": "llm"
+  },
+  {
+    "label": "contextualizer"
+  },
+  {
+    "label": "convgenerator"
+  },
+  {
+    "label": "llm"
+  },
+  {
+    "label": "verifier"
+  },
+  {
+    "label": "llm"
+  },
+  {
+    "label": "pass"
+  },
+  {
+    "label": "fail"
+  },
+  {
+    "label": "intentcorrection"
+  },
+  {
+    "label": "exampleintentmathunderstanding"
+  },
+  {
+    "label": "helpmeunderstandthisequation"
+  },
+  {
+    "label": "thevariablexis"
+  },
+  {
+    "label": "whyisyinthedenominator"
+  },
+  {
+    "label": "bytheoremaitrequires"
+  },
+  {
+    "label": "canyoushowanexample"
+  },
+  {
+    "label": "sureforinstanceifx3"
+  }
+]

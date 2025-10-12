@@ -1,0 +1,173 @@
+[
+  {
+    "label": "transformerneuralautoregressiveflowtnaf"
+  },
+  {
+    "label": "positionalencoding"
+  },
+  {
+    "label": "linearprojection"
+  },
+  {
+    "label": "1"
+  },
+  {
+    "label": "x"
+  },
+  {
+    "label": "+"
+  },
+  {
+    "label": "2"
+  },
+  {
+    "label": "x"
+  },
+  {
+    "label": "3"
+  },
+  {
+    "label": "x"
+  },
+  {
+    "label": "+"
+  },
+  {
+    "label": "4"
+  },
+  {
+    "label": "x"
+  },
+  {
+    "label": "5"
+  },
+  {
+    "label": "x"
+  },
+  {
+    "label": "+"
+  },
+  {
+    "label": "stackedtransformerencodersl3"
+  },
+  {
+    "label": "encoderlayer1"
+  },
+  {
+    "label": "encoderlayer2"
+  },
+  {
+    "label": "encoderlayer3"
+  },
+  {
+    "label": "h"
+  },
+  {
+    "label": "h"
+  },
+  {
+    "label": "h"
+  },
+  {
+    "label": "h"
+  },
+  {
+    "label": "h"
+  },
+  {
+    "label": "dualprojectionheads"
+  },
+  {
+    "label": "meanhead"
+  },
+  {
+    "label": "scalehead"
+  },
+  {
+    "label": "h"
+  },
+  {
+    "label": "h"
+  },
+  {
+    "label": "h"
+  },
+  {
+    "label": "h"
+  },
+  {
+    "label": "h"
+  },
+  {
+    "label": "y"
+  },
+  {
+    "label": "y"
+  },
+  {
+    "label": "y"
+  },
+  {
+    "label": "y"
+  },
+  {
+    "label": "y"
+  },
+  {
+    "label": "inputdimensiond"
+  },
+  {
+    "label": "sequencelengthtn"
+  },
+  {
+    "label": "transformerencoderblocklx"
+  },
+  {
+    "label": "feedforwardmlp"
+  },
+  {
+    "label": "normalization"
+  },
+  {
+    "label": "multiheadattentionmha"
+  },
+  {
+    "label": "+"
+  },
+  {
+    "label": "+"
+  },
+  {
+    "label": "h"
+  },
+  {
+    "label": "h"
+  },
+  {
+    "label": "h"
+  },
+  {
+    "label": "h"
+  },
+  {
+    "label": "h"
+  },
+  {
+    "label": "h"
+  },
+  {
+    "label": "h"
+  },
+  {
+    "label": "h"
+  },
+  {
+    "label": "h"
+  },
+  {
+    "label": "h"
+  },
+  {
+    "label": "lxnumberoflayers"
+  }
+]

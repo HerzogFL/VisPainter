@@ -1,0 +1,83 @@
+[
+  {
+    "label": "FastViTHD"
+  },
+  {
+    "label": "Stem"
+  },
+  {
+    "label": "Stage 1"
+  },
+  {
+    "label": "Patch Embed. Stride 2"
+  },
+  {
+    "label": "Stage 2"
+  },
+  {
+    "label": "Patch Embed. Stride 2"
+  },
+  {
+    "label": "Stage 3"
+  },
+  {
+    "label": "Patch Embed. Stride 2"
+  },
+  {
+    "label": "Stage 4"
+  },
+  {
+    "label": "Patch Embed. Stride 2"
+  },
+  {
+    "label": "Stage 5"
+  },
+  {
+    "label": "C"
+  },
+  {
+    "label": "Connector"
+  },
+  {
+    "label": "Large Language Model"
+  },
+  {
+    "label": "Answer"
+  },
+  {
+    "label": "(Learned) Pool"
+  },
+  {
+    "label": "(Learned) Pool"
+  },
+  {
+    "label": "(Learned) Pool"
+  },
+  {
+    "label": "Projection"
+  },
+  {
+    "label": "Instruction/Question"
+  },
+  {
+    "label": "Tokenizer"
+  },
+  {
+    "label": "Vision Encoding"
+  },
+  {
+    "label": "Convolutional Stem"
+  },
+  {
+    "label": "RepMixer Stage"
+  },
+  {
+    "label": "Self Attention Stage"
+  },
+  {
+    "label": "C"
+  },
+  {
+    "label": "Pool and Channel-wise Concatenation"
+  }
+]

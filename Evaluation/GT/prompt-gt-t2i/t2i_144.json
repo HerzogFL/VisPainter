@@ -1,0 +1,107 @@
+[
+  {
+    "label": "itrainingrecipeofscreasoner"
+  },
+  {
+    "label": "a"
+  },
+  {
+    "label": "annotate"
+  },
+  {
+    "label": "iterativereasoningrationales"
+  },
+  {
+    "label": "sft"
+  },
+  {
+    "label": "subquesplanningdecomposition"
+  },
+  {
+    "label": "iterativereasoning"
+  },
+  {
+    "label": "activateretrieval"
+  },
+  {
+    "label": "iterativereasoner"
+  },
+  {
+    "label": "inference"
+  },
+  {
+    "label": "syntheticrationales"
+  },
+  {
+    "label": "feedback"
+  },
+  {
+    "label": "criticdata"
+  },
+  {
+    "label": "sft"
+  },
+  {
+    "label": "b"
+  },
+  {
+    "label": "retrievalquality"
+  },
+  {
+    "label": "qwherewasthefilmthefamilystoneset"
+  },
+  {
+    "label": "dthefamilystonethestonefamilyisa"
+  },
+  {
+    "label": "relevant"
+  },
+  {
+    "label": "partial"
+  },
+  {
+    "label": "irrelevant"
+  },
+  {
+    "label": "reasoningquality"
+  },
+  {
+    "label": "qwherewasthefilmthefamilystoneset"
+  },
+  {
+    "label": "dthefamilystonethestonefamilyisa"
+  },
+  {
+    "label": "useful"
+  },
+  {
+    "label": "partial"
+  },
+  {
+    "label": "useless"
+  },
+  {
+    "label": "overallquality"
+  },
+  {
+    "label": "evaluatethewholereasoningtrajectory"
+  },
+  {
+    "label": "1"
+  },
+  {
+    "label": "2"
+  },
+  {
+    "label": "3"
+  },
+  {
+    "label": "4"
+  },
+  {
+    "label": "5"
+  },
+  {
+    "label": "criticmodel"
+  }
+]

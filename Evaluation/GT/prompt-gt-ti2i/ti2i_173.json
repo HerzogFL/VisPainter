@@ -1,0 +1,191 @@
+[
+  {
+    "label": "astandardragwdocumentscores"
+  },
+  {
+    "label": "q"
+  },
+  {
+    "label": "query"
+  },
+  {
+    "label": "1"
+  },
+  {
+    "label": "incorporatealldocs"
+  },
+  {
+    "label": "2"
+  },
+  {
+    "label": "incorporatealldocs"
+  },
+  {
+    "label": "3"
+  },
+  {
+    "label": "incorporatealldocs"
+  },
+  {
+    "label": "4"
+  },
+  {
+    "label": "scoreeachdoc"
+  },
+  {
+    "label": "5"
+  },
+  {
+    "label": "scoreeachdoc"
+  },
+  {
+    "label": "docscorelist"
+  },
+  {
+    "label": "generalistlm"
+  },
+  {
+    "label": "a"
+  },
+  {
+    "label": "finalanswer"
+  },
+  {
+    "label": "scoreweighted"
+  },
+  {
+    "label": "bmultistepselfreflectiverag"
+  },
+  {
+    "label": "q"
+  },
+  {
+    "label": "generalistlm"
+  },
+  {
+    "label": "needretrieval"
+  },
+  {
+    "label": "1"
+  },
+  {
+    "label": "relevant"
+  },
+  {
+    "label": "a"
+  },
+  {
+    "label": "supported"
+  },
+  {
+    "label": "specialtagslearnedduringinstructiontuning"
+  },
+  {
+    "label": "2"
+  },
+  {
+    "label": "irrelevant"
+  },
+  {
+    "label": "usedtoexcludenonrelevantdocs"
+  },
+  {
+    "label": "3"
+  },
+  {
+    "label": "needsfurtherinfo"
+  },
+  {
+    "label": "suggestsretrievalfromexternalsources"
+  },
+  {
+    "label": "4"
+  },
+  {
+    "label": "ambiguous"
+  },
+  {
+    "label": "5"
+  },
+  {
+    "label": "generatereflectivetagsacrossmultipleretrievalanswersteps"
+  },
+  {
+    "label": "ccorrectiveragwenhancedsources"
+  },
+  {
+    "label": "nlimodel"
+  },
+  {
+    "label": "1"
+  },
+  {
+    "label": "2"
+  },
+  {
+    "label": "3"
+  },
+  {
+    "label": "4"
+  },
+  {
+    "label": "5"
+  },
+  {
+    "label": "correct"
+  },
+  {
+    "label": "ambiguous"
+  },
+  {
+    "label": "incorrect"
+  },
+  {
+    "label": "external"
+  },
+  {
+    "label": "unverifiable"
+  },
+  {
+    "label": "usenliandsourceclassifierforretrievaldocs"
+  },
+  {
+    "label": "q"
+  },
+  {
+    "label": "query"
+  },
+  {
+    "label": "1"
+  },
+  {
+    "label": "relevantdocs"
+  },
+  {
+    "label": "2"
+  },
+  {
+    "label": "externalsources"
+  },
+  {
+    "label": "3"
+  },
+  {
+    "label": "websearch"
+  },
+  {
+    "label": "4"
+  },
+  {
+    "label": "unverifiableitems"
+  },
+  {
+    "label": "generalistlm"
+  },
+  {
+    "label": "a"
+  },
+  {
+    "label": "incorporateclassifieddocsexternalsourcesandwebsearchresultsintoprompt"
+  }
+]

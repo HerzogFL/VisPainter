@@ -1,0 +1,59 @@
+[
+  {
+    "label": "question"
+  },
+  {
+    "label": "querysource"
+  },
+  {
+    "label": "llmgenerator"
+  },
+  {
+    "label": "generation"
+  },
+  {
+    "label": "datastorage"
+  },
+  {
+    "label": "llmverifier"
+  },
+  {
+    "label": "verification"
+  },
+  {
+    "label": "knowledgeupdate"
+  },
+  {
+    "label": "multistepsolution"
+  },
+  {
+    "label": "stepbystepprocess"
+  },
+  {
+    "label": "goldanswer"
+  },
+  {
+    "label": "goldstandardsolution"
+  },
+  {
+    "label": "verification"
+  },
+  {
+    "label": "solutionevaluation"
+  },
+  {
+    "label": "feedbackloop"
+  },
+  {
+    "label": "reinforcementlearningupdate"
+  },
+  {
+    "label": "datafeedback"
+  },
+  {
+    "label": "coreprocessingcycle"
+  },
+  {
+    "label": "humanfeedback"
+  }
+]

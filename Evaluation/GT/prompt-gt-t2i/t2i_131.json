@@ -1,0 +1,59 @@
+[
+  {
+    "label": "inputseries"
+  },
+  {
+    "label": "normalization"
+  },
+  {
+    "label": "patching"
+  },
+  {
+    "label": "vectorquantization"
+  },
+  {
+    "label": "projection"
+  },
+  {
+    "label": "decoder"
+  },
+  {
+    "label": "denormalization"
+  },
+  {
+    "label": "prediction"
+  },
+  {
+    "label": "inputseries"
+  },
+  {
+    "label": "normalization"
+  },
+  {
+    "label": "encoder"
+  },
+  {
+    "label": "sparsevectorquantization"
+  },
+  {
+    "label": "transformer"
+  },
+  {
+    "label": "denormalization"
+  },
+  {
+    "label": "prediction"
+  },
+  {
+    "label": "patching"
+  },
+  {
+    "label": "projection"
+  },
+  {
+    "label": "multiheadattention"
+  },
+  {
+    "label": "addnorm"
+  }
+]

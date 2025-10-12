@@ -1,0 +1,59 @@
+[
+  {
+    "label": "b"
+  },
+  {
+    "label": "inferencestage"
+  },
+  {
+    "label": "parallelprompt"
+  },
+  {
+    "label": "auxiliaryprompt"
+  },
+  {
+    "label": "tunedprompt"
+  },
+  {
+    "label": "weight"
+  },
+  {
+    "label": "0b1"
+  },
+  {
+    "label": "n0"
+  },
+  {
+    "label": "a05"
+  },
+  {
+    "label": "base"
+  },
+  {
+    "label": "auxiliary"
+  },
+  {
+    "label": "new"
+  },
+  {
+    "label": "mixedprompt"
+  },
+  {
+    "label": "auxprompt"
+  },
+  {
+    "label": "originprompt"
+  },
+  {
+    "label": "promptlearnerbackbone"
+  },
+  {
+    "label": "classificationhead"
+  },
+  {
+    "label": "contrasthead"
+  },
+  {
+    "label": "decoupled"
+  }
+]

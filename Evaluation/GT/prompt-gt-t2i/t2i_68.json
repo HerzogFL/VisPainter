@@ -1,0 +1,65 @@
+[
+  {
+    "label": "transformerlayers"
+  },
+  {
+    "label": "ft"
+  },
+  {
+    "label": "lmheadsampling"
+  },
+  {
+    "label": "xt1"
+  },
+  {
+    "label": "xt"
+  },
+  {
+    "label": "lmheadsampling"
+  },
+  {
+    "label": "barfmathrmpt+1"
+  },
+  {
+    "label": "barfmathrmrt+1"
+  },
+  {
+    "label": "barfmathrmpt+2"
+  },
+  {
+    "label": "barfmathrmrt+2"
+  },
+  {
+    "label": "teh"
+  },
+  {
+    "label": "teh"
+  },
+  {
+    "label": "oneautoregressivelayer"
+  },
+  {
+    "label": "tgf"
+  },
+  {
+    "label": "tgf"
+  },
+  {
+    "label": "barxt+1"
+  },
+  {
+    "label": "forward1"
+  },
+  {
+    "label": "forward2"
+  },
+  {
+    "label": "forward3"
+  },
+  {
+    "label": "targetmodel"
+  },
+  {
+    "label": "tokenalignabledraftmodel"
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "label": "InternViT"
+  },
+  {
+    "label": "MLP Projector"
+  },
+  {
+    "label": "Chat Message"
+  },
+  {
+    "label": "Larger LLM"
+  },
+  {
+    "label": "NTP loss"
+  }
+]

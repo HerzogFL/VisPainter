@@ -1,0 +1,77 @@
+[
+  {
+    "label": "sentencelevelselfreflection"
+  },
+  {
+    "label": "ratingpromptrp"
+  },
+  {
+    "label": "ratingpromptrp"
+  },
+  {
+    "label": "ratingpromptrp"
+  },
+  {
+    "label": "ratingpromptrp"
+  },
+  {
+    "label": "ratingpromptrp"
+  },
+  {
+    "label": "assignascorefrom1to5toeachassistantbasedonhowaccuratelytheyfollowtheinputandoutputprovidedensuringthescoreisrepresentedclearly"
+  },
+  {
+    "label": "stoken1113"
+  },
+  {
+    "label": "stoken2238"
+  },
+  {
+    "label": "stoken3122"
+  },
+  {
+    "label": "stoken4217"
+  },
+  {
+    "label": "stoken5156"
+  },
+  {
+    "label": "avg195"
+  },
+  {
+    "label": "std023"
+  },
+  {
+    "label": "eq4"
+  },
+  {
+    "label": "ssent159"
+  },
+  {
+    "label": "modellevelselfreflection"
+  },
+  {
+    "label": "7b"
+  },
+  {
+    "label": "13b"
+  },
+  {
+    "label": "70b"
+  },
+  {
+    "label": "ssent1159"
+  },
+  {
+    "label": "ssent2213"
+  },
+  {
+    "label": "ssent3189"
+  },
+  {
+    "label": "eq5"
+  },
+  {
+    "label": "smodel190"
+  }
+]

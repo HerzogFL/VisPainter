@@ -1,0 +1,44 @@
+[
+  {
+    "label": "denseretrievaltask"
+  },
+  {
+    "label": "query"
+  },
+  {
+    "label": "q"
+  },
+  {
+    "label": "documents"
+  },
+  {
+    "label": "dd"
+  },
+  {
+    "label": "retriever"
+  },
+  {
+    "label": "themodelmapsthequeryanddocumentintoadensespacethencalculatesthesimilaritybetweenthemtoretrieverelevantdocuments"
+  },
+  {
+    "label": "vanillaretriever"
+  },
+  {
+    "label": "representationmethod"
+  },
+  {
+    "label": "lasttokenembedding"
+  },
+  {
+    "label": "retrievervanilla"
+  },
+  {
+    "label": "wothinking"
+  },
+  {
+    "label": "lasthiddenstate"
+  },
+  {
+    "label": "vanillaretrieverusetheembeddingoftheendofsequencetokenasdenserepresentationoverlookingthethinkingcapabilityofllms"
+  }
+]

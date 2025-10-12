@@ -1,0 +1,65 @@
+[
+  {
+    "label": "unifiedrewardmodeltraining"
+  },
+  {
+    "label": "pointdata"
+  },
+  {
+    "label": "pairdata"
+  },
+  {
+    "label": "unifiedpreferencedata"
+  },
+  {
+    "label": "unifiedreward"
+  },
+  {
+    "label": "rewardscore"
+  },
+  {
+    "label": "preferencerank"
+  },
+  {
+    "label": "unifiedpreferencelearning"
+  },
+  {
+    "label": "preferencedataconstruction"
+  },
+  {
+    "label": "vlmdiffusion"
+  },
+  {
+    "label": "datageneration"
+  },
+  {
+    "label": "unifiedreward"
+  },
+  {
+    "label": "1pairrank"
+  },
+  {
+    "label": "2pointsift"
+  },
+  {
+    "label": "preferencedata"
+  },
+  {
+    "label": "chosenimgvidresp"
+  },
+  {
+    "label": "rejectedimgvidresp"
+  },
+  {
+    "label": "generationunderstandingmodelalignment"
+  },
+  {
+    "label": "preferencedata"
+  },
+  {
+    "label": "vlmdiffusion"
+  },
+  {
+    "label": "directpreferenceoptimization"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "label": "b"
+  },
+  {
+    "label": "inferencestage"
+  },
+  {
+    "label": "parallelprompt"
+  },
+  {
+    "label": "tunedprompt"
+  },
+  {
+    "label": "weight"
+  },
+  {
+    "label": "0b1"
+  },
+  {
+    "label": "n0"
+  },
+  {
+    "label": "mixedprompt"
+  },
+  {
+    "label": "originprompt"
+  },
+  {
+    "label": "promptlearnerbackbone"
+  },
+  {
+    "label": "classificationhead"
+  },
+  {
+    "label": "base"
+  },
+  {
+    "label": "new"
+  },
+  {
+    "label": "decoupled"
+  }
+]

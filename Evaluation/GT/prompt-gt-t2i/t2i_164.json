@@ -1,0 +1,62 @@
+[
+  {
+    "label": "inputimage"
+  },
+  {
+    "label": "isthisarealimageapartiallyaieditedimageorafullyaigeneratedimagejustanswerwithab"
+  },
+  {
+    "label": "areal"
+  },
+  {
+    "label": "bai"
+  },
+  {
+    "label": "papb"
+  },
+  {
+    "label": "papb"
+  },
+  {
+    "label": "modelpool"
+  },
+  {
+    "label": "internvlv25"
+  },
+  {
+    "label": "internvlv3"
+  },
+  {
+    "label": "qwenvl25"
+  },
+  {
+    "label": "outputjudge"
+  },
+  {
+    "label": "lmm"
+  },
+  {
+    "label": "lora"
+  },
+  {
+    "label": "logitsa"
+  },
+  {
+    "label": "logitsb"
+  },
+  {
+    "label": "softmax"
+  },
+  {
+    "label": "pai"
+  },
+  {
+    "label": "pbi"
+  },
+  {
+    "label": "n"
+  },
+  {
+    "label": "pasumpaipbsumpbii01n"
+  }
+]

@@ -1,0 +1,134 @@
+[
+  {
+    "label": "hw3"
+  },
+  {
+    "label": "c"
+  },
+  {
+    "label": "concat"
+  },
+  {
+    "label": "c"
+  },
+  {
+    "label": "concat"
+  },
+  {
+    "label": "+"
+  },
+  {
+    "label": "add"
+  },
+  {
+    "label": "+"
+  },
+  {
+    "label": "add"
+  },
+  {
+    "label": "mul"
+  },
+  {
+    "label": "mul"
+  },
+  {
+    "label": "silu"
+  },
+  {
+    "label": "silu"
+  },
+  {
+    "label": "frozen"
+  },
+  {
+    "label": "frozen"
+  },
+  {
+    "label": "train"
+  },
+  {
+    "label": "train"
+  },
+  {
+    "label": "skip"
+  },
+  {
+    "label": "skip"
+  },
+  {
+    "label": "pretrainedencoder"
+  },
+  {
+    "label": "h4w4c"
+  },
+  {
+    "label": "encoder1"
+  },
+  {
+    "label": "h8w82c"
+  },
+  {
+    "label": "encoder2"
+  },
+  {
+    "label": "h16w164c"
+  },
+  {
+    "label": "encoder3"
+  },
+  {
+    "label": "h32w328c"
+  },
+  {
+    "label": "encoder4"
+  },
+  {
+    "label": "h64w6416c"
+  },
+  {
+    "label": "hfpnbottleneck"
+  },
+  {
+    "label": "add"
+  },
+  {
+    "label": "loss"
+  },
+  {
+    "label": "lssmodulem31"
+  },
+  {
+    "label": "h4w4c"
+  },
+  {
+    "label": "lssmodulem32"
+  },
+  {
+    "label": "h8w82c"
+  },
+  {
+    "label": "lssmodulem22"
+  },
+  {
+    "label": "h16w164c"
+  },
+  {
+    "label": "lssmodulem31"
+  },
+  {
+    "label": "h32w328c"
+  },
+  {
+    "label": "aggrmodulescombine"
+  },
+  {
+    "label": "h64w6416c"
+  },
+  {
+    "label": "mambadecoder"
+  },
+  {
+    "label": "amambaad++"
+  }
+]

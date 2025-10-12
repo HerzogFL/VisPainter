@@ -1,0 +1,80 @@
+[
+  {
+    "label": "endpoint"
+  },
+  {
+    "label": "request"
+  },
+  {
+    "label": "response"
+  },
+  {
+    "label": "retrievalbasedspeculativescheduler"
+  },
+  {
+    "label": "priorityqueues"
+  },
+  {
+    "label": "q"
+  },
+  {
+    "label": "q"
+  },
+  {
+    "label": "q"
+  },
+  {
+    "label": "q"
+  },
+  {
+    "label": "kvcachemanager"
+  },
+  {
+    "label": "cachemonitor"
+  },
+  {
+    "label": "flushsignal"
+  },
+  {
+    "label": "gpu"
+  },
+  {
+    "label": "modelexecutor"
+  },
+  {
+    "label": "tensoroptimizer"
+  },
+  {
+    "label": "gpuhbm"
+  },
+  {
+    "label": "streams"
+  },
+  {
+    "label": "inferenceresults"
+  },
+  {
+    "label": "cpumemory"
+  },
+  {
+    "label": "upload"
+  },
+  {
+    "label": "offload"
+  },
+  {
+    "label": "storagenode"
+  },
+  {
+    "label": "dump"
+  },
+  {
+    "label": "prefetch"
+  },
+  {
+    "label": "submission"
+  },
+  {
+    "label": "outputs"
+  }
+]

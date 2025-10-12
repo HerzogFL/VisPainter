@@ -1,0 +1,107 @@
+[
+  {
+    "label": "instruction"
+  },
+  {
+    "label": "embedding"
+  },
+  {
+    "label": "llamatransformernl"
+  },
+  {
+    "label": "rmsnorm"
+  },
+  {
+    "label": "llamaattention"
+  },
+  {
+    "label": "llamamlp"
+  },
+  {
+    "label": "rmsnorm"
+  },
+  {
+    "label": "llamaattention"
+  },
+  {
+    "label": "llamamlp"
+  },
+  {
+    "label": "rmsnorm"
+  },
+  {
+    "label": "llamaattention"
+  },
+  {
+    "label": "llamamlp"
+  },
+  {
+    "label": "rmsnorm"
+  },
+  {
+    "label": "llamatransformerl"
+  },
+  {
+    "label": "rmsnorm"
+  },
+  {
+    "label": "llamaattention"
+  },
+  {
+    "label": "llamamlp"
+  },
+  {
+    "label": "rmsnorm"
+  },
+  {
+    "label": "llamaattention"
+  },
+  {
+    "label": "llamamlp"
+  },
+  {
+    "label": "adapter1"
+  },
+  {
+    "label": "selfattention"
+  },
+  {
+    "label": "gatingfactor"
+  },
+  {
+    "label": "adapter2"
+  },
+  {
+    "label": "selfattention"
+  },
+  {
+    "label": "gatingfactor"
+  },
+  {
+    "label": "adapter3"
+  },
+  {
+    "label": "selfattention"
+  },
+  {
+    "label": "gatingfactor"
+  },
+  {
+    "label": "mlp"
+  },
+  {
+    "label": "linear5121"
+  },
+  {
+    "label": "linear1024512"
+  },
+  {
+    "label": "lineardim1024"
+  },
+  {
+    "label": "activationgelu"
+  },
+  {
+    "label": "output"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "label": "user"
+  },
+  {
+    "label": "preprocessor"
+  },
+  {
+    "label": "generator"
+  },
+  {
+    "label": "retriever"
+  },
+  {
+    "label": "authorizedragserviceprovider"
+  },
+  {
+    "label": "usablebutnotvisible"
+  },
+  {
+    "label": "generates"
+  },
+  {
+    "label": "retrieves"
+  },
+  {
+    "label": "knowledgebase"
+  },
+  {
+    "label": "dataintegritycheck"
+  },
+  {
+    "label": "commercialusageaudit"
+  },
+  {
+    "label": "contribute"
+  },
+  {
+    "label": "dataprovider"
+  },
+  {
+    "label": "unauthorizedragserviceprovider"
+  },
+  {
+    "label": "blocked"
+  },
+  {
+    "label": "unauthorizedcommercialuse"
+  },
+  {
+    "label": "watermarkprobequery"
+  },
+  {
+    "label": "authorizeduse"
+  },
+  {
+    "label": "watermarkdetected"
+  },
+  {
+    "label": "watermarkprobequery"
+  },
+  {
+    "label": "unauthorizedcommercialuse"
+  },
+  {
+    "label": "watermarkdetected"
+  },
+  {
+    "label": "usablebutnotvisible"
+  },
+  {
+    "label": "unauthorizedcommercialuse"
+  }
+]

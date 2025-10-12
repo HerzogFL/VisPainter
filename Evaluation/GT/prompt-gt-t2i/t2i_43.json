@@ -1,0 +1,56 @@
+[
+  {
+    "label": "llmunlearning"
+  },
+  {
+    "label": "parameteradjusting"
+  },
+  {
+    "label": "internalintervention"
+  },
+  {
+    "label": "parameterpreserving"
+  },
+  {
+    "label": "externalintervention"
+  },
+  {
+    "label": "gradientascent"
+  },
+  {
+    "label": "lossfunction"
+  },
+  {
+    "label": "preferenceoptimization"
+  },
+  {
+    "label": "editing"
+  },
+  {
+    "label": "taskvector"
+  },
+  {
+    "label": "incontextlearning"
+  },
+  {
+    "label": "thenumberofliteraturesdecreasesfromtoptobottom"
+  },
+  {
+    "label": "bias"
+  },
+  {
+    "label": "stereotypes"
+  },
+  {
+    "label": "toxicity"
+  },
+  {
+    "label": "misin"
+  },
+  {
+    "label": "fo"
+  },
+  {
+    "label": "privacy"
+  }
+]

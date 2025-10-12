@@ -1,0 +1,62 @@
+[
+  {
+    "label": "pctrpcvr"
+  },
+  {
+    "label": "mlptower"
+  },
+  {
+    "label": "featureinteractionmodule"
+  },
+  {
+    "label": "featureprocessinglayers"
+  },
+  {
+    "label": "pinfeatureembeddings"
+  },
+  {
+    "label": "pinsignals"
+  },
+  {
+    "label": "userfeatureembeddings"
+  },
+  {
+    "label": "usersignals"
+  },
+  {
+    "label": "pinuserinteractionembeddings"
+  },
+  {
+    "label": "interactionsignals"
+  },
+  {
+    "label": "userseqembeddings"
+  },
+  {
+    "label": "userseqsignals"
+  },
+  {
+    "label": "pinembedding"
+  },
+  {
+    "label": "pretrainedlargepinidembeddingtable"
+  },
+  {
+    "label": "pinid"
+  },
+  {
+    "label": "knowledgegraphembeddings"
+  },
+  {
+    "label": "pretrainedknowledgegraphembeddingtable"
+  },
+  {
+    "label": "advertiseriditemid"
+  },
+  {
+    "label": "imagesignatureuserid"
+  },
+  {
+    "label": "userseqtransformer"
+  }
+]

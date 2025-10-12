@@ -1,0 +1,68 @@
+[
+  {
+    "label": "audio"
+  },
+  {
+    "label": "preprocess"
+  },
+  {
+    "label": "msalayer"
+  },
+  {
+    "label": "fflayer"
+  },
+  {
+    "label": "convlayer"
+  },
+  {
+    "label": "convlayer"
+  },
+  {
+    "label": "linear"
+  },
+  {
+    "label": "sigmoid"
+  },
+  {
+    "label": "cif"
+  },
+  {
+    "label": "gatingnorm"
+  },
+  {
+    "label": "predictor"
+  },
+  {
+    "label": "text"
+  },
+  {
+    "label": "fflayer"
+  },
+  {
+    "label": "normadd"
+  },
+  {
+    "label": "fsmn"
+  },
+  {
+    "label": "normadd"
+  },
+  {
+    "label": "mha"
+  },
+  {
+    "label": "mha"
+  },
+  {
+    "label": "concat"
+  },
+  {
+    "label": "normadd"
+  },
+  {
+    "label": "outputlinear"
+  },
+  {
+    "label": "decoder"
+  }
+]

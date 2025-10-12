@@ -1,0 +1,131 @@
+[
+  {
+    "label": "individualrefugeeprofile"
+  },
+  {
+    "label": "foreachhostcountry"
+  },
+  {
+    "label": "emotionalagent"
+  },
+  {
+    "label": "traumaimpact"
+  },
+  {
+    "label": "familystress"
+  },
+  {
+    "label": "resilience"
+  },
+  {
+    "label": "mentalhealth"
+  },
+  {
+    "label": "socialisolation"
+  },
+  {
+    "label": "grade+explainablereasoning"
+  },
+  {
+    "label": "validator13"
+  },
+  {
+    "label": "yes"
+  },
+  {
+    "label": "no"
+  },
+  {
+    "label": "culturalagent"
+  },
+  {
+    "label": "languageskills"
+  },
+  {
+    "label": "culturaladapt"
+  },
+  {
+    "label": "workculture"
+  },
+  {
+    "label": "communityties"
+  },
+  {
+    "label": "interculturalsensitivity"
+  },
+  {
+    "label": "grade+explainablereasoning"
+  },
+  {
+    "label": "validator13"
+  },
+  {
+    "label": "yes"
+  },
+  {
+    "label": "no"
+  },
+  {
+    "label": "socialagent"
+  },
+  {
+    "label": "peernetworks"
+  },
+  {
+    "label": "institutionalsupport"
+  },
+  {
+    "label": "housingstability"
+  },
+  {
+    "label": "educationaccess"
+  },
+  {
+    "label": "socialintegration"
+  },
+  {
+    "label": "grade+explainablereasoning"
+  },
+  {
+    "label": "validator13"
+  },
+  {
+    "label": "yes"
+  },
+  {
+    "label": "no"
+  },
+  {
+    "label": "ethicalagent"
+  },
+  {
+    "label": "legalstatus"
+  },
+  {
+    "label": "discrimination"
+  },
+  {
+    "label": "fairaccess"
+  },
+  {
+    "label": "exploitation"
+  },
+  {
+    "label": "resourceallocation"
+  },
+  {
+    "label": "grade+explainablereasoning"
+  },
+  {
+    "label": "validator13"
+  },
+  {
+    "label": "yes"
+  },
+  {
+    "label": "no"
+  },
+  {
+    "label": "finalscore+reasoning+report"
+  }
+]

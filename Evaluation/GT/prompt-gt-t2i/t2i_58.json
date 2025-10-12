@@ -1,0 +1,80 @@
+[
+  {
+    "label": "expression"
+  },
+  {
+    "label": "textenc"
+  },
+  {
+    "label": "hierenc"
+  },
+  {
+    "label": "image"
+  },
+  {
+    "label": "fusion"
+  },
+  {
+    "label": "decoder"
+  },
+  {
+    "label": "globalmask"
+  },
+  {
+    "label": "expression"
+  },
+  {
+    "label": "v+lvlpretrainenc"
+  },
+  {
+    "label": "ft"
+  },
+  {
+    "label": "fv"
+  },
+  {
+    "label": "image"
+  },
+  {
+    "label": "expression"
+  },
+  {
+    "label": "decoder"
+  },
+  {
+    "label": "globalmask"
+  },
+  {
+    "label": "expression"
+  },
+  {
+    "label": "image"
+  },
+  {
+    "label": "vlpretrainenc"
+  },
+  {
+    "label": "ft"
+  },
+  {
+    "label": "fv"
+  },
+  {
+    "label": "cognition"
+  },
+  {
+    "label": "scores"
+  },
+  {
+    "label": "perception"
+  },
+  {
+    "label": "loopback"
+  },
+  {
+    "label": "hierenc"
+  },
+  {
+    "label": "instancemasks"
+  }
+]

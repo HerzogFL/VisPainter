@@ -1,0 +1,53 @@
+[
+  {
+    "label": "client"
+  },
+  {
+    "label": "server"
+  },
+  {
+    "label": "evaluation"
+  },
+  {
+    "label": "computegradients"
+  },
+  {
+    "label": "globalmodel"
+  },
+  {
+    "label": "privatedatabatch"
+  },
+  {
+    "label": "deepleakageattack"
+  },
+  {
+    "label": "recovereddatabatch"
+  },
+  {
+    "label": "globalmodelupdate"
+  },
+  {
+    "label": "modelmetrics"
+  },
+  {
+    "label": "intermediatemetrics"
+  },
+  {
+    "label": "overallmetrics"
+  },
+  {
+    "label": "everytrainingiteration"
+  },
+  {
+    "label": "everyattackrate"
+  },
+  {
+    "label": "onceattheend"
+  },
+  {
+    "label": "federatedlearningprocess"
+  },
+  {
+    "label": "deepleakageattackprocess"
+  }
+]

@@ -1,0 +1,71 @@
+[
+  {
+    "label": "Output Probabilities"
+  },
+  {
+    "label": "Softmax"
+  },
+  {
+    "label": "Linear"
+  },
+  {
+    "label": "Add & Norm"
+  },
+  {
+    "label": "Add & Norm"
+  },
+  {
+    "label": "Feed Forward"
+  },
+  {
+    "label": "Feed Forward"
+  },
+  {
+    "label": "Add & Norm"
+  },
+  {
+    "label": "Add & Norm"
+  },
+  {
+    "label": "Multi-Head Attention"
+  },
+  {
+    "label": "Multi-Head Attention"
+  },
+  {
+    "label": "Add & Norm"
+  },
+  {
+    "label": "Masked Multi-Head Attention"
+  },
+  {
+    "label": "N×"
+  },
+  {
+    "label": "N×"
+  },
+  {
+    "label": "+"
+  },
+  {
+    "label": "+"
+  },
+  {
+    "label": "Positional Encoding"
+  },
+  {
+    "label": "Positional Encoding"
+  },
+  {
+    "label": "Input Embedding"
+  },
+  {
+    "label": "Output Embedding"
+  },
+  {
+    "label": "Inputs"
+  },
+  {
+    "label": "Outputs (shifted right)"
+  }
+]

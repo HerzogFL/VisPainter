@@ -1,0 +1,134 @@
+[
+  {
+    "label": "visualperceptionsystem"
+  },
+  {
+    "label": "rgbimage"
+  },
+  {
+    "label": "thermalimage"
+  },
+  {
+    "label": "objectmasks"
+  },
+  {
+    "label": "depthimage"
+  },
+  {
+    "label": "liquidandvesselshape"
+  },
+  {
+    "label": "temperaturemap"
+  },
+  {
+    "label": "instancesegmentation"
+  },
+  {
+    "label": "6dposes"
+  },
+  {
+    "label": "liquidandvesselshape"
+  },
+  {
+    "label": "temperaturemap"
+  },
+  {
+    "label": "trajectoryplanningsubmodule"
+  },
+  {
+    "label": "objects"
+  },
+  {
+    "label": "digitaltwin"
+  },
+  {
+    "label": "objects"
+  },
+  {
+    "label": "taskformation"
+  },
+  {
+    "label": "constraintsolver"
+  },
+  {
+    "label": "moveit"
+  },
+  {
+    "label": "trajectoryfordigitaltwin"
+  },
+  {
+    "label": "digitaltwin"
+  },
+  {
+    "label": "physicsmodelingsubmodule"
+  },
+  {
+    "label": "fluidsimulation"
+  },
+  {
+    "label": "collisionchecking"
+  },
+  {
+    "label": "trajectorytransfersubmodule"
+  },
+  {
+    "label": "rosservers"
+  },
+  {
+    "label": "jointpositions"
+  },
+  {
+    "label": "robotiqgrippercommands"
+  },
+  {
+    "label": "endeffectorstates"
+  },
+  {
+    "label": "digitaltwin"
+  },
+  {
+    "label": "temperaturemap"
+  },
+  {
+    "label": "decisionmakingandexecutionhubunityengine"
+  },
+  {
+    "label": "ur3withmultifingergripper"
+  },
+  {
+    "label": "objects"
+  },
+  {
+    "label": "realsensed435camera"
+  },
+  {
+    "label": "temperaturesensor"
+  },
+  {
+    "label": "humanassistancemoduleoptional"
+  },
+  {
+    "label": "safetyoverridesystememergency"
+  },
+  {
+    "label": "endeffectorstates"
+  },
+  {
+    "label": "realsensed435camera"
+  },
+  {
+    "label": "temperaturesensor"
+  },
+  {
+    "label": "rgbimage"
+  },
+  {
+    "label": "thermalimage"
+  },
+  {
+    "label": "depthimage"
+  },
+  {
+    "label": "realenvironment"
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "label": "abseilingarcherycleanandjerkjavelinthrowfencingsprinting"
+  },
+  {
+    "label": "actioncategory"
+  },
+  {
+    "label": "gpt35turbo"
+  },
+  {
+    "label": "abseiling"
+  },
+  {
+    "label": "object"
+  },
+  {
+    "label": "cliff"
+  },
+  {
+    "label": "object"
+  },
+  {
+    "label": "rope"
+  },
+  {
+    "label": "tool"
+  },
+  {
+    "label": "carabiner"
+  },
+  {
+    "label": "attachedto"
+  },
+  {
+    "label": "harness"
+  },
+  {
+    "label": "subaction"
+  },
+  {
+    "label": "attachingtheropetotheharness"
+  },
+  {
+    "label": "subaction"
+  },
+  {
+    "label": "securingthecarabiner"
+  },
+  {
+    "label": "precedes"
+  },
+  {
+    "label": "attachingtheropetotheharness"
+  },
+  {
+    "label": "securingthecarabiner"
+  },
+  {
+    "label": "precondition"
+  },
+  {
+    "label": "safetycheck"
+  },
+  {
+    "label": "enables"
+  },
+  {
+    "label": "descending"
+  },
+  {
+    "label": "actioncategories"
+  },
+  {
+    "label": "staticconcepts"
+  },
+  {
+    "label": "dynamicconcepts"
+  },
+  {
+    "label": "preconditions"
+  },
+  {
+    "label": "askg"
+  }
+]

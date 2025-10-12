@@ -1,0 +1,137 @@
+[
+  {
+    "label": "topllayers"
+  },
+  {
+    "label": "gating"
+  },
+  {
+    "label": "softmax"
+  },
+  {
+    "label": "adap1"
+  },
+  {
+    "label": "adap2"
+  },
+  {
+    "label": "adap3"
+  },
+  {
+    "label": "h"
+  },
+  {
+    "label": "mh"
+  },
+  {
+    "label": "r"
+  },
+  {
+    "label": "finetune"
+  },
+  {
+    "label": "frozen"
+  },
+  {
+    "label": "regularized"
+  },
+  {
+    "label": "inputsequence"
+  },
+  {
+    "label": "zeroinitattention"
+  },
+  {
+    "label": "concat"
+  },
+  {
+    "label": "softmax"
+  },
+  {
+    "label": "extendedsequenceprompt"
+  },
+  {
+    "label": "k+r"
+  },
+  {
+    "label": "bottomnllayers"
+  },
+  {
+    "label": "softmax"
+  },
+  {
+    "label": "k"
+  },
+  {
+    "label": "q"
+  },
+  {
+    "label": "k"
+  },
+  {
+    "label": "k"
+  },
+  {
+    "label": "k"
+  },
+  {
+    "label": "kvanilla"
+  },
+  {
+    "label": "v"
+  },
+  {
+    "label": "v"
+  },
+  {
+    "label": "v"
+  },
+  {
+    "label": "vvanilla"
+  },
+  {
+    "label": "qkckvk+h+mh+rc"
+  },
+  {
+    "label": "softmaxqkd"
+  },
+  {
+    "label": "k"
+  },
+  {
+    "label": "k+mh+h+r"
+  },
+  {
+    "label": "svanilla"
+  },
+  {
+    "label": "s"
+  },
+  {
+    "label": "s"
+  },
+  {
+    "label": "s"
+  },
+  {
+    "label": "regularizer"
+  },
+  {
+    "label": "gating"
+  },
+  {
+    "label": "xg"
+  },
+  {
+    "label": "lcausal"
+  },
+  {
+    "label": "lreg"
+  },
+  {
+    "label": "nextlayer"
+  },
+  {
+    "label": "topllayers"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "label": "sam4d++"
+  },
+  {
+    "label": "prompt"
+  },
+  {
+    "label": "videos"
+  },
+  {
+    "label": "lidarstreams"
+  },
+  {
+    "label": "radarstreams"
+  },
+  {
+    "label": "promptencoder"
+  },
+  {
+    "label": "imageencoder"
+  },
+  {
+    "label": "lidarencoder"
+  },
+  {
+    "label": "radarencoder"
+  },
+  {
+    "label": "umpe"
+  },
+  {
+    "label": "mcma"
+  },
+  {
+    "label": "memorybank"
+  },
+  {
+    "label": "maskdecoder"
+  },
+  {
+    "label": "attentionfusionhead"
+  },
+  {
+    "label": "maskdecoder"
+  },
+  {
+    "label": "attentionfusionhead"
+  },
+  {
+    "label": "validobjectmaskoneachcameraandlidarframe"
+  },
+  {
+    "label": "attentionbasedfusionoutput"
+  }
+]

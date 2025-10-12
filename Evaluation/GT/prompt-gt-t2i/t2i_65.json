@@ -1,0 +1,44 @@
+[
+  {
+    "label": "ordinary"
+  },
+  {
+    "label": "benchmarks"
+  },
+  {
+    "label": "imsorryicannotfulfilltherequest"
+  },
+  {
+    "label": "promptgeneration"
+  },
+  {
+    "label": "fewshotlearning"
+  },
+  {
+    "label": "logprobabilityscoring"
+  },
+  {
+    "label": "jailbreakenhancement"
+  },
+  {
+    "label": "gptfuzzer"
+  },
+  {
+    "label": "deepinception"
+  },
+  {
+    "label": "jailbroken"
+  },
+  {
+    "label": "autodan"
+  },
+  {
+    "label": "renellm"
+  },
+  {
+    "label": "jailbench"
+  },
+  {
+    "label": "surehereismyanswerto"
+  }
+]

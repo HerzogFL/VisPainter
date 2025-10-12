@@ -1,0 +1,83 @@
+[
+  {
+    "label": "Evaluate the language features of S and A"
+  },
+  {
+    "label": "Actor Model"
+  },
+  {
+    "label": "Combination"
+  },
+  {
+    "label": "Q(S,a1)"
+  },
+  {
+    "label": "Q(S,a2)"
+  },
+  {
+    "label": "Q(S,a3)"
+  },
+  {
+    "label": "argmax"
+  },
+  {
+    "label": "Optimal a3"
+  },
+  {
+    "label": "Remove from Action Space"
+  },
+  {
+    "label": "Subtask iii"
+  },
+  {
+    "label": "LLM"
+  },
+  {
+    "label": "New Results"
+  },
+  {
+    "label": "New Context"
+  },
+  {
+    "label": "……"
+  },
+  {
+    "label": "Update"
+  },
+  {
+    "label": "Task Definition"
+  },
+  {
+    "label": "Original Text"
+  },
+  {
+    "label": "Intermediate Results"
+  },
+  {
+    "label": "Other Requirements"
+  },
+  {
+    "label": "Text and Requirements of subtask"
+  },
+  {
+    "label": "Subtask i"
+  },
+  {
+    "label": "Subtask ii"
+  },
+  {
+    "label": "Subtask iii"
+  },
+  {
+    "label": "State"
+  },
+  {
+    "label": "S"
+  },
+  {
+    "label": "Action"
+  },
+  {
+    "label": "A"
+  }
+]

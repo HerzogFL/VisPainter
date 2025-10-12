@@ -1,0 +1,107 @@
+[
+  {
+    "label": "inputfeatures"
+  },
+  {
+    "label": "localcontext"
+  },
+  {
+    "label": "iepedestrianbboxscontent"
+  },
+  {
+    "label": "globalcontext"
+  },
+  {
+    "label": "semanticsegmentation"
+  },
+  {
+    "label": "motion"
+  },
+  {
+    "label": "location"
+  },
+  {
+    "label": "lighting"
+  },
+  {
+    "label": "bodypose"
+  },
+  {
+    "label": "trafficsignals"
+  },
+  {
+    "label": "preprocessing"
+  },
+  {
+    "label": "norm"
+  },
+  {
+    "label": "embedding"
+  },
+  {
+    "label": "augment"
+  },
+  {
+    "label": "transform"
+  },
+  {
+    "label": "model"
+  },
+  {
+    "label": "3dc"
+  },
+  {
+    "label": "attn"
+  },
+  {
+    "label": "3dc"
+  },
+  {
+    "label": "fn"
+  },
+  {
+    "label": "tcn"
+  },
+  {
+    "label": "mlp"
+  },
+  {
+    "label": "c"
+  },
+  {
+    "label": "c"
+  },
+  {
+    "label": "c"
+  },
+  {
+    "label": "s"
+  },
+  {
+    "label": "s"
+  },
+  {
+    "label": "interaction"
+  },
+  {
+    "label": "featuremix"
+  },
+  {
+    "label": "posemlp"
+  },
+  {
+    "label": "sum"
+  },
+  {
+    "label": "output"
+  },
+  {
+    "label": "intentionclassificationcrossingnotcrossinghesitatingjaywalking"
+  },
+  {
+    "label": "confidencescore01"
+  },
+  {
+    "label": "temporalsequencelast5frames"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "label": "rmsnorm"
+  },
+  {
+    "label": "ffnblock"
+  },
+  {
+    "label": "rmsnorm"
+  },
+  {
+    "label": "attentionblock"
+  },
+  {
+    "label": "residualadd"
+  },
+  {
+    "label": "normalization"
+  },
+  {
+    "label": "inputembedding"
+  },
+  {
+    "label": "attentionoutput"
+  },
+  {
+    "label": "softmax"
+  },
+  {
+    "label": "attentionweights"
+  },
+  {
+    "label": "query"
+  },
+  {
+    "label": "rmsnorm"
+  },
+  {
+    "label": "key"
+  },
+  {
+    "label": "rmsnorm"
+  },
+  {
+    "label": "value"
+  }
+]

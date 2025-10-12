@@ -1,0 +1,131 @@
+[
+  {
+    "label": "trainingexecution"
+  },
+  {
+    "label": "onlytraining"
+  },
+  {
+    "label": "environment"
+  },
+  {
+    "label": "ris1"
+  },
+  {
+    "label": "sensor1"
+  },
+  {
+    "label": "ris2"
+  },
+  {
+    "label": "sensor2"
+  },
+  {
+    "label": "ris3"
+  },
+  {
+    "label": "sensor3"
+  },
+  {
+    "label": "risl"
+  },
+  {
+    "label": "sensorl"
+  },
+  {
+    "label": "bs"
+  },
+  {
+    "label": "userdevice"
+  },
+  {
+    "label": "schedulingaction"
+  },
+  {
+    "label": "bsprecodingaction"
+  },
+  {
+    "label": "userfeedback"
+  },
+  {
+    "label": "risaction"
+  },
+  {
+    "label": "channelestimation"
+  },
+  {
+    "label": "externaldatasource"
+  },
+  {
+    "label": "channelestimation"
+  },
+  {
+    "label": "policy"
+  },
+  {
+    "label": "parametersharing"
+  },
+  {
+    "label": "userfeedbackintegration"
+  },
+  {
+    "label": "schedulingactor"
+  },
+  {
+    "label": "bsprecodingactor"
+  },
+  {
+    "label": "userfeedbackanalyst"
+  },
+  {
+    "label": "risactor1"
+  },
+  {
+    "label": "risactor2"
+  },
+  {
+    "label": "risactor3"
+  },
+  {
+    "label": "risactorl"
+  },
+  {
+    "label": "actorloss"
+  },
+  {
+    "label": "feedbackloss"
+  },
+  {
+    "label": "precodingloss"
+  },
+  {
+    "label": "criticloss"
+  },
+  {
+    "label": "replaybuffer"
+  },
+  {
+    "label": "adamoptimizer"
+  },
+  {
+    "label": "resultprocessor"
+  },
+  {
+    "label": "intermediateresults"
+  },
+  {
+    "label": "reward"
+  },
+  {
+    "label": "centralizedcritic"
+  },
+  {
+    "label": "criticfeedback"
+  },
+  {
+    "label": "modelvalidator"
+  },
+  {
+    "label": "validationresult"
+  }
+]

@@ -1,0 +1,176 @@
+[
+  {
+    "label": "stage1"
+  },
+  {
+    "label": "expression"
+  },
+  {
+    "label": "textenc"
+  },
+  {
+    "label": "hierenc"
+  },
+  {
+    "label": "image"
+  },
+  {
+    "label": "fusion"
+  },
+  {
+    "label": "decoder"
+  },
+  {
+    "label": "globalmask"
+  },
+  {
+    "label": "auxpathways"
+  },
+  {
+    "label": "auxpathways"
+  },
+  {
+    "label": "auxpathways"
+  },
+  {
+    "label": "metacontext"
+  },
+  {
+    "label": "stage2"
+  },
+  {
+    "label": "expression"
+  },
+  {
+    "label": "image"
+  },
+  {
+    "label": "v+lvlpretrainenc"
+  },
+  {
+    "label": "ft"
+  },
+  {
+    "label": "ft"
+  },
+  {
+    "label": "ft"
+  },
+  {
+    "label": "ft"
+  },
+  {
+    "label": "fv"
+  },
+  {
+    "label": "fv"
+  },
+  {
+    "label": "fv"
+  },
+  {
+    "label": "fv"
+  },
+  {
+    "label": "fv"
+  },
+  {
+    "label": "fv"
+  },
+  {
+    "label": "fv"
+  },
+  {
+    "label": "fv"
+  },
+  {
+    "label": "featurecombiner"
+  },
+  {
+    "label": "decoder"
+  },
+  {
+    "label": "globalmask"
+  },
+  {
+    "label": "auxiliarymask"
+  },
+  {
+    "label": "stage3"
+  },
+  {
+    "label": "expression"
+  },
+  {
+    "label": "image"
+  },
+  {
+    "label": "vlpretrainenc"
+  },
+  {
+    "label": "ft"
+  },
+  {
+    "label": "ft"
+  },
+  {
+    "label": "ft"
+  },
+  {
+    "label": "ft"
+  },
+  {
+    "label": "fv"
+  },
+  {
+    "label": "fv"
+  },
+  {
+    "label": "fv"
+  },
+  {
+    "label": "fv"
+  },
+  {
+    "label": "fv"
+  },
+  {
+    "label": "fv"
+  },
+  {
+    "label": "fv"
+  },
+  {
+    "label": "fv"
+  },
+  {
+    "label": "cognition"
+  },
+  {
+    "label": "scores"
+  },
+  {
+    "label": "perception"
+  },
+  {
+    "label": "perception"
+  },
+  {
+    "label": "perception"
+  },
+  {
+    "label": "hierenc"
+  },
+  {
+    "label": "instancemasks"
+  },
+  {
+    "label": "knowledgebase"
+  },
+  {
+    "label": "contextualsignal"
+  },
+  {
+    "label": "loopback"
+  }
+]

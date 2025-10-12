@@ -1,0 +1,128 @@
+[
+  {
+    "label": "advancedopticalcommunicationsystem"
+  },
+  {
+    "label": "transmitter"
+  },
+  {
+    "label": "opticalfiberchannel"
+  },
+  {
+    "label": "receiver"
+  },
+  {
+    "label": "txdsp"
+  },
+  {
+    "label": "fecencoder"
+  },
+  {
+    "label": "dac"
+  },
+  {
+    "label": "iqm"
+  },
+  {
+    "label": "wdm"
+  },
+  {
+    "label": "80kmssmf"
+  },
+  {
+    "label": "edfa"
+  },
+  {
+    "label": "n"
+  },
+  {
+    "label": "roadm"
+  },
+  {
+    "label": "adddropnode"
+  },
+  {
+    "label": "dwdm"
+  },
+  {
+    "label": "icr"
+  },
+  {
+    "label": "adc"
+  },
+  {
+    "label": "fecdecoder"
+  },
+  {
+    "label": "rxdsp"
+  },
+  {
+    "label": "a"
+  },
+  {
+    "label": "b"
+  },
+  {
+    "label": "txdsparchitecture"
+  },
+  {
+    "label": "prbssource"
+  },
+  {
+    "label": "mapping"
+  },
+  {
+    "label": "tsgeneration"
+  },
+  {
+    "label": "tsinsertion"
+  },
+  {
+    "label": "feccoding"
+  },
+  {
+    "label": "c"
+  },
+  {
+    "label": "rxdsparchitecture"
+  },
+  {
+    "label": "adcosc"
+  },
+  {
+    "label": "amplification"
+  },
+  {
+    "label": "coarseframing"
+  },
+  {
+    "label": "noisefiltering"
+  },
+  {
+    "label": "cdfoto"
+  },
+  {
+    "label": "2dsearch"
+  },
+  {
+    "label": "jointestimation"
+  },
+  {
+    "label": "advancedcdcompensation"
+  },
+  {
+    "label": "cdc"
+  },
+  {
+    "label": "foc"
+  },
+  {
+    "label": "synchronization"
+  },
+  {
+    "label": "lmsequalization"
+  },
+  {
+    "label": "cpr"
+  }
+]

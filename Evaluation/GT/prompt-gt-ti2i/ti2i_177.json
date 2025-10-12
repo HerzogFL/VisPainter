@@ -1,0 +1,53 @@
+[
+  {
+    "label": "interleavedtextimagevideo"
+  },
+  {
+    "label": "whatswrittenonthisimage"
+  },
+  {
+    "label": "knowledgeispower"
+  },
+  {
+    "label": "textexamplethevalueofcontextinvisionlanguagemodels"
+  },
+  {
+    "label": "texttokenizervisualtransformer3dcausalvaeencoder"
+  },
+  {
+    "label": "embeddinglayer"
+  },
+  {
+    "label": "noisescheduler"
+  },
+  {
+    "label": "semanticlayers"
+  },
+  {
+    "label": "temporalembedding"
+  },
+  {
+    "label": "projector"
+  },
+  {
+    "label": "crossmodalfusionalignment"
+  },
+  {
+    "label": "showo2+"
+  },
+  {
+    "label": "causalcrossmodalfullattentionhierarchicalblocks"
+  },
+  {
+    "label": "lmhead"
+  },
+  {
+    "label": "visionhead"
+  },
+  {
+    "label": "flowhead"
+  },
+  {
+    "label": "textdetokenizervisiondecoder3dcausalvaedecoder"
+  }
+]

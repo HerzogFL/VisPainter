@@ -1,0 +1,110 @@
+[
+  {
+    "label": "fastvithd"
+  },
+  {
+    "label": "initialconvolution"
+  },
+  {
+    "label": "normalizationlayer"
+  },
+  {
+    "label": "stage1"
+  },
+  {
+    "label": "patchembedstride2"
+  },
+  {
+    "label": "stage2"
+  },
+  {
+    "label": "learnedpool"
+  },
+  {
+    "label": "spatialpooling"
+  },
+  {
+    "label": "patchembedstride2"
+  },
+  {
+    "label": "stage3"
+  },
+  {
+    "label": "patchembedstride2"
+  },
+  {
+    "label": "stage4"
+  },
+  {
+    "label": "learnedpool"
+  },
+  {
+    "label": "featureaggregation"
+  },
+  {
+    "label": "patchembedstride2"
+  },
+  {
+    "label": "stage5"
+  },
+  {
+    "label": "learnedpool"
+  },
+  {
+    "label": "featureaggregation"
+  },
+  {
+    "label": "c"
+  },
+  {
+    "label": "enhancedpoolandchannelwiseconcatenation"
+  },
+  {
+    "label": "connector"
+  },
+  {
+    "label": "dimensionalreduction"
+  },
+  {
+    "label": "featuremapping"
+  },
+  {
+    "label": "preprocessing"
+  },
+  {
+    "label": "tokenizer"
+  },
+  {
+    "label": "wordsegmentation"
+  },
+  {
+    "label": "embeddingconversion"
+  },
+  {
+    "label": "largelanguagemodel"
+  },
+  {
+    "label": "contextualunderstanding"
+  },
+  {
+    "label": "logicalreasoning"
+  },
+  {
+    "label": "responsegeneration"
+  },
+  {
+    "label": "answer"
+  },
+  {
+    "label": "convolutionalstem"
+  },
+  {
+    "label": "repmixerstage"
+  },
+  {
+    "label": "selfattentionstage"
+  },
+  {
+    "label": "c"
+  }
+]

@@ -1,0 +1,95 @@
+[
+  {
+    "label": "trainingprocess"
+  },
+  {
+    "label": "stage1"
+  },
+  {
+    "label": "visuallanguagepretraining"
+  },
+  {
+    "label": "3dreconstructiontraining"
+  },
+  {
+    "label": "mllm"
+  },
+  {
+    "label": "vit"
+  },
+  {
+    "label": "mlp"
+  },
+  {
+    "label": "lmtokenizer"
+  },
+  {
+    "label": "llm"
+  },
+  {
+    "label": "outputtext"
+  },
+  {
+    "label": "inputimage"
+  },
+  {
+    "label": "inputtext"
+  },
+  {
+    "label": "qwhatistheobjectinthehand"
+  },
+  {
+    "label": "atheobjectiscellphone"
+  },
+  {
+    "label": "stage2"
+  },
+  {
+    "label": "stagewisecotpreferencelearning"
+  },
+  {
+    "label": "21superviseddescription"
+  },
+  {
+    "label": "istheobjectinthehandround"
+  },
+  {
+    "label": "yes"
+  },
+  {
+    "label": "istheobjectinthehandthin"
+  },
+  {
+    "label": "no"
+  },
+  {
+    "label": "istheobjectinthehandlong"
+  },
+  {
+    "label": "yes"
+  },
+  {
+    "label": "22selfreflection"
+  },
+  {
+    "label": "isitcleartoidentifytheobjectinthehand"
+  },
+  {
+    "label": "no"
+  },
+  {
+    "label": "23finaldecision"
+  },
+  {
+    "label": "mllm"
+  },
+  {
+    "label": "mpo"
+  },
+  {
+    "label": "choseno"
+  },
+  {
+    "label": "rejectedyes"
+  }
+]
