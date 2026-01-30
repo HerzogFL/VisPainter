@@ -82,5 +82,13 @@ We would like to thank the open-source framework cline and SII for providing API
 ## ⛓️‍💥 Citation
 
 ```
-The arXiv link will be announced soon.
+@misc{sun2025pixelspathsmultiagentframework,
+      title={From Pixels to Paths: A Multi-Agent Framework for Editable Scientific Illustration}, 
+      author={Jianwen Sun and Fanrui Zhang and Yukang Feng and Chuanhao Li and Zizhen Li and Jiaxin Ai and Yifan Chang and Yu Dai and Kaipeng Zhang},
+      year={2025},
+      eprint={2510.27452},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2510.27452}, 
+}
 ```
